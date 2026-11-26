@@ -1,0 +1,485 @@
+sent_id	id	token	POS_gold	LEMMA_gold	GLOSE_gold	louis_l_pos	louis_l_lemma	louis_l_glose	louis_l_note	marianne_v_pos	marianne_v_lemma	marianne_v_glose	marianne_v_note	estele_dupuy_pos	estele_dupuy_lemma	estele_dupuy_glose	estele_dupuy_note	camille_t_pos	camille_t_lemma	camille_t_glose	camille_t_note
+101_Daudet_lundi_tr_pos	2	fasi	VERB	faere	fis	VERB	faire	fis		VERB	faere	faisais									
+10_contemarais46	6	prnun	VERB	prendre	prenons					VERB	prendre	prenons									
+10_contemarais46	12	vat	VERB	alàe						VERB	alàe										
+10_feltin - 20220308_tr_pos	2	Muçàe	VERB	muçàe	introduire	VERB	muçàe	introduire		VERB	muçàe	introduire									
+10_feltin - 20220308_tr_pos	22	garanti	VERB	garanti	sécuriser| garantir	VERB	garanti	sécuriser		VERB	garanti	garantir									
+10_feltin - 20220308_tr_pos	32	begnais	VERB	begnàe	baignés	VERB	begnàe	baignés		VERB	begnàe	baignés									
+10_leprincot-1	4	représentét	VERB	representàe	représentait					VERB	representàe	représentait	vérifier lemme	VERB		représentait	pas de forme infinitive chez St Exupéry				
+113_Daudet_lettres_tr_pos	1	Revén	VERB	revéndre	reviens	VERB	revéndre	reviens		VERB		Reviens	demander lemme								
+117_Daudet_lettres_tr_pos	3	sounét	VERB	sounàe	sonnait	VERB	sounàe	sonnait		VERB	sounàe	ne sonnait									
+117_Daudet_lettres_tr_pos	8	entendit	VERB	entendre	entendit	VERB	entendre	entendit		VERB		entendait	demander lemme								
+117_Daudet_lettres_tr_pos	13	frlassàe	VERB	frlassàe	bruire| faire du bruit	VERB	frlassàe	bruire		VERB	frlassàe	faire du bruit									
+11_Daudet_lettres_tr_pos	2	gangneras	VERB	gangnàe	gagneras	VERB	gangnàe	gagneras		VERB		gagneras	demander lemme								
+11_Daudet_lettres_tr_pos	12	aras	VERB	avàe	auras	VERB	avàe	auras		AUX	aver	auras									
+11_Daudet_lettres_tr_pos	23	peras	VERB	pere	pourras	VERB	pere	pourras		VERB		pourras	demander lemme								
+11_Daudet_lettres_tr_pos	25	faere	VERB	faere	faire	VERB	faere	faere		VERB	faere	faire									
+11_Daudet_lettres_tr_pos	26	vere	VERB	vere	voir| montrer	VERB	vere	voir		VERB	vere	montrer									
+11_Parabole de l'enfant prodigue_Saint-Maixent	6	meingé	VERB		dépensé en gaspillant| mangé	VERB		dépensé en gaspillant	lemme inconnu					VERB		mangé	pas de forme infinitive dans la parabole				
+11_Parabole de l'enfant prodigue_Saint-Maixent	9	v'nit	VERB		vint				problème de segmentation : v’nit = verbe venir					VERB		vint	v'nit forme avec élision vocalique				
+11_Parabole de l'enfant prodigue_Saint-Maixent	19	savait	VERB		savait	VERB		savait	lemme inconnu					VERB		savait	pas de forme infinitive dans la parabole				
+11_Parabole de l'enfant prodigue_Saint-Maixent	22	fouère	VERB	fouère	faire	VERB	fouère	faire						VERB	fouère	faire					
+11_Parabole de l'enfant prodigue_Saint-Maixent	25	vivre	VERB	vivre	vivre	VERB	vivre	vivre						VERB	vivre	vivre					
+11_PierreLoup_Pos	2	parolirant	VERB	parolàe	discutèrent	VERB	parolàe	discutèrent		VERB		discutèrent	demander lemme au traducteur								
+11_PierreLoup_Pos	9	najhant	VERB	najhàe	nageant	VERB	najhàe	nageant		VERB	najhàe	nageant									
+11_PierreLoup_Pos	17	parivolant	VERB	parivolàe	voltigeant	VERB	parivolàe	voltigeant		VERB		voltigeant	demander lemme								
+11_contemarais46	7	disit	VERB	dire	dit	VERB	dire	dit		VERB	dire	dit									
+11_contemarais46	14	propouse	VERB	propousàe	propose	VERB	prpousàe	propose		VERB	propousàe	propose						VERB	propousàe	propose	
+11_contemarais46	28	volerat	VERB	volàe	volera	VERB	volàe	volera		VERB		volera	demander lemme					VERB	volàe	volera	
+11_feltin-20210921_tr_pos	2	Couiquéz	VERB	couicàe	cliquez	VERB	couicàe	cliquez		VERB		Cliquez	demander lemme								
+11_fineamour	2	bouvit	VERB	bere	but	VERB	bere	but	lemme supposé									VERB	bouvit	but	*
+11_leprincot-1	2	représentét	VERB	représentàe	représentait	VERB	représentàe	représentait										VERB	représentàe	représentait	*
+11_leprincot-1	7	dijhérét	VERB	dijhéràe	digérait	VERB	dijhéràe	digérait										VERB	dijhéràe	digérait	*
+11_menteries-28	8	copai	VERB	copàe	coupé	VERB	copàe	coupé		VERB	copàe	coupé		VERB	copàe	coupé		VERB	copàe	coupé	
+121_Daudet_lundi_tr_pos	2	avét	VERB	aver	avait	VERB	avàe	avait		VERB	aver	avait									
+121_Daudet_lundi_tr_pos	20	aliant	VERB	alàe	allaient	VERB	alàe	allaient		VERB	alàe	allaient									
+121_Daudet_lundi_tr_pos	26	chaçant	VERB	chaçàe	chassant	VERB	chaçàe	chassant		VERB	chaçàe	chassant									
+124_Daudet_lundi_tr_pos	2	passant	VERB	passàe	passant	VERB	passàe	passant		VERB	passàe	passant									
+124_Daudet_lundi_tr_pos	7	entendét	VERB	entendre	entendait	VERB	entendre	entendait		VERB		entendait	demander lemme traducteur								
+124_Daudet_lundi_tr_pos	18	çheùsant	VERB	cheùre	tombant	VERB	çheùsàe	tombant		VERB	cheure	tombant	vérifier lemme								
+125_Daudet_lundi_tr_pos	10	rentriant	VERB	rentràe	rentraient	inconnu	rentràe	rentraient		VERB	rentràe	rentraient									
+125_Daudet_lundi_tr_pos	16	venét	VERB		revenait	VERB	venàe			VERB		revenait	demander lemme								
+129_Daudet_lundi_tr_pos	18	paraessét	VERB	parétre	paraissait	AUX	parétre	paraissait		VERB		apparaissaient	demande lemme au traducteur								
+129_Daudet_lundi_tr_pos	37	senblliant	VERB	senbllàe	semblaient	AUX	senbllàe	semblaient		VERB		semblaient									
+12_contemarais46	6	fét	VERB	faere	fait	VERB	faere	fait		VERB	faere	fait									
+12_fineamour	40	dit	VERB	dire	dit	VERB	dire	dit										VERB	dire	dit	
+12_fineamour	45	dounét	VERB	dounàe	donnait	VERB	dounàe	donnait										VERB	dounàe	donnait	
+12_leprincot-1	3	rimajhi	VERB	rimajhàe	dessinai	VERB	rimajhàe	dessinai		VERB	rimajhàe	ai dessiné		VERB	rimajhàe	dessine	Verbe P1 - glose: imager/dessiner/représenter				
+12_leprincot-1	18	pejhant	VERB	pere	puissent	VERB	pere	puissent		VERB	pere	puissent		VERB	pere	puissent	"Semi-auxiliaire, P6 ""pouvoir"""				
+12_leprincot-1	19	cunprendre	VERB	cunprendre	comprendre	VERB	cunprendre			VERB	cunprendre	comprendre		VERB	cunprendre	comprendre	infinitif ; noyau verbal				
+137_Daudet_lettres_tr_pos	4	véns	VERB	véndre	viens	VERB	véndre	viens		VERB		viens	vérifier lemme avec traducteur								
+137_Daudet_lettres_tr_pos	10	causerant	VERB	causàe	parleront	VERB	causàe	parleront		VERB	causàe	parleront									
+13_Parabole de l'enfant prodigue_Saint-Maixent	3	forcé	VERB		forcé	VERB		forcé	lemme inconnu					VERB		forcé					
+13_Parabole de l'enfant prodigue_Saint-Maixent	6	lougé	VERB		engager| loger	VERB		engager	lemme inconnu					VERB		loger	pas de forme infinitive dans la Parabole EP				
+13_Parabole de l'enfant prodigue_Saint-Maixent	15	enveillit	VERB		envoya	VERB		envoya	lemme inconnu					VERB		envoya	passé simple P3 - pas de forme infinitive dans la Parabole EP				
+13_Parabole de l'enfant prodigue_Saint-Maixent	25	gardaie	VERB	gardaie	garder	VERB	gardaie	garder						VERB	gardaie	garder	"forme verbale infinitif substantivée possible - dicopoitevin ""gardae"" infinitif"				
+13_leprincot-1	3	avant	VERB	avàe| aver	ont	VERB	avàe	ont		AUX	aver	ont									
+13_menteries-28	7	savét	VERB	savoer	savait	VERB		savait	lemme inconnu	VERB		savait	demander lemme					VERB	savoer	savais	*
+13_menteries-28	12	arivét	VERB	arivàe	arrivait	VERB	arivàe	arrivait		VERB	arivàe	arrivait						VERB	arivàe	arrivait	*
+13_menteries-28	16	veyét	VERB	vere	voyait	VERB	vere	voyait		VERB		voyait	demander lemme					VERB	voer	voyait	*
+13_menteries-28	19	atendét	VERB	atendre	attendait	VERB	atendre	attendait		VERB		attendait	demander lemme					VERB	atendre	attendait	*
+13_menteries-28	24	marche	VERB	marchàe	marche	VERB	marchàe	marche		VERB	marchàe	marche						VERB	marchàe	marche	*
+13_menteries-28	27	segre	VERB	segre	suivre	VERB	segre	suivre		VERB	segre	suivre						VERB	segre	suivre	*
+13_menteries-28	33	agrégnét	VERB	agrégnàe	excitait à se battre| excitait| exciter à se battre	VERB	agrégnàe	excitait à se battre		VERB		excitait	demander lemme					VERB	agrégnàe	exciter à se battre	*
+13_menteries-28	35	gorgnaflant	VERB	gornafllàe	grognant	VERB	gornafllàe	grognant		VERB		grognant	demander lemme					VERB	gornafllàe	grognant	*
+140_Daudet_lettres_tr_pos	3	at	VERB	aver	a	VERB	avàe	a		AUX	aver	a									
+142_Daudet_lundi_tr_pos	3	trlusiant	VERB	trlusàe	luisaient	VERB	trlusàe	luisaient		VERB	trlusàe	luisaient	vérifier lemme								
+142_Daudet_lundi_tr_pos	17	argardiant	VERB	argardàe	regardaient	VERB	argardàe	regardaient		VERB	argardàe	regardaient	vérifier lemme								
+142_Daudet_lundi_tr_pos	22	senblliant	VERB	senbllàe	semblaient	VERB	senbllàe	semblaient		VERB	senbllàe	semblaient	vérifier lemme								
+146_Daudet_lettres_tr_pos	9	alumiant	VERB	alumàe	allumaient	VERB	alumàe	allumaient		VERB	alumàe	alumaient	vérifier lemme								
+146_Daudet_lettres_tr_pos	19	jhapit	VERB	jhapàe	appela	VERB	jhapàe	appela		VERB	jhapàe	appela									
+146_Daudet_lettres_tr_pos	24	boutrant	VERB	boutràe	montrant	VERB	boutàe	montrant		VERB	boutràe	montrant									
+147_Daudet_lettres_tr_pos	4	dessit	VERB	dire	dit	VERB	dire	dit		VERB	dire	dit	vérifier lemme								
+14_PierreLoup_Pos	2	va	VERB	alàe	vais	VERB	alàe	vais		VERB		vais	demander le lemme au traducteur								
+14_PierreLoup_Pos	4	faere	VERB	faere	faire	VERB	faere	faire		VERB	faere	faire									
+14_contemarais46	1	Vela	VERB	vela	voilà	VERB	vela	vela		VERB	vela	voilà									
+14_contemarais46	14	cllapant	VERB	cllapàe	clapent| clapant	VERB	cllapàe	clapent		VERB	cllapàe	clapant									
+14_fineamour	2	rigolit	VERB	rigolàe	rigola	VERB	rigolàe	rigola										VERB	rigolàe	rigola	
+14_leprincot-1	12	cunsellirant	VERB	cunsellàe	conseillèrent	VERB	cunsellàe	conseillèrent										VERB	cunsellàe	conseillaient	
+14_leprincot-1	14	laechàe	VERB	laechàe	lâcher| laisser tomber	VERB	laechàe	lâcher										VERB	laechàe	laisser tomber	
+14_leprincot-1	30	éntéraessàe	VERB	éntéraessàe	intéresser	VERB	éntéraessàe	intéresser										VERB	éntéraessàe	intéresser	
+157_Daudet_lettres_tr_pos	2	rechtirun	VERB	rechtàe	restâmes	AUX	rechtàe	restâmes		VERB		restions	demander lemme au traducteur								
+15_Daudet_lundi_tr_pos	4	passét	VERB	passàe	passait	VERB	passàe	passait		VERB	passàe	passait									
+15_Daudet_lundi_tr_pos	6	repassét	VERB	repassàe	repassait	VERB	repassàe	repassait		VERB	repassàe	repassait									
+15_Parabole de l'enfant prodigue_Saint-Maixent	12	été	VERB	être	été	VERB	être	été						VERB	être	été	"présentatif 'ça/il avait été"""				
+15_Parabole de l'enfant prodigue_Saint-Maixent	16	arrivait	VERB		arrivait	VERB		arrivait	lemme inconnu					VERB		arrivait	pas de forme infinitive dans la la parabole				
+15_Parabole de l'enfant prodigue_Saint-Maixent	27	meingé	VERB		mangé	VERB		mangé	lemme inconnu					VERB		mangé	pas de forme infinitive dans la la parabole				
+15_Parabole de l'enfant prodigue_Saint-Maixent	34	portâit	VERB		portait	VERB		portait	lemme inconnu					VERB		portait					
+15_Parabole de l'enfant prodigue_Saint-Maixent	44	conviait	VERB		invitait| conviait	VERB		invitait	lemme inconnu					VERB		conviait	pas de forme infinitive dans la la parabole				
+15_Parabole de l'enfant prodigue_Saint-Maixent	49	prondre	VERB	prondre	prendre	VERB	prondre	prendre						VERB	prondre	prendre					
+160_Daudet_lettres_tr_pos	6	revéndirun	VERB	revéndre	revînmes	VERB	revéndre	revînmes		VERB		revînmes	demande lemme au traducteur								
+160_Daudet_lettres_tr_pos	20	amarai	VERB	amaràe	amarré	VERB	amaràe	amaré		VERB	amarai	amarré									
+16_Daudet_lundi_tr_pos	2	falit	VERB	felér	falut	VERB	felér	falut		VERB		faut	demander lemme								
+16_Daudet_lundi_tr_pos	3	uvri	VERB	uvri	ouvrir	VERB	uvri	ouvrir		VERB	uvri	ouvrir									
+16_Daudet_lundi_tr_pos	7	entràe	VERB	entràe	entrer	VERB	entràe	entrer		VERB	entràe	entrer									
+16_feltin - 20230207_tr_pos	6	at	VERB	aver	a	VERB		a	lemme inconnu	AUX	aver	a									
+16_feltin - 20230207_tr_pos	19	dit	VERB	dire	dit	VERB	dire	dit		VERB	dire	dit									
+174_Daudet_lettres_tr_pos	2	étét	VERB	étre	était	VERB	étre	était		VERB	étre	était									
+174_Daudet_lettres_tr_pos	10	queneùssiun	VERB	queneùtre	connaissions	VERB	queneùtre	connaissions		VERB		connaissions	demander lemme								
+176_Daudet_lettres_tr_pos	6	sunjhun	VERB	sunjhàe	pensons	VERB	sunjhàe	pensons		VERB	sunjhàe	pensons									
+176_Daudet_lettres_tr_pos	13	basit	VERB		périt	VERB		perit	lemme inconnu	VERB		périt	demander lemme								
+17_fineamour	8	métit	VERB	métre	mit	VERB	mettre	mit										VERB	métre	mit	*
+17_fineamour	10	dançàe	VERB	dançàe	danser	VERB	dançàe	danser										VERB	dançàe	danser	*
+17_leprincot-1	4	cunprenant	VERB	cunprendre	comprennent 	VERB	cunprendre	comprennent		VERB		ne comprennent	demande lemme								
+17_leprincot-1	26	dounàe	VERB	dounàe	donner	VERB	dounàe	donner		VERB	dounàe	donner									
+17_leprincot-1	31	devi	VERB	devàe	devais| dus	VERB	devàe	devais		VERB		dus	demander lemme								
+17_leprincot-1	33	choesi	VERB	choesi	choisir	VERB	choesi	choisir		VERB	choesi	choisir									
+17_leprincot-1	41	aprenghi	VERB	aprenre	appris	VERB	aprenre	appris		VERB		appris	demander lemme								
+17_leprincot-1	43	menàe	VERB	menàe	mener| piloter	VERB	menàe	mener		VERB	menàe	piloter									
+180_Daudet_lettres_tr_pos	12	coute	VERB	coutàe	coûte	VERB	coutàe	coûte		VERB		coûte	demander lemme								
+181_Daudet_lettres_tr_pos	3	paraetrét	VERB	parétre	paraîtrait	VERB	parétre	paraîtrait		VERB	parétre	paraîtrait	lemme à vérifier								
+181_Daudet_lettres_tr_pos	15	relevant	VERB	relevàe	relevant	VERB	relevàe	relevant		VERB	relevàe	relevant	à vérifier								
+181_Daudet_lettres_tr_pos	20	avisai	VERB	avisàe	aperçu	VERB	avisàe	aperçu		no_pos	avisàe	aperçu	lemme à vérifier								
+181_Daudet_lettres_tr_pos	37	foujhét	VERB	foujhi	fuyait	VERB	foujhi	fuyait		VERB		fuyait	lemme à demander au traducteur								
+189_Daudet_lettres_tr_pos	5	étét	VERB	étre	était	VERB	étre	était		AUX	étre	était									
+189_Daudet_lettres_tr_pos	14	avét	VERB	aver	avait	VERB	avàe	avait		VERB	aver	avait									
+189_Daudet_lettres_tr_pos	16	poghu	VERB	pevér	pu	VERB	pere	pu		VERB	pevér	pu									
+189_Daudet_lettres_tr_pos	17	sorti	VERB	sorti	sortir	VERB	sorti	sortir		VERB	sorti	sortir									
+189_Daudet_lettres_tr_pos	29	uvrant	VERB	uvri	ouvrant	VERB	uvri	ouvrant		VERB	uvri	ouvrant									
+189_Daudet_lettres_tr_pos	35	vu	VERB	vere	vu	VERB	voer	vu		VERB	vere	vu									
+18_feltin - 20230207_tr_pos	16	at	VERB	aver	a	VERB		a	lemme inconnu	AUX	aver	est									
+18_feltin - 20230207_tr_pos	23	avisounàe	VERB	avisounàe	concevoir| envisager	VERB	avisounàe	concevoir		VERB	avisounàe	envisager									
+18_leprincot-1	2	voli	VERB	volàe	vola	VERB	volàe	vola						VERB	volàe	ai volé	passé révolu donc à renrd par un temps composé en français				
+198_Daudet_lettres_tr_pos	3	enmenais	VERB	enmenàe	emmenés	VERB	enmenàe	emmenés		VERB	enmenàe	emmenés									
+198_Daudet_lettres_tr_pos	9	gardirun	VERB	gardàe	gardâmes	VERB	gardàe	gardâmes		VERB	gardàe	gardâmes									
+19_Daudet_lettres_tr_pos	7	cuprnét	VERB	cunprendre	comprenait	VERB	cunprendre	comprennait		VERB		comprenait	demander lemme au traducteur								
+19_Daudet_lettres_tr_pos	16	désarmai	VERB	désarmàe	désarmé| consterné	ADJ	désarmai	désarmé		ADJ	désarmai	consterné									
+19_Parabole de l'enfant prodigue_Saint-Maixent	10	meingeant	VERB		mangent	VERB		mangent	lemme inconnu	VERB											
+19_Parabole de l'enfant prodigue_Saint-Maixent	18	saie	VERB	être	suis	VERB	être	suis		VERB	être										
+19_Parabole de l'enfant prodigue_Saint-Maixent	21	crevaie	VERB	crevaie	crever	VERB	crevaie	crever		VERB	crevaie										
+19_Parabole de l'enfant prodigue_Saint-Maixent	25	faut	VERB		faut	VERB		faut	lemme inconnu	VERB											
+19_PierreLoup_Pos	3	vesticllét	VERB	vesticllàe	rôdait	VERB	vesticllàe	rôdait						VERB		rôdait	"pas de forme infinitive chez Prokofiev - dicopoitevin ""vesticàe vi. s'agiter."""				
+19_PierreLoup_Pos	10	demandant	VERB	demandàe	demandant	VERB	demandàe	demandant						VERB		demandant	"Pas de forme infinitive dans Prokofiev -Dicopoitevin ""demandàe vt. demander."""				
+19_PierreLoup_Pos	19	gravàe	VERB	gravàe	grimper	VERB	gravàe	grimper						VERB	gravàe	grimper	"Dicopoitevin ""gravàe (1) vt/i. monter, grimper."""				
+19_contemarais46	7	queneùt	VERB	queneùtre	connaît	VERB	queneùtre	connaît										VERB	queneùtre	connaît	*
+19_feltin - 20230207_tr_pos	10	ét	VERB	étre	est	VERB	étre	est		AUX	étre	est									
+19_feltin - 20230207_tr_pos	11	entendu	VERB	entendre	entendu	VERB	entendre	entendu		VERB		entendu	demander le lemme au traducteur								
+19_feltin - 20230207_tr_pos	15	at	VERB	aver	a	VERB		a	lemme inconnu	AUX	aver	a									
+19_feltin - 20230207_tr_pos	29	at	VERB	aver	a	VERB		a	lemme inconnu	AUX	aver	a									
+19_fineamour	4	danciant	VERB	dançàe	dansaient	VERB	dançàe	dansaient		VERB	dançàe	dançaient	lemme à vérifier	VERB	danciant	dançait	P6 Verbe - glose en P3 (sujet singulier collectif avec Verbe au pluriel)				
+19_leprincot-1	11	ajhudit	VERB	ajhudàe	aida	VERB	ajhudàe	aida										VERB	ajhudàe	aida	*
+1_Parabole de l'enfant prodigue_Saint-Maixent	18	compousée	VERB		écrit| composé	VERB		écrit	lemme inconnu	VERB		composé									
+1_leprincot-1	5	avàe	VERB	avér	avais					AUX	aver	avais	vérifier postag VERB ou AUX	VERB	avér	avais	imparfait de l'indicatif P1				
+1_leprincot-1	9	véyi	VERB	vére	vis					VERB	vére	voyais		VERB	vére	vis	passé simple indicatif P1				
+1_leprincot-1	28	noumét	VERB	noumàe	nommait					VERB	noumàe	nommait		VERB		nommait	"glose ""s'intitulait""; imparfait indicatif P3pas de forme infinitive du verbe ""nommer"" dans St Exupéry PP"				
+20_Parabole de l'enfant prodigue_Saint-Maixent	4	ai	VERB		ai	VERB		ai	lemme inconnu					VERB		ai	"pas de forme infinitive de ""avoir"" dans ""parabole de l'enfant prodigue""/ présent indicatif P1 "				
+20_Parabole de l'enfant prodigue_Saint-Maixent	11	fouère,	VERB	fouère	faire	VERB	fouère	faire						VERB	fouère	faire	infinitif dans le texte source				
+20_Parabole de l'enfant prodigue_Saint-Maixent	18	allaie	VERB	allaie	aller	VERB	allaie	aller						VERB	allaie	aller	infinitif dans le texte source				
+20_Parabole de l'enfant prodigue_Saint-Maixent	19	trouvaie	VERB	trouvaie	trouver	VERB	trouvaie	trouver						VERB	trouvaie	trouver	infinitif dans le texte source				
+20_Parabole de l'enfant prodigue_Saint-Maixent	25	fouère	VERB	fouère	faire	VERB	fouère	faire						VERB	fouère	faire	infinitif dans le texte source				
+20_feltin-20210921_tr_pos	2	at	VERB	aver	a	VERB		a	lemme inconnu	AUX	aver	a									
+20_feltin-20210921_tr_pos	9	voer	VERB	voer	voir	VERB	voer	voir		VERB	voer	voir									
+20_feltin-20210921_tr_pos	15	aedàe	VERB	aedàe	aider| maîtriser	VERB	aedàe	aider		VERB	aedàe	maîtriser									
+20_feltin-20210921_tr_pos	18	fàut	VERB	felér	faut	VERB	felér	faut		VERB			demander lemme								
+20_feltin-20211123_tr_pos	3	causant	VERB	causàe	parlent	VERB	causàe	parlent		VERB	causàe	parlent									
+20_feltin-20211123_tr_pos	6	savun	VERB		savons	VERB		savons	lemme inconnu	no_pos											
+212_Daudet_lettres_tr_pos	3	brénbale	VERB	brénbalàe	tangue	VERB	brénbalàe	tangue		VERB			Compléter								
+212_Daudet_lettres_tr_pos	10	ténre	VERB	ténre	tenir	VERB	ténre	tenir		VERB	ténre	tenir									
+213_Daudet_lettres_tr_pos	2	càuse	VERB	causàe	parle	VERB	causàe	parle	"a accentué alors qu'il utilise ""causàe"", modification du lemme ?"	VERB	causàe	parle									
+213_Daudet_lettres_tr_pos	13	acrapougnant	VERB	acrapougnàe	aggripant	VERB	acrapougnàe	agrippant		VERB	acrapougnàe	aggripant	vérifier lemme								
+213_Daudet_lettres_tr_pos	18	fàut	VERB	felér| faloer	faut	VERB	felér	faut	lemme pas connu, même phénomène pour le a accentué	VERB	faloer	faut	vérifier lemme								
+213_Daudet_lettres_tr_pos	19	huchàe	VERB	huchàe	crier	VERB	huchàe	crier		VERB	huchàe	crier									
+213_Daudet_lettres_tr_pos	23	entendre	VERB	entendre	entendre	VERB	entendre	entendre		VERB	entendre	entendre									
+21_contemarais46	10	dounét	VERB	dounàe	donnait	VERB	dounàe	donnait						VERB	dounàe	donnait					
+21_contemarais46	13	açheùrét	VERB	açheùràe	donnait du cœur à l’ouvrage| avait à cœur de	VERB	açheùràe	donnait du cœur à l’ouvrage						VERB		avait à cœur de	"pas de forme infinitive dans Bidaude - Dicopoitevin ""açheùràe vt. donner du cœur à l'ouvrage."" / DMF ATILF ""ACURER, verbe [T-L : acurer ; GD : acurer ; FEW II-2, 1559a : curare] I. -  Empl. trans. dir. Acurer qqc. ""Se préoccuper de, se soucier de""  II. -  Empl. trans. indir. Acurer à/de qqc. ""Se préoccuper de, s'employer à"""""				
+21_contemarais46	19	savét	VERB	savoer	savait	VERB	savàe	savait						VERB	savoer	savait	"glose possible ""pouvait"" (voir DMF ATILF ""savoir 1"")"				
+21_contemarais46	26	rendue	VERB	rendre	rendue| arrivée	VERB	rendre	rendue						VERB		arrivée	pas de forme infinitive chez Bidaude				
+21_fineamour	3	amenai	VERB	amenàe	apporté| amené	VERB	amenàe	apporté		VERB	amenàe	amené									
+21_fineamour	8	éloesiant	VERB	éloesàe	faisaient des éclairs| lançaient	VERB	éloesàe	faisaient des éclairs		VERB		lançaient	demander lemme								
+21_leprincot-1	10	écartai	VERB	écartàe	égaré	VERB	écartàe	égaré		VERB	écartàe	égaré									
+220_Daudet_lettres_tr_pos	3	ét	VERB	étre	est	VERB	étre	est		VERB	étre	est									
+221_Daudet_lettres_tr_pos	3	arive	VERB	arivàe	arrive	VERB	arivàe	arrive		VERB	arivàe	arrive									
+222_Daudet_lettres_tr_pos	5	vét	VERB	véndre	vient	VERB	véndre	vient		VERB		vient	demander lemme								
+222_Daudet_lettres_tr_pos	8	nalàe	VERB	nalàe	partir	VERB	nalàe	partir	se nalàe : partir	VERB	nalàe	partir									
+222_Daudet_lettres_tr_pos	13	dit	VERB	dire	dit	VERB	dire	dit		VERB		dit	demander lemme								
+222_Daudet_lettres_tr_pos	19	travrse	VERB	travrsàe	traverse	VERB	travrsàe	traverse		VERB	travrsàe	traverse	vérifier lemme								
+22_contemarais46	6	at	VERB	avoer	a	VERB	avoer	a						VERB	avoer	a	présentatif/ lemma				
+22_contemarais46	11	croéyét	VERB		croyait	VERB		croyait	lemme inconnu					VERB		croyait	pas de forme infinitive dans le texte de Bidaude				
+22_leprincot-1	2	fét	VERB	faere	fait	VERB	faere	fait		VERB	faere	fait						VERB	faere	fait	
+22_leprincot-1	6	oghi	VERB	avér	eus	VERB	avàe	eus		VERB		eus						VERB	aver	eus	
+23_leprincot-1	2	vivi	VERB	vivàe| vivre	vis	VERB	vivàe	vis										VERB	vivre	vécus	
+24_contemarais46	2	émajhine	VERB	émajhinàe	imagine	VERB	émajhinàe	imagine										VERB	émajhinàe	imagine	@repris louis
+24_contemarais46	7	rendu	VERB	rendre	rendu	VERB	rendre	rendu										VERB	rendre	rendu	@repris louis
+24_contemarais46	24	calai	VERB	calàe	enfoncé	VERB	calàe	enfoncé										VERB	calàe	enfoncé	
+24_fineamour	2	vélit	VERB	velér	voulut	VERB	velér	voulut													
+24_fineamour	3	ralumàe	VERB	ralumàe	rallumer	VERB	ralumàe	rallumer													
+24_universal_tr_pos	5	ar	VERB	aver	a	VERB		a	lemme inconnu	VERB	aver	a le	vérifier la forme avec le traducteur								
+24_universal_tr_pos	8	queri	VERB	queri	chercher| recourir	VERB	queri	chercher		VERB	queri	recourir									
+24_universal_tr_pos	19	forçant	VERB	forçàe	violant	VERB	forçàe	violant		ADJ	forçant	violant									
+24_universal_tr_pos	26	aqueneùssus	VERB	aqueneùtre	reconnus	VERB	aqueneùtre	reconnus		VERB		reconnus	demander lemme								
+25_fineamour	3	oghut	VERB	avoer	eut	VERB	avoer	eut										VERB	aver	eut	
+25_fineamour	5	fét	VERB	faere	fait	NOUN	fét	fait										VERB	faere	fait	
+25_fineamour	7	décrochetàe	VERB	décrochetàe	décrocher	VERB	décrochetàe	décrocher										VERB	décrochetàe	décrocher	
+25_leprincot-1	5	abounesi	VERB	abounesi	amélioré	VERB	abounesi	amélioré						VERB		amélioré	abounesi/-r: vt. améliorer, bonifier ; [vi] s'améliorer. dicopoitevin				
+26_PierreLoup_Pos	4	paechit	VERB	paechàe	prit	VERB	paechàe	prit		VERB	paechàe										
+26_PierreLoup_Pos	12	enmenit	VERB	enmenàe	emmena	VERB	enmenàe	emmena		VERB	enmenàe										
+26_PierreLoup_Pos	17	trollit	VERB	trollàe	verrouilla	VERB	trollàe	verrouilla		VERB	trollàe		lemme à vérifier (supposition)								
+26_fineamour	2	cllértét	VERB	cllértàe	éclairait| brillait	VERB	cllértàe	éclairait		VERB		brillait	vérifier lemme								
+26_fineamour	12	dounét	VERB	dounàe	donnait	VERB	dounàe	donnait		VERB	dounàe	donnait									
+27_contemarais46	5	dit	VERB	dire	dit	VERB	dire	dit						VERB	dire	dit					
+27_contemarais46	9	dét	VERB	devér	doit	VERB	devér	doit						VERB		doit	pas de forme infinitive chez Bidaude				
+27_fineamour	3	fini	VERB	fini	fini	VERB	fini	fini										VERB	finir	fini	
+27_fineamour	7	ouvri	VERB	ouvri	ouvrir	VERB	ouvri	ouvrir										VERB	ouvri	ouvrir	
+27_fineamour	13	oghisse	VERB	avoer	eût	VERB	avàe	eût										VERB	aver	eût	
+27_fineamour	20	pllénissiant	VERB	plléndre	plaignaient	VERB	plléndre	plaignaient										VERB	plléndre	plaignissent	
+27_fineamour	26	achalét	VERB	achalàe	chauffait| mettait en colère	VERB	achalàe	chauffait										VERB	achalàe	mettait en colère	
+27_fineamour	37	pouvét	VERB	pever	pouvait	VERB		pouvait	variante, pas de lemme connu									VERB	pever	pouvait	
+27_fineamour	40	acotàe	VERB	acotàe	résister| supporter	VERB	acotàe	résister										VERB	acotàe	supporter	
+27_leprincot-1	2	velàe	VERB	velér	voulais	VERB	velàe	voulais		VERB	velér	voulais									
+27_leprincot-1	3	savér	VERB	savér	savoir	VERB	savér	savoir		VERB	savér	savoir									
+28_Daudet_lundi_tr_pos	4	arivai	VERB	arivàe	arrivé	VERB	arivàe	arrivé		VERB	arivàe	arrivé									
+28_Daudet_lundi_tr_pos	9	éncitàe	VERB	éncitàe	enseigner	VERB	éncitàe	enseigner		VERB	éncitàe	enseigner									
+28_Daudet_lundi_tr_pos	30	arive	VERB	arivàe	arrive	VERB	arivàe	arrive		VERB	arivàe	arrive									
+28_PierreLoup_Pos	5	nalai	VERB	nalàe	allé| parti	VERB	nalàe	allé		VERB	nalàe	parti									
+28_PierreLoup_Pos	13	arachit	VERB	arachàe	arracha| sortit	VERB	arachàe	arracha		VERB		sortit	demander lemme								
+29_PierreLoup_Pos	7	grapinit	VERB	grapinàe	grimpa	VERB	grapinàe	grimpa		VERB	grapinàe	grimpa									
+2_Daudet_lundi_tr_pos	4	di	VERB	dire	dit	VERB	dire	dit		VERB		dit									
+2_Daudet_lundi_tr_pos	8	quésciounerét	VERB	quésciounàe	questionnerait	VERB	quésciounàe	questionnerait		VERB		questionnera									
+2_Daudet_lundi_tr_pos	17	savàe	VERB	savàe	savais	VERB	savàe	savais		VERB		savais									
+2_feltin-20210921_tr_pos	12	éméyant	VERB	éméyàe	inquiètent	VERB	éméyàe	inquiètent		VERB		inquiètent	demander lemme au traducteur								
+2_fineamour	13	désabriant	VERB	désabriàe	découvrent	VERB	désabriàe	découvrent										VERB	désabriàe	découvraient	
+2_leprincot-1	2	représentét	VERB	représentàe	représentait	VERB	représentàe	représentait		VERB	représentàe	représentait									
+2_menteries-28	2	étàe	VERB	étre	étais	AUX	étre	étais						VERB		étais	"il n'y a pas la forme infinitive de ""être"" chez Ribouillault"	VERB	étre	étais	
+2_menteries-28	20	aboute	VERB	aboutàe	débouche	VERB	aboutàe	aboutit						VERB		aboudit	"pas de forme infinitive de ""aboutir"" dans le texte source de Ribouillault ; glose ""débouche sur/aboudit au"""	VERB	aboutàe	donner sur	
+30_Daudet_lundi_tr_pos	6	bracirant	VERB	braçàe	bouleversèrent	VERB	braçàe	bouleversèrent		VERB	braçàe	bouleversèrent									
+30_PierreLoup_Pos	4	halit	VERB	halàe	précipita| s'extirpa	VERB	halàe	précipita		VERB	halàe	précipita	lemme à vérifier	VERB		s'extirpa	"pas de forme infinitive dans Prokofiev - Dicopoitevin ""halàe vt. ôter ; (se -) se précipiter."" - DMF ATILF HALER, verbe [T-L : haler ; GD : haller2 ; GDC : haler1 ; DEAF, H99  ; AND : haler1 ; FEW XVI, 130a : *halon ; TLF : IX, 652a : haler1] A. -  MAR. ""Tirer (un bateau) pour le faire avancer""  B. -  ""Tirer péniblement"" / "				
+30_PierreLoup_Pos	9	cacassant	VERB	cacassàe	caquetant	VERB	cacassàe	caquetant		VERB	cacassàe	caquetant	lemme à vérifier	VERB		caquetant	"Pas de forme infinitive chez Prokfiev - Dicopoitevin ""cacassàe vi. caqueter, bavarder, cancaner ; bégayer."" - pas de forme dans DMF "				
+30_fineamour	2	entendét	VERB	entendre	entendait	VERB	entendre	entendait		VERB		entendait	demander lemme								
+30_fineamour	17	marchais	VERB	marchàe	marchés| piétinées	VERB	marchàe	marchés		VERB	marchàe	piétinées									
+30_leprincot-1	3	sacàe	VERB	sacàe	mettais	VERB	sacàe	mettais		VERB	sacàe	mettais									
+31_contemarais46	2	faut	VERB	felér	faut	VERB	felér	faut	lemme supposé	VERB		faut	demander lemme	VERB		faut	"verbe ""falloir"" P3 impersonnel présent de l'indicatif / semi-aux avec ""causàe"""				
+31_contemarais46	5	causàe	VERB	causàe	parler	VERB	causàe	parler		VERB	causàe	parlait		VERB	causàe	parler	verbe infinitif				
+31_leprincot-1	3	causàe	VERB	causàe	parlais	VERB	causàe	parlais		VERB	causàe	parlais									
+32_contemarais46	3	défunce	VERB	défunçàe	perce	VERB	défunçàe	perce		VERB		perce	demander lemme à l'autrice								
+32_contemarais46	9	arive	VERB	arivàe	arrive	VERB	arivàe	arrive		VERB	arivàe	arrive									
+33_feltin-20211123_tr_pos	14	agriche	VERB	agrichàe	prend| reçoit	VERB	agrichàe	prend		VERB		reçoit	demander lemme au traducteur								
+33_feltin-20211123_tr_pos	19	ésprime	VERB	ésprimàe	exprime	VERB	ésprimàe	exprime		VERB		exprime	demander lemme								
+33_feltin-20211123_tr_pos	23	décachéte	VERB	décachétàe	découvre	VERB	décachétàe	découvre	lemme supposé	VERB		découvre	demander lemme								
+33_fineamour	22	débauchai	VERB	débauchàe	débauché| licencié						débauchàe	débauché						VERB	débauchàe	licencié	*
+34_PierreLoup_Pos	10	argardét	VERB	argardàe	regardait| observait	VERB	argardàe	regardait		VERB		observait									
+34_PierreLoup_Pos	14	passét	VERB	passàe	passait	VERB	passàe	passait		VERB	passàe	passait									
+34_PierreLoup_Pos	20	coutisse	VERB	coutàe	coutât	VERB	coutàe	coutât		VERB		coûte									
+34_feltin - 20230207_tr_pos	3	fàut	VERB	felér	faut	VERB	felér	faut		VERB		faut	demander lemme								
+34_feltin - 20230207_tr_pos	4	étre	VERB	étre	être	VERB	étre	être		VERB	étre	être	vérifier la forme et le lemme avec traducteur								
+34_feltin - 20230207_tr_pos	9	acértenàe	VERB	acértenàe	affirmer| soutenir	VERB	acértenàe	affirmer		VERB	acértenàe	soutenir									
+34_feltin - 20230207_tr_pos	17	gardàe	VERB	gardàe	garder| réserver	VERB	gardàe	garder		VERB	gardàe	réserver									
+34_feltin - 20230207_tr_pos	27	usàe	VERB	usàe	utiliser	VERB	usàe	utiliser		VERB	usàe	utiliser									
+34_feltin - 20230207_tr_pos	35	défendant	VERB	défendre	défendant	VERB	défendre	défendant		VERB		défendant	demander lemme au traducteur								
+34_feltin-20211123_tr_pos	7	énposàe	VERB	énposàe	imposer	VERB	énposàe	imposer		VERB	énposàe	imposer									
+34_feltin-20211123_tr_pos	29	boutràe	VERB	boutràe	montrer	VERB	boutràe	montrer		VERB	boutràe										
+35_Daudet_lundi_tr_pos	2	aprenràe	VERB	aprenre	apprendrais	VERB	aprenre	apprendrais		VERB		apprendrai	vérifier lemme								
+35_contemarais46	3	argarde	VERB	argardàe	regarde	VERB	argardàe	regarde		VERB	argardàe	regarde						VERB	argardàe	regarde	
+35_contemarais46	9	voet	VERB	voer	voit	VERB	voer	voit		VERB	voer	voir						VERB	voer	voit	
+35_feltin - 20230207_tr_pos	2	at	VERB	aver	a	VERB		a	lemme inconnu	AUX	aver	a									
+35_feltin-20211123_tr_pos	4	avali	VERB	avali	rabaissé| dévaloriser	VERB	avalir	rabaissé		VERB	avali	dévaloriser									
+36_contemarais46	3	sunjhe	VERB	sunjhàe	se dit| songe					VERB	sunjhàe	se dit		VERB	sunjhàe	songe	P3 - sujet 0				
+36_contemarais46	10	dét	VERB		doit					VERB		doit		VERB		doit	"P3 - SEMI-AUXILIAIRE/ on ne trouve pas l'infinitif de ""devoir"" dans le texte source de Bidaude"				
+36_contemarais46	15	ét	VERB	étre	est					VERB	étre	c'est		VERB	étre	est	"présentatif - glose ""c'est"" - P3"				
+36_feltin-20210921_tr_pos	15	voet	VERB	voer	voit	VERB	vere	voit		VERB	voer	voit	vérifier lemme								
+37_PierreLoup_Pos	4	dissit	VERB	dire	dit	VERB	dire	dit						VERB		dit	dire P3, pas de forme infinitive chez Prokofiev				
+37_PierreLoup_Pos	11	Marche	VERB	marchàe	va| avance	INTJ	marchàe	va						VERB		avance	pas de forme infinitive chez Prokofiev				
+37_PierreLoup_Pos	12	parivolàe	VERB	parivolàe	voltiger	VERB	parivolàe	voltiger						VERB	parivolàe	voltiger	inifinitif ou participe passé - en volant				
+37_PierreLoup_Pos	27	faere	VERB	faere	faire	VERB	faere	faire						VERB	faere	faire					
+37_PierreLoup_Pos	28	gobàe	VERB	gobàe	attraper| manger	VERB	gobàe	attraper						VERB	gobàe	manger	"glose autre ""avaler/gober"""				
+37_feltin-20210921_tr_pos	4	rapele	VERB	rapelàe	rappelle	VERB	rapelàe	rappelle		PROPN	Eùzét-Kérgolot	Euzet-Kerlogot	revoir la segmentation								
+37_feltin-20210921_tr_pos	16	at	VERB	aver	a	VERB		a	lemme inconni	AUX	aver	a									
+37_feltin-20210921_tr_pos	26	énstalai	VERB	énstalàe	installé	VERB	énstalàe	installé		VERB	énstalàe	installé	vérifier lemme								
+37_feltin-20210921_tr_pos	28	sauvàe	VERB	sauvàe	sauver	VERB	sauvàe	sauver		VERB	sauvàe	sauver									
+37_universal_tr_pos	3	at	VERB	aver	a	VERB		a	lemme inconnu	AUX	aver	a									
+37_universal_tr_pos	7	çhitàe	VERB	çhitàe	quitter	VERB	çhitàe	quitter		VERB	çhitàe	quitter									
+37_universal_tr_pos	18	revéndre	VERB	revéndre	revenir	VERB	revéndre	revenir		VERB	revéndre	revenir									
+38_contemarais46	3	disit	VERB	dire	dit	VERB	dire	dit						VERB	dire	disait	"P3 passé simple de l'indicatif du verbe ""dire"""				
+38_fineamour	6	disét	VERB	dire	disait	VERB	dire	disait		VERB	dire	disait						VERB	dire	disait	
+38_fineamour	9	travalles	VERB	travallàe	travailles	VERB	travallàe	travailles		VERB	travallàe	travailles						VERB	travallàe	travailles	
+39_Daudet_lettres_tr_pos	2	maegrsissét	VERB	maegrsi	maigrissait	VERB	maegrsi	maigrissait		VERB		maigrit	demander lemme au traducteur								
+39_Daudet_lettres_tr_pos	5	avét	VERB	aver	avait	VERB	avàe	avait		AUX	aver	avait									
+39_feltin - 20230207_tr_pos	26	menàie	VERB	menàe	menée	VERB	menàe	menée		VERB	menai	menée	vérifier lemme								
+39_feltin - 20230207_tr_pos	31	aprchant	VERB	aprchàe	approchant| risquant	VERB	aprchàe	approchant		VERB	aprchàe	risquant									
+39_feltin - 20230207_tr_pos	34	amaliçàe	VERB	amaliçàe	menacer	VERB	menacer	menacer		VERB	amaliçàe	menacer									
+3_Daudet_lundi_tr_pos	7	vénghit	VERB	véndre	vint	VERB	véndre	vint		VERB		vint	demander lemme au tradcuteur								
+3_Daudet_lundi_tr_pos	9	mancàe	VERB	mancàe	manquer| louper	VERB	mancàe	manquer		VERB	mancàe	louper									
+3_Daudet_lundi_tr_pos	14	prenre	VERB	prenre	prendre	VERB	prenre	prendre		VERB	prenre	pendre									
+3_PierreLoup_Pos	9	pibolét	VERB	pibolàe	chantonnait| sifflait	VERB	pibolàe	chantonnait		VERB	pibolàe	sifflait									
+3_contemarais46	2	tét	VERB	étre	était									VERB	étre	était	"P3 imparfait de l'indicatif ""être"""	VERB	étre	était	
+3_contemarais46	13	ét	VERB	étre	est									VERB	étre	est		VERB	étre	est	
+3_contemarais46	20	choesi	VERB	choesi	élire| choisir									VERB	choesi	élire	"glose: ""eslire"" en AF = ""choisir"" ""viser par la vue un objet spécifique dans la masse"""	VERB	choesir	choisir	
+3_leprincot-1	1	Velat	VERB	velat	voilà	VERB	velat	voilà		VERB	velat	voilà		VERB	velat	voilà					
+40_fineamour	8	alàe	VERB	alàe	aller	VERB	alàe	aller						VERB	alàe	aller	forme infinitive	VERB	alàe	aller	
+41_PierreLoup_Pos	6	endeguenissét	VERB	endegueni	avait envie| mourait d'envie	VERB	endegueni	avait envie						VERB		mourait d'envie	"dicopoitevin ""dépérir, mourir d'envie"" / pas d'infinitif chez Prokofiev"				
+41_PierreLoup_Pos	9	paechàe	VERB	paechàe	pêcher| attraper	VERB	paechàe	pêcher						VERB	paechàe	attraper	"dicopoitevin ""pêcher ; attraper, prendre, saisir, capter ; (dau màu) attraper une maladie ; (de l'aeve) puiser de l'eau."""				
+41_contemarais46	6	ét	VERB	étre	est	VERB	étre	est										VERB	ét	est	*
+43_Parabole de l'enfant prodigue_Saint-Maixent	5	d’cit	VERB	d'cit,	dit	VERB		dit		PUNCT	d'cit,	d'cit,									
+43_Parabole de l'enfant prodigue_Saint-Maixent	7	faut	VERB		faut	VERB		faut		ADV	trejou	toujours									
+43_Parabole de l'enfant prodigue_Saint-Maixent	22	resté	VERB		resté	VERB		resté	lemme inconnu	ADP	avec	avec									
+43_Parabole de l'enfant prodigue_Saint-Maixent	32	fouet	VERB	fouère	fait	VERB	fouère	fait		VERB		fait									
+43_Parabole de l'enfant prodigue_Saint-Maixent	33	gélir,	VERB+PUNCT	gélir+,	emmerder	VERB	gélir	emmerder	problème de segmentation : gélir + ,	VERB	gélir										
+43_Parabole de l'enfant prodigue_Saint-Maixent	41	baillé	VERB		donné	VERB		donné	lemme inconnu	VERB		donné									
+43_Parabole de l'enfant prodigue_Saint-Maixent	49	dévartir	VERB	dévartir	divertir	VERB	dévartir	divertir		VERB	dévartir	divertir									
+43_PierreLoup_Pos	4	fesit	VERB	faere	fit	VERB	faere	fit		VERB	faere	fit									
+43_PierreLoup_Pos	12	dessendit	VERB	desssendre	descendit	VERB	dessendre	descendit		VERB	déssendre	descendit	vérifier lemme								
+43_feltin-20211123_tr_pos	8	alojhe	VERB	alojhàe	préviens	VERB	alojhàe	préviens		VERB	alojhàe	préviens									
+43_feltin-20211123_tr_pos	16	égaudissant	VERB	égaudi	réjouissent	VERB	égaudi	réjouissent	variante i/ir pas sûr	VERB		réjouissent	demander lemme au traducteur								
+43_feltin-20211123_tr_pos	18	voer	VERB	voer	voir	VERB	voer	voir		VERB	voer	voir									
+43_feltin-20211123_tr_pos	21	dégallàe	VERB	dégallàe	supplanter	VERB	dégallàe	supplanter		VERB	dégallàe	supplanter									
+43_fineamour	2	senblle	VERB	senbllàe	semble	VERB	senbllàe	semble		VERB	senbllàe	semble									
+43_fineamour	12	sunjhit	VERB	sunjhàe	pensa	VERB	sunjhàe	pensa		VERB	sunjhàe	pensa									
+43_universal_tr_pos	3	at	VERB	aver	a	AUX		a	lemme inconnu	VERB	aver	a									
+44_contemarais46	2	téns	VERB	téndre	tiens	VERB	téndre	tiens		VERB		tiens	demander lemme à l'autrice								
+45_Daudet_lettres_tr_pos	5	huchit	VERB	huchàe	cria	VERB	huchàe	cria		VERB	huchàe	cria									
+45_Daudet_lettres_tr_pos	15	laechit	VERB	laechàe	laissa	VERB	laechàe	laissa		VERB	laechàe	laissa									
+45_Daudet_lettres_tr_pos	16	cheure	VERB	cheure	tomber	VERB	cheure	tomber		VERB	cheure	tomber									
+45_Daudet_lettres_tr_pos	23	assitant	VERB	assitàe	asseyant	VERB	assitàe	asseyant	verbe s'assitàe	VERB	assitàe	asseyant	vérifier lemme								
+45_Daudet_lettres_tr_pos	39	veùs	VERB	velér	veux	VERB	velér	veux		VERB	velàe	veux									
+45_Daudet_lettres_tr_pos	41	laechàe	VERB	laechàe	laisser| quitter	VERB	laechàe	laisser		VERB	laechàe	quitter									
+45_PierreLoup_Pos	2	veyant	VERB	voer	voyant	VERB	voer	voyant		VERB	voer	voyant									
+45_PierreLoup_Pos	8	métit	VERB	métre	mit	VERB	métre	mit		VERB	métre	mit	vérifier auprès du traducteur								
+45_PierreLoup_Pos	10	fenétràe	VERB	fenétràe	bondir| faire	VERB	fenétràe	bondir		VERB	fenétràe	faire									
+45_PierreLoup_Pos	16	délibéràe	VERB	délibéràe	libérer	VERB	délibéràe	libérer		VERB	délibéràe	libérer									
+45_contemarais46	10	éjhe	VERB	aver	ait	VERB	avoer	aie		VERB	aver	ait									
+45_contemarais46	14	prnit	VERB	prendre	prit	VERB	prendre	prit		VERB	prendre	prenne									
+45_contemarais46	22	disit	VERB	dire	dit	VERB	dire	dit		VERB	dire	dise									
+45_contemarais46	30	demandàe	VERB	demandàe	demander	VERB	demandàe	demander		VERB	demandàe	demander									
+45_contemarais46	35	vu	VERB	voer	vu	VERB	voer	vu		VERB	voer	vu									
+45_contemarais46	46	devit	VERB	devoer	dut	VERB	devàe	dut		VERB	devoer	devait									
+46_Daudet_lundi_tr_pos	6	récitàe	VERB	récitàe	réciter	VERB	récitàe	réciter		VERB	récitàe	réciter									
+46_Parabole de l'enfant prodigue_Saint-Maixent	1	faut	VERB		faut	VERB		faut	lemme inconnu	VERB		faut									
+47_feltin-20210921_tr_pos	6	enpose	VERB	enposàe	empêche	VERB	enposàe	empêche		VERB	enposàe	empêche	verifier lemme								
+47_feltin-20210921_tr_pos	12	aspiràe	VERB	aspiràe	conseiller| préconiser	VERB	aspiràe	conseiller		VERB	»	préconiser									
+47_feltin-20210921_tr_pos	15	araetàe	VERB	araetàe	arrêter	VERB	araetàe	arrêter		VERB	araetàe	arrêter									
+47_fineamour	2	parles	VERB	parlàe	parles									VERB	parlàe	parles		VERB	parlàe	parles	
+49_PierreLoup_Pos	2	huchit	VERB	huchàe	cria	VERB	huchàe	cria						VERB	huchàe	cria	Passé simple indicatif P3 - pas de traduction dans parcolab				
+49_PierreLoup_Pos	11	Feséz	VERB	faere	faites	VERB	faere	faites		VERB		faites		VERB		faites	impératif P5				
+49_PierreLoup_Pos	13	petàe	VERB	petàe	exploser| tirer	VERB	petàe	exploser		VERB	petàe	tirer		VERB	petàe	tirer	infinitif				
+49_feltin-20211123_tr_pos	10	grafegnais	VERB	grafegnàe	écrits| graphiés	VERB	grafegnàe	écrits						VERB		graphiés	graphier P6 passé composé/pas d'inifinitif chez feltin				
+4_Lés vents de nordét	5	quemençai	VERB	quemençàe	commencé	VERB	quemençàe	commencé		VERB	quemençàe	commencé	vérifier lemme								
+4_Lés vents de nordét	7	trlusér	VERB	trlusér	briller	VERB			inconnu	VERB	trlusér	briller									
+4_Lés vents de nordét	23	décapelai	VERB	décapelàe	ôté un vêtement| enlevé son manteau	VERB	décapelàe	ôté un vêtement		VERB	décapelàe	enlevé son manteau	vérifier lemme								
+4_PierreLoup_Pos	6	amenit	VERB	amenàe	arriva| amena	VERB	amenàe	arriva		VERB	amenàe	arriva		VERB		amena	"pas de forme infinitive chez Prokofiev;glose ""s'approcha"""				
+4_PierreLoup_Pos	8	jharollant	VERB	jharollàe	dandinant	VERB	jharollàe	dandinant		VERB		dandinant		VERB		dandinant	se dandinant				
+4_PierreLoup_Pos	16	loquetai	VERB	loquetàe	fermé	VERB	loquetàe	fermé		VERB		fermé		VERB	loquetai	fermé	"glose ""tiré le loquet""; pas de frome infinitive chez Prokofiev mais on peut supposer une forme identique ""loquetai"""				
+4_feltin-20210921_tr_pos	8	décidai	VERB	décidàe	décidé	VERB	décidàe	décidé		VERB	décidai	décidé									
+4_leprincot-1	6	disét	VERB	dire	disait	VERB	dire	disait										VERB	dire	disait	*
+4_leprincot-1	12	engoulant	VERB	engoulàe	avalant	VERB	engoulàe	avalant										VERB	engoulàe	avalant	
+4_leprincot-1	20	matroullàe	VERB	matroullàe	mâcher	VERB	matroullàe	mâcher										VERB	matroullàe	mâcher	
+50_PierreLoup_Pos	9	captai	VERB	captàe	capturé| attrapé	VERB	captàe	capturé		VERB		attrapé									
+50_fineamour	4	disiant	VERB	dire	disaient	VERB	dire	disaient		VERB	dire	disaient						VERB	dire	disaient	
+50_fineamour	10	fesiant	VERB	faere	faisaient	VERB	faere	faisaient		VERB	faere	faisaient						VERB	faere	faisaient	
+51_Daudet_lundi_tr_pos	7	dit	VERB	dire	dit	VERB	dire	dit		VERB	dire	dit									
+51_fineamour	2	entendét	VERB	entendre	entendait	VERB	entendre	entendait		VERB	entendét	entendait						VERB	entendre	entendait	*
+51_fineamour	11	marchant	VERB	marchàe	marchant	VERB	marchàe	marchant		VERB	marchàe	marchant						VERB	marchàe	marchant	*
+52_Daudet_lundi_tr_pos	2	ae	VERB	aver	ai	VERB	avàe	ai		AUX	aver	ai									
+52_PierreLoup_Pos	5	éjhéz	VERB		ayez	VERB		ayez	lemme inconnu					VERB		ayez	"P5 impératif de ""avoir"" ; pas de forme infinitive de ""avoir"" chez Prokofiev; mais dans dicopoitevin ""émajhinàe OU aver den l'idàie"""				
+52_PierreLoup_Pos	15	vat	VERB	alàe	va| avance	VERB	alàe	va						VERB		avance	"verbe ""aller"" présent indicatif P3; pas de forme infinitive chez Prokofiev"				
+52_PierreLoup_Pos	23	traghiniant	VERB	traghinàe	traînaient	VERB	traghinàe	traînaient						VERB		trainaient	"Pas de forme infinitive chez Prokofiev du verbe ""tirer/trainer ou traire""; P6 imparfait indicatif; en AF ""traire"" (= tirer, trainer) / tragere-trahere"				
+53_contemarais46	5	vu	VERB	voer	vu	VERB	voer	vu										VERB	voer	vu	*
+53_fineamour	8	sunjhét	VERB	sunjhàe	pensait					VERB	sunjhàe	pensait						VERB	sunjhàe	pensait	*
+54_fineamour	10	ouse	VERB	ousàe	ose	VERB	ousàe	ose		VERB		ose	demander le lemme au traducteur								
+54_fineamour	12	parlàe	VERB	parlàe	parler	VERB	parlàe	parler		VERB	parlàe	parler									
+54_fineamour	19	cause	VERB	causàe	parle	VERB	causàe	parle		VERB	causàe	parle									
+55_Daudet_lundi_tr_pos	11	chaloujhàe	VERB	chaloujhàe	différer| remettre	VERB	chaloujhàe	différer		VERB	chaloujhàe	remettre									
+56_PierreLoup_Pos	1	Argardéz	VERB	argardàe	regardez	VERB	argardàe	regardez		VERB	argardàe	Regardez									
+56_PierreLoup_Pos	6	paechai	VERB	paechàe	attrapé| pêché	VERB	paechàe	attrapé		VERB	paechàe	pêché									
+56_contemarais46	6	fesét	VERB	faere	faisait	VERB	faere	faisait		VERB	faere	faisait									
+56_fineamour	7	sentiant	VERB	senti	sentaient	VERB	senti	sentaient										VERB	senti	sentaient	
+57_contemarais46	3	savéz	VERB	savoer	savez	VERB	savàe	savez		VERB	savoir	savez									
+57_contemarais46	9	rechte	VERB	rechtàe	reste	AUX	rechtàe	reste		VERB	rechtàe	reste									
+57_contemarais46	17	at	VERB	avoer	a	VERB	avoer	a		AUX	aver	a						VERB	avoer		*
+57_contemarais46	21	halàe	VERB	halàe	précipiter| empresser	VERB	halàe	précipiter		VERB	halàe	empresser						VERB	halàe		*
+57_fineamour	6	éparét	VERB	éparàe	étendait	VERB	éparàe	étendait										VERB	éparàe	étendre	
+59_Daudet_lundi_tr_pos	2	avun	VERB	aver	avons	VERB	avàe	avons		AUX	aver	avions									
+59_Daudet_lundi_tr_pos	11	faere	VERB	faere	faire	VERB	faere	faire		VERB	faere	faere									
+5_Daudet_lettres_tr_pos	2	regarde	VERB	regardàe	regarde	VERB	regardàe	regarde		VERB		regarde	demander lemme								
+5_PierreLoup_Pos	1	Sivant	VERB	sivàe	suivant	VERB	sivàe	suivant		VERB	sivàe	suivant									
+5_PierreLoup_Pos	6	calaudit	VERB	calaudàe	plongea	VERB	calaudàe	plongea		VERB	calaudàe	plongea									
+5_contemarais46	2	at	VERB	avoer	a	VERB	avoer	a		VERB	avoer	a									
+5_contemarais46	24	at	VERB	avoer	a	VERB	avoer	a		VERB	avoer	a									
+5_leprincot-1	3	pevant	VERB	pere	peuvent	VERB	pouvoer	peuvent		VERB	pere	peuvent		VERB	pevér	pouvent	"présent indicatif P6 - la forme infinitif chez St Ex est trouvée substantivée ""In tàu pevér miremundit le prénçot"""				
+5_leprincot-1	6	mouvàe	VERB	mouvàe	mouvoir| déplacer	VERB	mouvàe	mouvoir		VERB	mouvàe	déplacer		VERB	mouvàe	mouvoir					
+5_leprincot-1	9	dormant	VERB	dormi	dorment	VERB	dormàe	dorment		VERB	dormi	dorment		VERB	dormi	dorment					
+61_fineamour	2	faulit	VERB	fauloer	fallut	VERB	fauloer	fallut	lemme déduit	VERB		fallut									
+61_fineamour	4	aricotàe	VERB	aricotàe	tricher| se démener	VERB	aricotàe	tricher		VERB	aricotàe	se démener									
+61_fineamour	9	enlevàe	VERB	enlevàe	enlever| défaire	VERB	enlevàe	enlever		VERB	enlevàe	défaire									
+62_contemarais46	6	pevéz	VERB	pevoer	pouvez	VERB	pere	pouvez		VERB	pevoer	pouvez									
+62_contemarais46	7	voer	VERB	voer	voir	VERB	voer	voir		VERB	voer	voir									
+62_fineamour	2	décessit	VERB	décessàe	cessa	VERB	décessàe	cessa		VERB	décessàe	cessa									
+62_fineamour	4	marchàe	VERB	marchàe	marcher	VERB	marchàe	marcher		VERB	marchàe	marcher									
+63_fineamour	1	Fesit	VERB	faere	fit	VERB	faere	fit						VERB	faire	fit	"passé simple indicatif P3 ""faire"""				
+63_fineamour	7	argardai	VERB	argardàe	regardé	VERB	argardàe	regardé						VERB	argardae	regardé	"participe passé / dicopoitevin: ""argardàe vt. regarder ; (se faere -) se faire remarquer."" / Variante graphique -ai"				
+63_fineamour	14	frmit	VERB	frmàe	ferma	VERB	frmàe	ferma						VERB		ferma	"passé simple P3 ""fermer"" / Dicopoitevin: ""fermer vt. frmàe, froumàe, tapàe ; (à clef) baràe ; (avec un loquet) loquetàe ; (par un lien) coeràe ; (un orifice, boucher) acelàe ."""				
+64_universal_tr_pos	8	étre	VERB	étre	être	VERB	étre	être		VERB	étre	être									
+67_contemarais46	6	prpouse	VERB	prpousàe	propose	VERB	prpousàe	propose		VERB	prpousàe	propose									
+67_contemarais46	12	étre	VERB	étre	être	VERB	étre	être		VERB	étre	être									
+68_contemarais46	2	vela	VERB	vela	voilà	ADP	vela	voilà		VERB	vela	voilà									
+68_contemarais46	8	venét	VERB	venir	venait	VERB	venir	venait		VERB		venait	demander lemme								
+68_contemarais46	10	quitàe	VERB	quitàe	quitter	VERB	quitàe	quitter		VERB	quitàe	quitter									
+68_contemarais46	18	nalàe	VERB	nalàe	partir| aller	VERB	nalàe	partir		AUX	nalàe	aller									
+69_contemarais46	3	ramine	VERB	raminàe	songe	VERB	raminàe	songe		VERB	raminàe	songe									
+6_Daudet_lettres_tr_pos	1	Argarde	VERB	argardàe	regarde	VERB	argardàe	regarde		VERB		Regarde	lemme à demander au traducteur								
+6_Daudet_lettres_tr_pos	17	brame	VERB	bramàe	crie	VERB	bramàe	crie		VERB	bramàe	crie									
+6_Daudet_lundi_tr_pos	4	gréyét	VERB	gréyàe	plarait| tentait	VERB	gréyàe	plarait		VERB		tentait	demander lemme au traducteur								
+6_Daudet_lundi_tr_pos	16	oghi	VERB	aver	eus	VERB	avàe	eus		AUX	aver	eus									
+6_Daudet_lundi_tr_pos	20	résistàe	VERB	résistàe	résister	VERB	résistàe	résister		VERB	résistàe	résister									
+6_Daudet_lundi_tr_pos	24	couri	VERB	couri	courus	VERB	couri	courus		VERB	couri	courus									
+6_menteries-28	7	décanpit	VERB	décanpàe	décampa| déguerpi					VERB		décampa	lemme à demander décampir					VERB	décanpàe	déguerpi	*
+6_menteries-28	13	rechtit	VERB	rechtàe	resta					VERB		resta	lemme à demander rester					VERB	rechtàe		*
+6_menteries-28	19	cheùre	VERB	cheùre	tomber					VERB	cheùre	tomber						VERB	cheùre	tomber	*
+70_contemarais46	3	dit	VERB	dire	dit	VERB	dire	dit		VERB	dire	dit						VERB	dire	dit	*
+70_contemarais46	14	vorét	VERB	voer	verrait	VERB		verrait	lemme inconnu	VERB	voer	verrait						VERB	voer		*
+71_contemarais46	12	bunjhourai	VERB	bunjhouraé	dit au revoir à| salué	VERB	bunjhouraé	dit au revoir à										VERB	bunjhouràe	salué	
+71_contemarais46	20	éparai	VERB	éparàe	déployé| étendu	VERB	éparàe	déployé										VERB	éparàe	étendu	
+71_contemarais46	28	pri	VERB	prendre	pris	VERB	prendre	pris										VERB	prendre	pris	
+72_Daudet_lettres_tr_pos	5	arivit	VERB	arivàe	arriva	VERB	arivàe	arriva		VERB	arivàe	arriva									
+72_contemarais46	5	brimai	VERB	brimàe	passés au-dessus| volé					VERB	brimàe	passés au-dessus	à vérifier	VERB		volé	"pas de forme infinitive de ""brimai"" chez Bidaude"				
+72_fineamour	2	pouvét	VERB	pouvoer	pouvait					VERB	pouvoer	pouvait		VERB	pouvoer	pouvait	P3 semi-auxiliaire				
+72_fineamour	4	marchàe	VERB	marchàe	marcher					VERB	marchàe	marcher		VERB	marchàe	marcher					
+72_fineamour	9	sentét	VERB	sentir	sentait					VERB	sentir	sentait		VERB	sentir	sentait	P3 verbe				
+72_fineamour	14	prnét	VERB	prendre	prenait					VERB	prendre	prenait		VERB	prendre	prenait					
+72_fineamour	21	muntét	VERB	muntàe	montait					VERB	muntàe	montait		VERB	monter	montait					
+74_fineamour	3	créyét	VERB	crére	croyait	VERB	crére	croyait		VERB	crére	croyait									
+74_fineamour	12	demeùrét	VERB	demeùràe	habitait	VERB	demeùràe	habitait		VERB	demeùràe	habitait									
+74_fineamour	27	dit	VERB	dire	dit	VERB	dire	dit		VERB	dire	dit									
+75_fineamour	3	jhouét	VERB	jhouàe	jouait	VERB	jhouàe	jouait										VERB	jhouàe	jouait	
+75_fineamour	7	aprnét	VERB	aprenre	apprenait	VERB	aprenre	apprenait										VERB	aprendre	apprenait	
+75_fineamour	12	parlét	VERB	parlàe	parlait	VERB	parlàe	parlait										VERB	parlàe	parlait	
+75_fineamour	19	savét	VERB	savoer	savait	VERB	savàe	savait										VERB	savoer	savait	
+78_fineamour	4	faulu	VERB	fauloer	fallu	VERB	fauloer	fallu	lemme supposé	VERB		fallu	demander lemme								
+78_fineamour	10	entendijhe	VERB	entendre	entendit	VERB	entendre	entendît		VERB		entende	demander lemme								
+78_fineamour	11	parlàe	VERB	parlàe	parler	VERB	parlàe	parler		VERB	parlàe	parler									
+7_feltin-20210921_tr_pos	7	quemandit	VERB	quemandàe	commanda	VERB	quemandàe	commanda		VERB	quemandàe	a téléguidé	vérifier lemme								
+7_feltin-20210921_tr_pos	14	émaye	VERB	émayàe	inquiéta	VERB	émayàe	inquiéta		VERB	émayàe	inquiète	vérifier lemme								
+7_fineamour	7	durit	VERB	duràe	dura	VERB	duràe	dura										VERB	duràe	dura	*
+7_menteries-28	9	cunprniun	VERB	cunprendre	comprenions	VERB	cunprendre	comprenions		VERB		comprenions									
+7_menteries-28	21	saviun	VERB	savàe	savions	VERB		savions	lemme inconnu	VERB	savàe	savions									
+7_menteries-28	25	falét	VERB	féler	fallait	VERB	féler	fallait		VERB		fallait									
+7_menteries-28	26	avançàe	VERB	avançàe	avancer	VERB	avançàe	avancer		VERB	avançàe	avançer									
+7_menteries-28	34	aviun	VERB	aver	avions	VERB	aver	avions													
+7_menteries-28	37	charjàe	VERB	charjàe	charger	VERB	charjàe	charger													
+81_universal_tr_pos	8	naessus	VERB	nétre	nés	VERB	nétre	nés		VERB	nétre	nés	vérifier lemme								
+81_universal_tr_pos	16	avant	VERB	aver	ont	VERB		ont	lemme inconnu	AUX	aver	ont									
+84_fineamour	2	ferat	VERB	faere	fera	VERB	faere	fera						VERB	faire	fera	"Verbe ""faire"" futur indicatif P3 :locution verbale ""être apràe"" = ""s'occuper de"" "				
+85_Daudet_lettres_tr_pos	11	rolét	VERB	rolàe	roulait	VERB	rolàe	roulait		VERB	rolàe	roulait									
+85_Daudet_lettres_tr_pos	21	boulitét	VERB	boulitàe	épiait| roulait	VERB	boulitàe	épiait		VERB	boulitàe	roulait	vérifier le lemme								
+85_Daudet_lettres_tr_pos	50	redrsét	VERB	redrsàe	redressait	VERB	redrsàe	redressait	lemme supposé	VERB	redrsàe	redressait	vérifier lemme								
+86_fineamour	6	balie	VERB	baliàe	balaie	VERB	baliàe	balaie		VERB		balaie									
+87_fineamour	2	counéssét	VERB	counétre	connaissait	VERB	counétre	connaissait										VERB	counétre		@repris louis
+88_fineamour	7	dit	VERB	dire	dit	VERB	dire	dit						VERB	dire	dit	"Verbe ""dire"" P3 présent indicatif "				
+8_PierreLoup_Pos	4	dissit	VERB	dire	dit	VERB	dire	dit		VERB	dire	dit	vérifier le lemme								
+8_PierreLoup_Pos	6	défrougnant	VERB	défrougnàe	haussant les épaules	VERB	défrougnàe	haussant les épaules		VERB	défrougnàe	haussant les épaules	vérifier le lemme								
+8_contemarais46	4	at	VERB	avoer	a	VERB	avoer	a										VERB	at	a	
+8_contemarais46	7	dit	VERB	dire	dit	VERB	dire	dit										VERB	dire	dit	
+8_contemarais46	13	prnun	VERB	prendre	prenons	VERB	prendre	prenons										VERB	prendre	prenons	
+8_contemarais46	16	pibole	VERB	pibolàe	chante	VERB	pibolàe	chante										VERB	pibolàe	chante	
+8_contemarais46	21	vat	VERB	alàe	va	VERB	alàe	va										VERB	alàe	va	
+8_contemarais46	34	chantàe	VERB	chantàe	chanter	VERB	chantàe	chanter										VERB	chantàe	chanter	
+8_contemarais46	38	at	VERB	avoer	a	VERB	avoer	a										VERB	avoer	a	
+8_fineamour	11	savét	VERB	savoer	savait					VERB	savoer	savait						VERB	savoer	savait	
+8_fineamour	16	leverét	VERB	levàe	lèverait					VERB	levàe	lèverait						VERB	levàe	lever	
+8_fineamour	28	ét	VERB	étre	est					VERB	étre	est						VERB	étre	est	
+8_leprincot-1	7	boutri	VERB	boutràe	montrai	VERB	boutri	montrai	@repris camille	VERB	boutràe	montrai						VERB	boutri	montrai	*
+8_leprincot-1	17	demandi	VERB	demandàe	demandai	VERB	demandàe	demandai	@repris camille	VERB	demandàe	demandai						VERB	demandàe	demandai	*
+8_leprincot-1	22	épourét	VERB	épouràe	apeurait| effrayait	VERB	épouràe	apeurait	@repris camille	VERB		effrayait						VERB	épouràe	apeurait	*
+8_menteries-28	2	disi	VERB	dire	dit					VERB	dire	disais		VERB	dire	dit	"P1 passé simple indicatif ""dire"""				
+8_menteries-28	6	duràe	VERB	duràe	rester					VERB	duràe	rester		VERB	duràe	rester	forme infinitive				
+8_menteries-28	8	boujhàe	VERB	boujhàe	bouger					VERB	boujhàe	bouger		VERB	boujhàe	bouger	forme infinitive				
+8_menteries-28	14	aprchi	VERB	aprchàe	approchai					VERB	aprchàe	approchais		VERB		approchai	passé simple indicatif P1/ pas de frorme infinitive chez Ribouillault				
+8_menteries-28	24	boujhét	VERB	boujhàe	bougeait					VERB	boujhàe	bougeait		VERB	boujhàe	bougeait	imparfait indicatif P3				
+8_menteries-28	31	gorgnafllét	VERB		grognait					VERB		grognait		VERB		grognait	pas de forme infinitifve chez Ribouillault				
+90_fineamour	5	cunpris	VERB	cunprendre	compris	VERB	cunprendre	comprendre										VERB	cunprendre	compris	je ne sais pas pourquoi ce verbe et “lés“ sont collés, dans le doute j’ai laissé tel quel
+93_Daudet_lettres_tr_pos	5	dessit	VERB	dire	dit	VERB	dire	dit		VERB	dire	dit	vérifier lemme								
+93_Daudet_lettres_tr_pos	12	pu	VERB	pevér	pu	VERB	pere	pu		VERB	pevér	pu	vérifier lemme								
+93_Daudet_lettres_tr_pos	13	tenir	VERB	tenir	tenir	VERB	tenir	tenir		VERB	tenir	tenir									
+93_Daudet_lundi_tr_pos	7	dessit	VERB	dire	dit	VERB	dire	dit		VERB	dire	dit									
+93_Daudet_lundi_tr_pos	19	afoujhét	VERB	afoujhàe	étouffait	VERB	afoujhàe	étouffait		VERB	afoujhàe	étouffait	vérifier lemme								
+93_fineamour	8	évellit	VERB	évellàe	réveilla	VERB	évelli	réveilla		VERB	évellàe	reveillèrent	vérifier lemme								
+97_fineamour	9	devét	VERB	devoer	devait	VERB	devér	devait		VERB	devoer										
+97_fineamour	10	raportàe	VERB	raportàe	rapporter	VERB	raportàe	rapporter		VERB	raportàe										
+97_fineamour	18	frmai	VERB	frmàe	fermé	ADJ	frmai	fermé		VERB	frmàe										
+9_PierreLoup_Pos	6	répounit	VERB	répounit	répondit					VERB		répondit	demander lemme	VERB	répounit	répondit					
+9_PierreLoup_Pos	22	sés	VERB	savoer	sais					VERB		sais	demander lemme	VERB	savoer	sait					
+9_PierreLoup_Pos	24	najhàe	VERB	najhàe	nager					VERB	najhàe	nager		VERB	najhàe	nager					
+9_fineamour	6	manjhit	VERB	manjhàe	mangea	VERB	menjhàe	mangea		VERB	manjhàe	mangea						VERB	manjhàe	mangea	*
+9_leprincot-1	3	répounirant	VERB	répounàe	répondirent	VERB	répounàe	répondirent						VERB	répounàe	répondirent	passé simple indicatif P6				
+9_leprincot-1	12	épourerét	VERB	épouràe	épouvanterait| apeurerait| ferait peur	VERB	épouràe	épouvanterait						VERB		apeurerait	pas de forme infinitive chez St Exupéry PP	VERB	époureràe	ferait peur	*
+9_universal_tr_pos	1	Cunsidérant	VERB	cunsidéràe	considérant	VERB	cunsidéràe	considérant		VERB	cunsidéràe	Considérant									
+9_universal_tr_pos	9	anbllétais	VERB	anbllétàe	engagés	VERB	anbllétàe	engagés		VERB	anbllétàe	engagés	vérifier lemme								
+9_universal_tr_pos	11	acértenàe	VERB	acértenàe	affirmer| assurer	VERB	acértenàe	affirmer		VERB	acértenàe	assurer									

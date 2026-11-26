@@ -1,0 +1,717 @@
+forme déduite	forme	lemme	supralemme	pos	parler	glose	tense	mode	person	number	gender	variante	comment	modele	source	supralemme2
+x	albrete	albretàe	halbrtàe	VERB			Présent	Indicatif	1.0	sg				100.1	LIEVRE Louis	halbrtàe
+x	albretes	albretàe	halbrtàe	VERB			Présent	Indicatif	2.0	sg				100.1	LIEVRE Louis	halbrtàe
+x	albrete	albretàe	halbrtàe	VERB			Présent	Indicatif	3.0	sg				100.1	LIEVRE Louis	halbrtàe
+x	albretun	albretàe	halbrtàe	VERB			Présent	Indicatif	1.0	pl				100.1	LIEVRE Louis	halbrtàe
+x	albretéz	albretàe	halbrtàe	VERB			Présent	Indicatif	2.0	pl				100.1	LIEVRE Louis	halbrtàe
+x	albretant	albretàe	halbrtàe	VERB			Présent	Indicatif	3.0	pl				100.1	LIEVRE Louis	halbrtàe
+x	albretàe	albretàe	halbrtàe	VERB			Imparfait	Indicatif	1.0	sg				100.1	LIEVRE Louis	halbrtàe
+x	albretàes	albretàe	halbrtàe	VERB			Imparfait	Indicatif	2.0	sg				100.1	LIEVRE Louis	halbrtàe
+x	albretét	albretàe	halbrtàe	VERB			Imparfait	Indicatif	3.0	sg				100.1	LIEVRE Louis	halbrtàe
+x	albretiun	albretàe	halbrtàe	VERB			Imparfait	Indicatif	1.0	pl				100.1	LIEVRE Louis	halbrtàe
+x	albretiéz	albretàe	halbrtàe	VERB			Imparfait	Indicatif	2.0	pl				100.1	LIEVRE Louis	halbrtàe
+x	albretiant	albretàe	halbrtàe	VERB			Imparfait	Indicatif	3.0	pl				100.1	LIEVRE Louis	halbrtàe
+x	albreterae	albretàe	halbrtàe	VERB			Futur	Indicatif	1.0	sg				100.1	LIEVRE Louis	halbrtàe
+x	albreteras	albretàe	halbrtàe	VERB			Futur	Indicatif	2.0	sg				100.1	LIEVRE Louis	halbrtàe
+x	albreterat	albretàe	halbrtàe	VERB			Futur	Indicatif	3.0	sg				100.1	LIEVRE Louis	halbrtàe
+x	albreterun	albretàe	halbrtàe	VERB			Futur	Indicatif	1.0	pl				100.1	LIEVRE Louis	halbrtàe
+x	albreteréz	albretàe	halbrtàe	VERB			Futur	Indicatif	2.0	pl				100.1	LIEVRE Louis	halbrtàe
+x	albreterant	albretàe	halbrtàe	VERB			Futur	Indicatif	3.0	pl				100.1	LIEVRE Louis	halbrtàe
+x	albreti	albretàe	halbrtàe	VERB			Passé simple	Indicatif	1.0	sg				100.1	LIEVRE Louis	halbrtàe
+x	albretis	albretàe	halbrtàe	VERB			Passé simple	Indicatif	2.0	sg				100.1	LIEVRE Louis	halbrtàe
+x	albretit	albretàe	halbrtàe	VERB			Passé simple	Indicatif	3.0	sg				100.1	LIEVRE Louis	halbrtàe
+x	albretirun	albretàe	halbrtàe	VERB			Passé simple	Indicatif	1.0	pl				100.1	LIEVRE Louis	halbrtàe
+x	albretiréz	albretàe	halbrtàe	VERB			Passé simple	Indicatif	1.0	pl				100.1	LIEVRE Louis	halbrtàe
+x	albretirant	albretàe	halbrtàe	VERB			Passé simple	Indicatif	3.0	pl				100.1	LIEVRE Louis	halbrtàe
+x	albrete	albretàe	halbrtàe	VERB			Présent	Subjonctif	1.0	sg				100.1	LIEVRE Louis	halbrtàe
+x	albretes	albretàe	halbrtàe	VERB			Présent	Subjonctif	2.0	sg				100.1	LIEVRE Louis	halbrtàe
+x	albrete	albretàe	halbrtàe	VERB			Présent	Subjonctif	3.0	sg				100.1	LIEVRE Louis	halbrtàe
+x	albretun	albretàe	halbrtàe	VERB			Présent	Subjonctif	1.0	pl				100.1	LIEVRE Louis	halbrtàe
+x	albretéz	albretàe	halbrtàe	VERB			Présent	Subjonctif	2.0	pl				100.1	LIEVRE Louis	halbrtàe
+x	albretant	albretàe	halbrtàe	VERB			Présent	Subjonctif	3.0	pl				100.1	LIEVRE Louis	halbrtàe
+x	albretisse	albretàe	halbrtàe	VERB			Imparfait	Subjonctif	1.0	sg				100.1	LIEVRE Louis	halbrtàe
+x	albretisses	albretàe	halbrtàe	VERB			Imparfait	Subjonctif	2.0	sg				100.1	LIEVRE Louis	halbrtàe
+x	albretisse	albretàe	halbrtàe	VERB			Imparfait	Subjonctif	3.0	sg				100.1	LIEVRE Louis	halbrtàe
+x	albretissiun	albretàe	halbrtàe	VERB			Imparfait	Subjonctif	1.0	pl				100.1	LIEVRE Louis	halbrtàe
+x	albretissiéz	albretàe	halbrtàe	VERB			Imparfait	Subjonctif	2.0	pl				100.1	LIEVRE Louis	halbrtàe
+x	albretissiant	albretàe	halbrtàe	VERB			Imparfait	Subjonctif	3.0	pl				100.1	LIEVRE Louis	halbrtàe
+x	albreteràe	albretàe	halbrtàe	VERB			Présent	Conditionnel	1.0	sg				100.1	LIEVRE Louis	halbrtàe
+x	albreteràes	albretàe	halbrtàe	VERB			Présent	Conditionnel	2.0	sg				100.1	LIEVRE Louis	halbrtàe
+x	albreterét	albretàe	halbrtàe	VERB			Présent	Conditionnel	3.0	sg				100.1	LIEVRE Louis	halbrtàe
+x	albreteriun	albretàe	halbrtàe	VERB			Présent	Conditionnel	1.0	pl				100.1	LIEVRE Louis	halbrtàe
+x	albreteriéz	albretàe	halbrtàe	VERB			Présent	Conditionnel	2.0	pl				100.1	LIEVRE Louis	halbrtàe
+x	albreteriant	albretàe	halbrtàe	VERB			Présent	Conditionnel	3.0	pl				100.1	LIEVRE Louis	halbrtàe
+x	albretant	albretàe	halbrtàe	VERB			Présent	Participe						100.1	LIEVRE Louis	halbrtàe
+x	albretai	albretàe	halbrtàe	VERB			Passé	Participe		sg	m			100.1	LIEVRE Louis	halbrtàe
+x	albretàie	albretàe	halbrtàe	VERB			Passé	Participe		sg	f			100.1	LIEVRE Louis	halbrtàe
+x	albretais	albretàe	halbrtàe	VERB			Passé	Participe		pl	m			100.1	LIEVRE Louis	halbrtàe
+x	albretàies	albretàe	halbrtàe	VERB			Passé	Participe		pl	f			100.1	LIEVRE Louis	halbrtàe
+x	albrete	albretàe	halbrtàe	VERB			Présent	Impératif	2.0	sg				100.1	LIEVRE Louis	halbrtàe
+x	albretun	albretàe	halbrtàe	VERB			Présent	Impératif	1.0	pl				100.1	LIEVRE Louis	halbrtàe
+x	albretéz	albretàe	halbrtàe	VERB			Présent	Impératif	2.0	pl				100.1	LIEVRE Louis	halbrtàe
+x	avrlli	avrllàe	avrllàe	VERB			Passé simple	Indicatif	1.0	sg				100.1	LIEVRE Louis	pleuvoir
+x	avrllis	avrllàe	avrllàe	VERB			Passé simple	Indicatif	2.0	sg				100.1	LIEVRE Louis	pleuvoir
+x	avrllirun	avrllàe	avrllàe	VERB			Passé simple	Indicatif	1.0	pl				100.1	LIEVRE Louis	pleuvoir
+x	avrlliréz	avrllàe	avrllàe	VERB			Passé simple	Indicatif	1.0	pl				100.1	LIEVRE Louis	pleuvoir
+x	avrllisse	avrllàe	avrllàe	VERB			Imparfait	Subjonctif	1.0	sg				100.1	LIEVRE Louis	pleuvoir
+x	avrllisses	avrllàe	avrllàe	VERB			Imparfait	Subjonctif	2.0	sg				100.1	LIEVRE Louis	pleuvoir
+x	avrllissiun	avrllàe	avrllàe	VERB			Imparfait	Subjonctif	1.0	pl				100.1	LIEVRE Louis	pleuvoir
+x	avrllissiéz	avrllàe	avrllàe	VERB			Imparfait	Subjonctif	2.0	pl				100.1	LIEVRE Louis	pleuvoir
+x	badralle	badrallàe	badrallàe	VERB			Présent	Indicatif	1.0	sg				100.1	LIEVRE Louis	se dit d’un vêtement mal boutonné et qui fait un ‘biot’
+x	badralles	badrallàe	badrallàe	VERB			Présent	Indicatif	2.0	sg				100.1	LIEVRE Louis	se dit d’un vêtement mal boutonné et qui fait un ‘biot’
+x	badralle	badrallàe	badrallàe	VERB			Présent	Indicatif	3.0	sg				100.1	LIEVRE Louis	se dit d’un vêtement mal boutonné et qui fait un ‘biot’
+x	badrallun	badrallàe	badrallàe	VERB			Présent	Indicatif	1.0	pl				100.1	LIEVRE Louis	se dit d’un vêtement mal boutonné et qui fait un ‘biot’
+x	badralléz	badrallàe	badrallàe	VERB			Présent	Indicatif	2.0	pl				100.1	LIEVRE Louis	se dit d’un vêtement mal boutonné et qui fait un ‘biot’
+x	badrallant	badrallàe	badrallàe	VERB			Présent	Indicatif	3.0	pl				100.1	LIEVRE Louis	se dit d’un vêtement mal boutonné et qui fait un ‘biot’
+x	badrallàe	badrallàe	badrallàe	VERB			Imparfait	Indicatif	1.0	sg				100.1	LIEVRE Louis	se dit d’un vêtement mal boutonné et qui fait un ‘biot’
+x	badrallàes	badrallàe	badrallàe	VERB			Imparfait	Indicatif	2.0	sg				100.1	LIEVRE Louis	se dit d’un vêtement mal boutonné et qui fait un ‘biot’
+x	badrallét	badrallàe	badrallàe	VERB			Imparfait	Indicatif	3.0	sg				100.1	LIEVRE Louis	se dit d’un vêtement mal boutonné et qui fait un ‘biot’
+x	badralliun	badrallàe	badrallàe	VERB			Imparfait	Indicatif	1.0	pl				100.1	LIEVRE Louis	se dit d’un vêtement mal boutonné et qui fait un ‘biot’
+x	badralliéz	badrallàe	badrallàe	VERB			Imparfait	Indicatif	2.0	pl				100.1	LIEVRE Louis	se dit d’un vêtement mal boutonné et qui fait un ‘biot’
+x	badralliant	badrallàe	badrallàe	VERB			Imparfait	Indicatif	3.0	pl				100.1	LIEVRE Louis	se dit d’un vêtement mal boutonné et qui fait un ‘biot’
+x	badrallerae	badrallàe	badrallàe	VERB			Futur	Indicatif	1.0	sg				100.1	LIEVRE Louis	se dit d’un vêtement mal boutonné et qui fait un ‘biot’
+x	badralleras	badrallàe	badrallàe	VERB			Futur	Indicatif	2.0	sg				100.1	LIEVRE Louis	se dit d’un vêtement mal boutonné et qui fait un ‘biot’
+x	badrallerat	badrallàe	badrallàe	VERB			Futur	Indicatif	3.0	sg				100.1	LIEVRE Louis	se dit d’un vêtement mal boutonné et qui fait un ‘biot’
+x	badrallerun	badrallàe	badrallàe	VERB			Futur	Indicatif	1.0	pl				100.1	LIEVRE Louis	se dit d’un vêtement mal boutonné et qui fait un ‘biot’
+x	badralleréz	badrallàe	badrallàe	VERB			Futur	Indicatif	2.0	pl				100.1	LIEVRE Louis	se dit d’un vêtement mal boutonné et qui fait un ‘biot’
+x	badrallerant	badrallàe	badrallàe	VERB			Futur	Indicatif	3.0	pl				100.1	LIEVRE Louis	se dit d’un vêtement mal boutonné et qui fait un ‘biot’
+x	badralli	badrallàe	badrallàe	VERB			Passé simple	Indicatif	1.0	sg				100.1	LIEVRE Louis	se dit d’un vêtement mal boutonné et qui fait un ‘biot’
+x	badrallis	badrallàe	badrallàe	VERB			Passé simple	Indicatif	2.0	sg				100.1	LIEVRE Louis	se dit d’un vêtement mal boutonné et qui fait un ‘biot’
+x	badrallit	badrallàe	badrallàe	VERB			Passé simple	Indicatif	3.0	sg				100.1	LIEVRE Louis	se dit d’un vêtement mal boutonné et qui fait un ‘biot’
+x	badrallirun	badrallàe	badrallàe	VERB			Passé simple	Indicatif	1.0	pl				100.1	LIEVRE Louis	se dit d’un vêtement mal boutonné et qui fait un ‘biot’
+x	badralliréz	badrallàe	badrallàe	VERB			Passé simple	Indicatif	1.0	pl				100.1	LIEVRE Louis	se dit d’un vêtement mal boutonné et qui fait un ‘biot’
+x	badrallirant	badrallàe	badrallàe	VERB			Passé simple	Indicatif	3.0	pl				100.1	LIEVRE Louis	se dit d’un vêtement mal boutonné et qui fait un ‘biot’
+x	badralle	badrallàe	badrallàe	VERB			Présent	Subjonctif	1.0	sg				100.1	LIEVRE Louis	se dit d’un vêtement mal boutonné et qui fait un ‘biot’
+x	badralles	badrallàe	badrallàe	VERB			Présent	Subjonctif	2.0	sg				100.1	LIEVRE Louis	se dit d’un vêtement mal boutonné et qui fait un ‘biot’
+x	badralle	badrallàe	badrallàe	VERB			Présent	Subjonctif	3.0	sg				100.1	LIEVRE Louis	se dit d’un vêtement mal boutonné et qui fait un ‘biot’
+x	badrallun	badrallàe	badrallàe	VERB			Présent	Subjonctif	1.0	pl				100.1	LIEVRE Louis	se dit d’un vêtement mal boutonné et qui fait un ‘biot’
+x	badralléz	badrallàe	badrallàe	VERB			Présent	Subjonctif	2.0	pl				100.1	LIEVRE Louis	se dit d’un vêtement mal boutonné et qui fait un ‘biot’
+x	badrallant	badrallàe	badrallàe	VERB			Présent	Subjonctif	3.0	pl				100.1	LIEVRE Louis	se dit d’un vêtement mal boutonné et qui fait un ‘biot’
+x	badrallisse	badrallàe	badrallàe	VERB			Imparfait	Subjonctif	1.0	sg				100.1	LIEVRE Louis	se dit d’un vêtement mal boutonné et qui fait un ‘biot’
+x	badrallisses	badrallàe	badrallàe	VERB			Imparfait	Subjonctif	2.0	sg				100.1	LIEVRE Louis	se dit d’un vêtement mal boutonné et qui fait un ‘biot’
+x	badrallisse	badrallàe	badrallàe	VERB			Imparfait	Subjonctif	3.0	sg				100.1	LIEVRE Louis	se dit d’un vêtement mal boutonné et qui fait un ‘biot’
+x	badrallissiun	badrallàe	badrallàe	VERB			Imparfait	Subjonctif	1.0	pl				100.1	LIEVRE Louis	se dit d’un vêtement mal boutonné et qui fait un ‘biot’
+x	badrallissiéz	badrallàe	badrallàe	VERB			Imparfait	Subjonctif	2.0	pl				100.1	LIEVRE Louis	se dit d’un vêtement mal boutonné et qui fait un ‘biot’
+x	badrallissiant	badrallàe	badrallàe	VERB			Imparfait	Subjonctif	3.0	pl				100.1	LIEVRE Louis	se dit d’un vêtement mal boutonné et qui fait un ‘biot’
+x	badralleràe	badrallàe	badrallàe	VERB			Présent	Conditionnel	1.0	sg				100.1	LIEVRE Louis	se dit d’un vêtement mal boutonné et qui fait un ‘biot’
+x	badralleràes	badrallàe	badrallàe	VERB			Présent	Conditionnel	2.0	sg				100.1	LIEVRE Louis	se dit d’un vêtement mal boutonné et qui fait un ‘biot’
+x	badrallerét	badrallàe	badrallàe	VERB			Présent	Conditionnel	3.0	sg				100.1	LIEVRE Louis	se dit d’un vêtement mal boutonné et qui fait un ‘biot’
+x	badralleriun	badrallàe	badrallàe	VERB			Présent	Conditionnel	1.0	pl				100.1	LIEVRE Louis	se dit d’un vêtement mal boutonné et qui fait un ‘biot’
+x	badralleriéz	badrallàe	badrallàe	VERB			Présent	Conditionnel	2.0	pl				100.1	LIEVRE Louis	se dit d’un vêtement mal boutonné et qui fait un ‘biot’
+x	badralleriant	badrallàe	badrallàe	VERB			Présent	Conditionnel	3.0	pl				100.1	LIEVRE Louis	se dit d’un vêtement mal boutonné et qui fait un ‘biot’
+x	badrallant	badrallàe	badrallàe	VERB			Présent	Participe						100.1	LIEVRE Louis	se dit d’un vêtement mal boutonné et qui fait un ‘biot’
+x	badrallai	badrallàe	badrallàe	VERB			Passé	Participe		sg	m			100.1	LIEVRE Louis	se dit d’un vêtement mal boutonné et qui fait un ‘biot’
+x	badrallàie	badrallàe	badrallàe	VERB			Passé	Participe		sg	f			100.1	LIEVRE Louis	se dit d’un vêtement mal boutonné et qui fait un ‘biot’
+x	badrallais	badrallàe	badrallàe	VERB			Passé	Participe		pl	m			100.1	LIEVRE Louis	se dit d’un vêtement mal boutonné et qui fait un ‘biot’
+x	badrallàies	badrallàe	badrallàe	VERB			Passé	Participe		pl	f			100.1	LIEVRE Louis	se dit d’un vêtement mal boutonné et qui fait un ‘biot’
+x	badralle	badrallàe	badrallàe	VERB			Présent	Impératif	2.0	sg				100.1	LIEVRE Louis	se dit d’un vêtement mal boutonné et qui fait un ‘biot’
+x	badrallun	badrallàe	badrallàe	VERB			Présent	Impératif	1.0	pl				100.1	LIEVRE Louis	se dit d’un vêtement mal boutonné et qui fait un ‘biot’
+x	badralléz	badrallàe	badrallàe	VERB			Présent	Impératif	2.0	pl				100.1	LIEVRE Louis	se dit d’un vêtement mal boutonné et qui fait un ‘biot’
+x	begàie	begàe	begàe	VERB			Passé	Participe		sg	f			100.4	LIEVRE Louis	badauder
+x	begais	begàe	begàe	VERB			Passé	Participe		pl	m			100.4	LIEVRE Louis	badauder
+x	begàies	begàe	begàe	VERB			Passé	Participe		pl	f			100.4	LIEVRE Louis	badauder
+x	briguenasses	briguenassàe	briguenassàe	VERB			Présent	Indicatif	2.0	sg				100.1	LIEVRE Louis	bruiner
+x	briguenassun	briguenassàe	briguenassàe	VERB			Présent	Indicatif	1.0	pl				100.1	LIEVRE Louis	bruiner
+x	briguenasséz	briguenassàe	briguenassàe	VERB			Présent	Indicatif	2.0	pl				100.1	LIEVRE Louis	bruiner
+x	briguenassant	briguenassàe	briguenassàe	VERB			Présent	Indicatif	3.0	pl				100.1	LIEVRE Louis	bruiner
+x	briguenassàe	briguenassàe	briguenassàe	VERB			Imparfait	Indicatif	1.0	sg				100.1	LIEVRE Louis	bruiner
+x	briguenassàes	briguenassàe	briguenassàe	VERB			Imparfait	Indicatif	2.0	sg				100.1	LIEVRE Louis	bruiner
+x	briguenassiun	briguenassàe	briguenassàe	VERB			Imparfait	Indicatif	1.0	pl				100.1	LIEVRE Louis	bruiner
+x	briguenassiéz	briguenassàe	briguenassàe	VERB			Imparfait	Indicatif	2.0	pl				100.1	LIEVRE Louis	bruiner
+x	briguenassiant	briguenassàe	briguenassàe	VERB			Imparfait	Indicatif	3.0	pl				100.1	LIEVRE Louis	bruiner
+x	briguenasserae	briguenassàe	briguenassàe	VERB			Futur	Indicatif	1.0	sg				100.1	LIEVRE Louis	bruiner
+x	briguenasseras	briguenassàe	briguenassàe	VERB			Futur	Indicatif	2.0	sg				100.1	LIEVRE Louis	bruiner
+x	briguenasserun	briguenassàe	briguenassàe	VERB			Futur	Indicatif	1.0	pl				100.1	LIEVRE Louis	bruiner
+x	briguenasseréz	briguenassàe	briguenassàe	VERB			Futur	Indicatif	2.0	pl				100.1	LIEVRE Louis	bruiner
+x	briguenasserant	briguenassàe	briguenassàe	VERB			Futur	Indicatif	3.0	pl				100.1	LIEVRE Louis	bruiner
+x	briguenassi	briguenassàe	briguenassàe	VERB			Passé simple	Indicatif	1.0	sg				100.1	LIEVRE Louis	bruiner
+x	briguenassis	briguenassàe	briguenassàe	VERB			Passé simple	Indicatif	2.0	sg				100.1	LIEVRE Louis	bruiner
+x	briguenassirun	briguenassàe	briguenassàe	VERB			Passé simple	Indicatif	1.0	pl				100.1	LIEVRE Louis	bruiner
+x	briguenassiréz	briguenassàe	briguenassàe	VERB			Passé simple	Indicatif	1.0	pl				100.1	LIEVRE Louis	bruiner
+x	briguenassirant	briguenassàe	briguenassàe	VERB			Passé simple	Indicatif	3.0	pl				100.1	LIEVRE Louis	bruiner
+x	briguenasses	briguenassàe	briguenassàe	VERB			Présent	Subjonctif	2.0	sg				100.1	LIEVRE Louis	bruiner
+x	briguenassun	briguenassàe	briguenassàe	VERB			Présent	Subjonctif	1.0	pl				100.1	LIEVRE Louis	bruiner
+x	briguenasséz	briguenassàe	briguenassàe	VERB			Présent	Subjonctif	2.0	pl				100.1	LIEVRE Louis	bruiner
+x	briguenassant	briguenassàe	briguenassàe	VERB			Présent	Subjonctif	3.0	pl				100.1	LIEVRE Louis	bruiner
+x	briguenassisses	briguenassàe	briguenassàe	VERB			Imparfait	Subjonctif	2.0	sg				100.1	LIEVRE Louis	bruiner
+x	briguenassissiun	briguenassàe	briguenassàe	VERB			Imparfait	Subjonctif	1.0	pl				100.1	LIEVRE Louis	bruiner
+x	briguenassissiéz	briguenassàe	briguenassàe	VERB			Imparfait	Subjonctif	2.0	pl				100.1	LIEVRE Louis	bruiner
+x	briguenassissiant	briguenassàe	briguenassàe	VERB			Imparfait	Subjonctif	3.0	pl				100.1	LIEVRE Louis	bruiner
+x	briguenasseràe	briguenassàe	briguenassàe	VERB			Présent	Conditionnel	1.0	sg				100.1	LIEVRE Louis	bruiner
+x	briguenasseràes	briguenassàe	briguenassàe	VERB			Présent	Conditionnel	2.0	sg				100.1	LIEVRE Louis	bruiner
+x	briguenasseriun	briguenassàe	briguenassàe	VERB			Présent	Conditionnel	1.0	pl				100.1	LIEVRE Louis	bruiner
+x	briguenasseriéz	briguenassàe	briguenassàe	VERB			Présent	Conditionnel	2.0	pl				100.1	LIEVRE Louis	bruiner
+x	briguenasseriant	briguenassàe	briguenassàe	VERB			Présent	Conditionnel	3.0	pl				100.1	LIEVRE Louis	bruiner
+x	briguenasse	briguenassàe	briguenassàe	VERB			Présent	Impératif	2.0	sg				100.1	LIEVRE Louis	bruiner
+x	briguenassun	briguenassàe	briguenassàe	VERB			Présent	Impératif	1.0	pl				100.1	LIEVRE Louis	bruiner
+x	briguenasséz	briguenassàe	briguenassàe	VERB			Présent	Impératif	2.0	pl				100.1	LIEVRE Louis	bruiner
+x	brimalles	brimallàe	brimallàe	VERB			Présent	Indicatif	2.0	sg				100.1	LIEVRE Louis	bruiner
+x	brimallun	brimallàe	brimallàe	VERB			Présent	Indicatif	1.0	pl				100.1	LIEVRE Louis	bruiner
+x	brimalléz	brimallàe	brimallàe	VERB			Présent	Indicatif	2.0	pl				100.1	LIEVRE Louis	bruiner
+x	brimallant	brimallàe	brimallàe	VERB			Présent	Indicatif	3.0	pl				100.1	LIEVRE Louis	bruiner
+x	brimallàe	brimallàe	brimallàe	VERB			Imparfait	Indicatif	1.0	sg				100.1	LIEVRE Louis	bruiner
+x	brimallàes	brimallàe	brimallàe	VERB			Imparfait	Indicatif	2.0	sg				100.1	LIEVRE Louis	bruiner
+x	brimalliun	brimallàe	brimallàe	VERB			Imparfait	Indicatif	1.0	pl				100.1	LIEVRE Louis	bruiner
+x	brimalliéz	brimallàe	brimallàe	VERB			Imparfait	Indicatif	2.0	pl				100.1	LIEVRE Louis	bruiner
+x	brimalliant	brimallàe	brimallàe	VERB			Imparfait	Indicatif	3.0	pl				100.1	LIEVRE Louis	bruiner
+x	brimallerae	brimallàe	brimallàe	VERB			Futur	Indicatif	1.0	sg				100.1	LIEVRE Louis	bruiner
+x	brimalleras	brimallàe	brimallàe	VERB			Futur	Indicatif	2.0	sg				100.1	LIEVRE Louis	bruiner
+x	brimallerun	brimallàe	brimallàe	VERB			Futur	Indicatif	1.0	pl				100.1	LIEVRE Louis	bruiner
+x	brimalleréz	brimallàe	brimallàe	VERB			Futur	Indicatif	2.0	pl				100.1	LIEVRE Louis	bruiner
+x	brimallerant	brimallàe	brimallàe	VERB			Futur	Indicatif	3.0	pl				100.1	LIEVRE Louis	bruiner
+x	brimalli	brimallàe	brimallàe	VERB			Passé simple	Indicatif	1.0	sg				100.1	LIEVRE Louis	bruiner
+x	brimallis	brimallàe	brimallàe	VERB			Passé simple	Indicatif	2.0	sg				100.1	LIEVRE Louis	bruiner
+x	brimallirun	brimallàe	brimallàe	VERB			Passé simple	Indicatif	1.0	pl				100.1	LIEVRE Louis	bruiner
+x	brimalliréz	brimallàe	brimallàe	VERB			Passé simple	Indicatif	1.0	pl				100.1	LIEVRE Louis	bruiner
+x	brimallirant	brimallàe	brimallàe	VERB			Passé simple	Indicatif	3.0	pl				100.1	LIEVRE Louis	bruiner
+x	brimalles	brimallàe	brimallàe	VERB			Présent	Subjonctif	2.0	sg				100.1	LIEVRE Louis	bruiner
+x	brimallun	brimallàe	brimallàe	VERB			Présent	Subjonctif	1.0	pl				100.1	LIEVRE Louis	bruiner
+x	brimalléz	brimallàe	brimallàe	VERB			Présent	Subjonctif	2.0	pl				100.1	LIEVRE Louis	bruiner
+x	brimallant	brimallàe	brimallàe	VERB			Présent	Subjonctif	3.0	pl				100.1	LIEVRE Louis	bruiner
+x	brimallisses	brimallàe	brimallàe	VERB			Imparfait	Subjonctif	2.0	sg				100.1	LIEVRE Louis	bruiner
+x	brimallissiun	brimallàe	brimallàe	VERB			Imparfait	Subjonctif	1.0	pl				100.1	LIEVRE Louis	bruiner
+x	brimallissiéz	brimallàe	brimallàe	VERB			Imparfait	Subjonctif	2.0	pl				100.1	LIEVRE Louis	bruiner
+x	brimallissiant	brimallàe	brimallàe	VERB			Imparfait	Subjonctif	3.0	pl				100.1	LIEVRE Louis	bruiner
+x	brimalleràe	brimallàe	brimallàe	VERB			Présent	Conditionnel	1.0	sg				100.1	LIEVRE Louis	bruiner
+x	brimalleràes	brimallàe	brimallàe	VERB			Présent	Conditionnel	2.0	sg				100.1	LIEVRE Louis	bruiner
+x	brimalleriun	brimallàe	brimallàe	VERB			Présent	Conditionnel	1.0	pl				100.1	LIEVRE Louis	bruiner
+x	brimalleriéz	brimallàe	brimallàe	VERB			Présent	Conditionnel	2.0	pl				100.1	LIEVRE Louis	bruiner
+x	brimalleriant	brimallàe	brimallàe	VERB			Présent	Conditionnel	3.0	pl				100.1	LIEVRE Louis	bruiner
+x	brimalle	brimallàe	brimallàe	VERB			Présent	Impératif	2.0	sg				100.1	LIEVRE Louis	bruiner
+x	brimallun	brimallàe	brimallàe	VERB			Présent	Impératif	1.0	pl				100.1	LIEVRE Louis	bruiner
+x	brimalléz	brimallàe	brimallàe	VERB			Présent	Impératif	2.0	pl				100.1	LIEVRE Louis	bruiner
+x	brimasses	brimassàe	brimassàe	VERB			Présent	Indicatif	2.0	sg				100.1	LIEVRE Louis	bruiner
+x	brimassun	brimassàe	brimassàe	VERB			Présent	Indicatif	1.0	pl				100.1	LIEVRE Louis	bruiner
+x	brimasséz	brimassàe	brimassàe	VERB			Présent	Indicatif	2.0	pl				100.1	LIEVRE Louis	bruiner
+x	brimassant	brimassàe	brimassàe	VERB			Présent	Indicatif	3.0	pl				100.1	LIEVRE Louis	bruiner
+x	brimassàe	brimassàe	brimassàe	VERB			Imparfait	Indicatif	1.0	sg				100.1	LIEVRE Louis	bruiner
+x	brimassàes	brimassàe	brimassàe	VERB			Imparfait	Indicatif	2.0	sg				100.1	LIEVRE Louis	bruiner
+x	brimassiun	brimassàe	brimassàe	VERB			Imparfait	Indicatif	1.0	pl				100.1	LIEVRE Louis	bruiner
+x	brimassiéz	brimassàe	brimassàe	VERB			Imparfait	Indicatif	2.0	pl				100.1	LIEVRE Louis	bruiner
+x	brimassiant	brimassàe	brimassàe	VERB			Imparfait	Indicatif	3.0	pl				100.1	LIEVRE Louis	bruiner
+x	brimasserae	brimassàe	brimassàe	VERB			Futur	Indicatif	1.0	sg				100.1	LIEVRE Louis	bruiner
+x	brimasseras	brimassàe	brimassàe	VERB			Futur	Indicatif	2.0	sg				100.1	LIEVRE Louis	bruiner
+x	brimasserun	brimassàe	brimassàe	VERB			Futur	Indicatif	1.0	pl				100.1	LIEVRE Louis	bruiner
+x	brimasseréz	brimassàe	brimassàe	VERB			Futur	Indicatif	2.0	pl				100.1	LIEVRE Louis	bruiner
+x	brimasserant	brimassàe	brimassàe	VERB			Futur	Indicatif	3.0	pl				100.1	LIEVRE Louis	bruiner
+x	brimassi	brimassàe	brimassàe	VERB			Passé simple	Indicatif	1.0	sg				100.1	LIEVRE Louis	bruiner
+x	brimassis	brimassàe	brimassàe	VERB			Passé simple	Indicatif	2.0	sg				100.1	LIEVRE Louis	bruiner
+x	brimassirun	brimassàe	brimassàe	VERB			Passé simple	Indicatif	1.0	pl				100.1	LIEVRE Louis	bruiner
+x	brimassiréz	brimassàe	brimassàe	VERB			Passé simple	Indicatif	1.0	pl				100.1	LIEVRE Louis	bruiner
+x	brimassirant	brimassàe	brimassàe	VERB			Passé simple	Indicatif	3.0	pl				100.1	LIEVRE Louis	bruiner
+x	brimasses	brimassàe	brimassàe	VERB			Présent	Subjonctif	2.0	sg				100.1	LIEVRE Louis	bruiner
+x	brimassun	brimassàe	brimassàe	VERB			Présent	Subjonctif	1.0	pl				100.1	LIEVRE Louis	bruiner
+x	brimasséz	brimassàe	brimassàe	VERB			Présent	Subjonctif	2.0	pl				100.1	LIEVRE Louis	bruiner
+x	brimassant	brimassàe	brimassàe	VERB			Présent	Subjonctif	3.0	pl				100.1	LIEVRE Louis	bruiner
+x	brimassisses	brimassàe	brimassàe	VERB			Imparfait	Subjonctif	2.0	sg				100.1	LIEVRE Louis	bruiner
+x	brimassissiun	brimassàe	brimassàe	VERB			Imparfait	Subjonctif	1.0	pl				100.1	LIEVRE Louis	bruiner
+x	brimassissiéz	brimassàe	brimassàe	VERB			Imparfait	Subjonctif	2.0	pl				100.1	LIEVRE Louis	bruiner
+x	brimassissiant	brimassàe	brimassàe	VERB			Imparfait	Subjonctif	3.0	pl				100.1	LIEVRE Louis	bruiner
+x	brimasseràe	brimassàe	brimassàe	VERB			Présent	Conditionnel	1.0	sg				100.1	LIEVRE Louis	bruiner
+x	brimasseràes	brimassàe	brimassàe	VERB			Présent	Conditionnel	2.0	sg				100.1	LIEVRE Louis	bruiner
+x	brimasseriun	brimassàe	brimassàe	VERB			Présent	Conditionnel	1.0	pl				100.1	LIEVRE Louis	bruiner
+x	brimasseriéz	brimassàe	brimassàe	VERB			Présent	Conditionnel	2.0	pl				100.1	LIEVRE Louis	bruiner
+x	brimasseriant	brimassàe	brimassàe	VERB			Présent	Conditionnel	3.0	pl				100.1	LIEVRE Louis	bruiner
+x	brimasse	brimassàe	brimassàe	VERB			Présent	Impératif	2.0	sg				100.1	LIEVRE Louis	bruiner
+x	brimassun	brimassàe	brimassàe	VERB			Présent	Impératif	1.0	pl				100.1	LIEVRE Louis	bruiner
+x	brimasséz	brimassàe	brimassàe	VERB			Présent	Impératif	2.0	pl				100.1	LIEVRE Louis	bruiner
+x	brouasses	brouassàe	brouassàe	VERB			Présent	Indicatif	2.0	sg				100.1	LIEVRE Louis	bruiner
+x	brouassun	brouassàe	brouassàe	VERB			Présent	Indicatif	1.0	pl				100.1	LIEVRE Louis	bruiner
+x	brouasséz	brouassàe	brouassàe	VERB			Présent	Indicatif	2.0	pl				100.1	LIEVRE Louis	bruiner
+x	brouassant	brouassàe	brouassàe	VERB			Présent	Indicatif	3.0	pl				100.1	LIEVRE Louis	bruiner
+x	brouassàe	brouassàe	brouassàe	VERB			Imparfait	Indicatif	1.0	sg				100.1	LIEVRE Louis	bruiner
+x	brouassàes	brouassàe	brouassàe	VERB			Imparfait	Indicatif	2.0	sg				100.1	LIEVRE Louis	bruiner
+x	brouassiun	brouassàe	brouassàe	VERB			Imparfait	Indicatif	1.0	pl				100.1	LIEVRE Louis	bruiner
+x	brouassiéz	brouassàe	brouassàe	VERB			Imparfait	Indicatif	2.0	pl				100.1	LIEVRE Louis	bruiner
+x	brouassiant	brouassàe	brouassàe	VERB			Imparfait	Indicatif	3.0	pl				100.1	LIEVRE Louis	bruiner
+x	brouasserae	brouassàe	brouassàe	VERB			Futur	Indicatif	1.0	sg				100.1	LIEVRE Louis	bruiner
+x	brouasseras	brouassàe	brouassàe	VERB			Futur	Indicatif	2.0	sg				100.1	LIEVRE Louis	bruiner
+x	brouasserun	brouassàe	brouassàe	VERB			Futur	Indicatif	1.0	pl				100.1	LIEVRE Louis	bruiner
+x	brouasseréz	brouassàe	brouassàe	VERB			Futur	Indicatif	2.0	pl				100.1	LIEVRE Louis	bruiner
+x	brouasserant	brouassàe	brouassàe	VERB			Futur	Indicatif	3.0	pl				100.1	LIEVRE Louis	bruiner
+x	brouassi	brouassàe	brouassàe	VERB			Passé simple	Indicatif	1.0	sg				100.1	LIEVRE Louis	bruiner
+x	brouassis	brouassàe	brouassàe	VERB			Passé simple	Indicatif	2.0	sg				100.1	LIEVRE Louis	bruiner
+x	brouassirun	brouassàe	brouassàe	VERB			Passé simple	Indicatif	1.0	pl				100.1	LIEVRE Louis	bruiner
+x	brouassiréz	brouassàe	brouassàe	VERB			Passé simple	Indicatif	1.0	pl				100.1	LIEVRE Louis	bruiner
+x	brouassirant	brouassàe	brouassàe	VERB			Passé simple	Indicatif	3.0	pl				100.1	LIEVRE Louis	bruiner
+x	brouasses	brouassàe	brouassàe	VERB			Présent	Subjonctif	2.0	sg				100.1	LIEVRE Louis	bruiner
+x	brouassun	brouassàe	brouassàe	VERB			Présent	Subjonctif	1.0	pl				100.1	LIEVRE Louis	bruiner
+x	brouasséz	brouassàe	brouassàe	VERB			Présent	Subjonctif	2.0	pl				100.1	LIEVRE Louis	bruiner
+x	brouassant	brouassàe	brouassàe	VERB			Présent	Subjonctif	3.0	pl				100.1	LIEVRE Louis	bruiner
+x	brouassisses	brouassàe	brouassàe	VERB			Imparfait	Subjonctif	2.0	sg				100.1	LIEVRE Louis	bruiner
+x	brouassissiun	brouassàe	brouassàe	VERB			Imparfait	Subjonctif	1.0	pl				100.1	LIEVRE Louis	bruiner
+x	brouassissiéz	brouassàe	brouassàe	VERB			Imparfait	Subjonctif	2.0	pl				100.1	LIEVRE Louis	bruiner
+x	brouassissiant	brouassàe	brouassàe	VERB			Imparfait	Subjonctif	3.0	pl				100.1	LIEVRE Louis	bruiner
+x	brouasseràe	brouassàe	brouassàe	VERB			Présent	Conditionnel	1.0	sg				100.1	LIEVRE Louis	bruiner
+x	brouasseràes	brouassàe	brouassàe	VERB			Présent	Conditionnel	2.0	sg				100.1	LIEVRE Louis	bruiner
+x	brouasseriun	brouassàe	brouassàe	VERB			Présent	Conditionnel	1.0	pl				100.1	LIEVRE Louis	bruiner
+x	brouasseriéz	brouassàe	brouassàe	VERB			Présent	Conditionnel	2.0	pl				100.1	LIEVRE Louis	bruiner
+x	brouasseriant	brouassàe	brouassàe	VERB			Présent	Conditionnel	3.0	pl				100.1	LIEVRE Louis	bruiner
+x	brouasse	brouassàe	brouassàe	VERB			Présent	Impératif	2.0	sg				100.1	LIEVRE Louis	bruiner
+x	brouassun	brouassàe	brouassàe	VERB			Présent	Impératif	1.0	pl				100.1	LIEVRE Louis	bruiner
+x	brouasséz	brouassàe	brouassàe	VERB			Présent	Impératif	2.0	pl				100.1	LIEVRE Louis	bruiner
+x	brumasses	brumassàe	brumassàe	VERB			Présent	Indicatif	2.0	sg				100.1	LIEVRE Louis	bruiner
+x	brumassun	brumassàe	brumassàe	VERB			Présent	Indicatif	1.0	pl				100.1	LIEVRE Louis	bruiner
+x	brumasséz	brumassàe	brumassàe	VERB			Présent	Indicatif	2.0	pl				100.1	LIEVRE Louis	bruiner
+x	brumassant	brumassàe	brumassàe	VERB			Présent	Indicatif	3.0	pl				100.1	LIEVRE Louis	bruiner
+x	brumassàe	brumassàe	brumassàe	VERB			Imparfait	Indicatif	1.0	sg				100.1	LIEVRE Louis	bruiner
+x	brumassàes	brumassàe	brumassàe	VERB			Imparfait	Indicatif	2.0	sg				100.1	LIEVRE Louis	bruiner
+x	brumassiun	brumassàe	brumassàe	VERB			Imparfait	Indicatif	1.0	pl				100.1	LIEVRE Louis	bruiner
+x	brumassiéz	brumassàe	brumassàe	VERB			Imparfait	Indicatif	2.0	pl				100.1	LIEVRE Louis	bruiner
+x	brumassiant	brumassàe	brumassàe	VERB			Imparfait	Indicatif	3.0	pl				100.1	LIEVRE Louis	bruiner
+x	brumasserae	brumassàe	brumassàe	VERB			Futur	Indicatif	1.0	sg				100.1	LIEVRE Louis	bruiner
+x	brumasseras	brumassàe	brumassàe	VERB			Futur	Indicatif	2.0	sg				100.1	LIEVRE Louis	bruiner
+x	brumasserun	brumassàe	brumassàe	VERB			Futur	Indicatif	1.0	pl				100.1	LIEVRE Louis	bruiner
+x	brumasseréz	brumassàe	brumassàe	VERB			Futur	Indicatif	2.0	pl				100.1	LIEVRE Louis	bruiner
+x	brumasserant	brumassàe	brumassàe	VERB			Futur	Indicatif	3.0	pl				100.1	LIEVRE Louis	bruiner
+x	brumassi	brumassàe	brumassàe	VERB			Passé simple	Indicatif	1.0	sg				100.1	LIEVRE Louis	bruiner
+x	brumassis	brumassàe	brumassàe	VERB			Passé simple	Indicatif	2.0	sg				100.1	LIEVRE Louis	bruiner
+x	brumassirun	brumassàe	brumassàe	VERB			Passé simple	Indicatif	1.0	pl				100.1	LIEVRE Louis	bruiner
+x	brumassiréz	brumassàe	brumassàe	VERB			Passé simple	Indicatif	1.0	pl				100.1	LIEVRE Louis	bruiner
+x	brumassirant	brumassàe	brumassàe	VERB			Passé simple	Indicatif	3.0	pl				100.1	LIEVRE Louis	bruiner
+x	brumasses	brumassàe	brumassàe	VERB			Présent	Subjonctif	2.0	sg				100.1	LIEVRE Louis	bruiner
+x	brumassun	brumassàe	brumassàe	VERB			Présent	Subjonctif	1.0	pl				100.1	LIEVRE Louis	bruiner
+x	brumasséz	brumassàe	brumassàe	VERB			Présent	Subjonctif	2.0	pl				100.1	LIEVRE Louis	bruiner
+x	brumassant	brumassàe	brumassàe	VERB			Présent	Subjonctif	3.0	pl				100.1	LIEVRE Louis	bruiner
+x	brumassisses	brumassàe	brumassàe	VERB			Imparfait	Subjonctif	2.0	sg				100.1	LIEVRE Louis	bruiner
+x	brumassissiun	brumassàe	brumassàe	VERB			Imparfait	Subjonctif	1.0	pl				100.1	LIEVRE Louis	bruiner
+x	brumassissiéz	brumassàe	brumassàe	VERB			Imparfait	Subjonctif	2.0	pl				100.1	LIEVRE Louis	bruiner
+x	brumassissiant	brumassàe	brumassàe	VERB			Imparfait	Subjonctif	3.0	pl				100.1	LIEVRE Louis	bruiner
+x	brumasseràe	brumassàe	brumassàe	VERB			Présent	Conditionnel	1.0	sg				100.1	LIEVRE Louis	bruiner
+x	brumasseràes	brumassàe	brumassàe	VERB			Présent	Conditionnel	2.0	sg				100.1	LIEVRE Louis	bruiner
+x	brumasseriun	brumassàe	brumassàe	VERB			Présent	Conditionnel	1.0	pl				100.1	LIEVRE Louis	bruiner
+x	brumasseriéz	brumassàe	brumassàe	VERB			Présent	Conditionnel	2.0	pl				100.1	LIEVRE Louis	bruiner
+x	brumasseriant	brumassàe	brumassàe	VERB			Présent	Conditionnel	3.0	pl				100.1	LIEVRE Louis	bruiner
+x	brumasse	brumassàe	brumassàe	VERB			Présent	Impératif	2.0	sg				100.1	LIEVRE Louis	bruiner
+x	brumassun	brumassàe	brumassàe	VERB			Présent	Impératif	1.0	pl				100.1	LIEVRE Louis	bruiner
+x	brumasséz	brumassàe	brumassàe	VERB			Présent	Impératif	2.0	pl				100.1	LIEVRE Louis	bruiner
+x	cllevi	cllevàe	cllevàe	VERB			Passé simple	Indicatif	1.0	sg				100.1	LIEVRE Louis	clore
+x	cllevis	cllevàe	cllevàe	VERB			Passé simple	Indicatif	2.0	sg				100.1	LIEVRE Louis	clore
+x	cllevit	cllevàe	cllevàe	VERB			Passé simple	Indicatif	3.0	sg				100.1	LIEVRE Louis	clore
+x	cllevirun	cllevàe	cllevàe	VERB			Passé simple	Indicatif	1.0	pl				100.1	LIEVRE Louis	clore
+x	clleviréz	cllevàe	cllevàe	VERB			Passé simple	Indicatif	1.0	pl				100.1	LIEVRE Louis	clore
+x	cllevirant	cllevàe	cllevàe	VERB			Passé simple	Indicatif	3.0	pl				100.1	LIEVRE Louis	clore
+x	cllevisse	cllevàe	cllevàe	VERB			Imparfait	Subjonctif	1.0	sg				100.1	LIEVRE Louis	clore
+x	cllevisses	cllevàe	cllevàe	VERB			Imparfait	Subjonctif	2.0	sg				100.1	LIEVRE Louis	clore
+x	cllevisse	cllevàe	cllevàe	VERB			Imparfait	Subjonctif	3.0	sg				100.1	LIEVRE Louis	clore
+x	cllevissiun	cllevàe	cllevàe	VERB			Imparfait	Subjonctif	1.0	pl				100.1	LIEVRE Louis	clore
+x	cllevissiéz	cllevàe	cllevàe	VERB			Imparfait	Subjonctif	2.0	pl				100.1	LIEVRE Louis	clore
+x	cllevissiant	cllevàe	cllevàe	VERB			Imparfait	Subjonctif	3.0	pl				100.1	LIEVRE Louis	clore
+x	éclloui	écllouàe	écllouàe	VERB			Passé simple	Indicatif	1.0	sg				100.1	LIEVRE Louis	éclore
+x	écllouis	écllouàe	écllouàe	VERB			Passé simple	Indicatif	2.0	sg				100.1	LIEVRE Louis	éclore
+x	écllouit	écllouàe	écllouàe	VERB			Passé simple	Indicatif	3.0	sg				100.1	LIEVRE Louis	éclore
+x	écllouirun	écllouàe	écllouàe	VERB			Passé simple	Indicatif	1.0	pl				100.1	LIEVRE Louis	éclore
+x	écllouiréz	écllouàe	écllouàe	VERB			Passé simple	Indicatif	1.0	pl				100.1	LIEVRE Louis	éclore
+x	écllouirant	écllouàe	écllouàe	VERB			Passé simple	Indicatif	3.0	pl				100.1	LIEVRE Louis	éclore
+x	écllouisse	écllouàe	écllouàe	VERB			Imparfait	Subjonctif	1.0	sg				100.1	LIEVRE Louis	éclore
+x	écllouisses	écllouàe	écllouàe	VERB			Imparfait	Subjonctif	2.0	sg				100.1	LIEVRE Louis	éclore
+x	écllouisse	écllouàe	écllouàe	VERB			Imparfait	Subjonctif	3.0	sg				100.1	LIEVRE Louis	éclore
+x	écllouissiun	écllouàe	écllouàe	VERB			Imparfait	Subjonctif	1.0	pl				100.1	LIEVRE Louis	éclore
+x	écllouissiéz	écllouàe	écllouàe	VERB			Imparfait	Subjonctif	2.0	pl				100.1	LIEVRE Louis	éclore
+x	écllouissiant	écllouàe	écllouàe	VERB			Imparfait	Subjonctif	3.0	pl				100.1	LIEVRE Louis	éclore
+x	épiralliéz	épirallàe 	épirallàe 	VERB			Imparfait	Indicatif	2.0	pl				100.1	LIEVRE Louis	époumonner
+x	épirallisse	épirallàe 	épirallàe 	VERB			Imparfait	Subjonctif	1.0	sg				100.1	LIEVRE Louis	époumonner
+x	épirallisses	épirallàe 	épirallàe 	VERB			Imparfait	Subjonctif	2.0	sg				100.1	LIEVRE Louis	époumonner
+x	épirallisse	épirallàe 	épirallàe 	VERB			Imparfait	Subjonctif	3.0	sg				100.1	LIEVRE Louis	époumonner
+x	épirallissiun	épirallàe 	épirallàe 	VERB			Imparfait	Subjonctif	1.0	pl				100.1	LIEVRE Louis	époumonner
+x	épirallissiéz	épirallàe 	épirallàe 	VERB			Imparfait	Subjonctif	2.0	pl				100.1	LIEVRE Louis	époumonner
+x	épirallissiant	épirallàe 	épirallàe 	VERB			Imparfait	Subjonctif	3.0	pl				100.1	LIEVRE Louis	époumonner
+x	épirolliéz	épirollàe 	s'épirallàe	VERB			Imparfait	Indicatif	2.0	pl				100.1	LIEVRE Louis	époumonner
+x	épirollisse	épirollàe 	s'épirallàe	VERB			Imparfait	Subjonctif	1.0	sg				100.1	LIEVRE Louis	époumonner
+x	épirollisses	épirollàe 	s'épirallàe	VERB			Imparfait	Subjonctif	2.0	sg				100.1	LIEVRE Louis	époumonner
+x	épirollisse	épirollàe 	s'épirallàe	VERB			Imparfait	Subjonctif	3.0	sg				100.1	LIEVRE Louis	époumonner
+x	épirollissiun	épirollàe 	s'épirallàe	VERB			Imparfait	Subjonctif	1.0	pl				100.1	LIEVRE Louis	époumonner
+x	épirollissiéz	épirollàe 	s'épirallàe	VERB			Imparfait	Subjonctif	2.0	pl				100.1	LIEVRE Louis	époumonner
+x	épirollissiant	épirollàe 	s'épirallàe	VERB			Imparfait	Subjonctif	3.0	pl				100.1	LIEVRE Louis	époumonner
+x	fouinasses	fouinassàe	fouinassàe	VERB			Présent	Indicatif	2.0	sg				100.1	LIEVRE Louis	bruiner
+x	fouinassun	fouinassàe	fouinassàe	VERB			Présent	Indicatif	1.0	pl				100.1	LIEVRE Louis	bruiner
+x	fouinasséz	fouinassàe	fouinassàe	VERB			Présent	Indicatif	2.0	pl				100.1	LIEVRE Louis	bruiner
+x	fouinassant	fouinassàe	fouinassàe	VERB			Présent	Indicatif	3.0	pl				100.1	LIEVRE Louis	bruiner
+x	fouinassàe	fouinassàe	fouinassàe	VERB			Imparfait	Indicatif	1.0	sg				100.1	LIEVRE Louis	bruiner
+x	fouinassàes	fouinassàe	fouinassàe	VERB			Imparfait	Indicatif	2.0	sg				100.1	LIEVRE Louis	bruiner
+x	fouinassiun	fouinassàe	fouinassàe	VERB			Imparfait	Indicatif	1.0	pl				100.1	LIEVRE Louis	bruiner
+x	fouinassiéz	fouinassàe	fouinassàe	VERB			Imparfait	Indicatif	2.0	pl				100.1	LIEVRE Louis	bruiner
+x	fouinassiant	fouinassàe	fouinassàe	VERB			Imparfait	Indicatif	3.0	pl				100.1	LIEVRE Louis	bruiner
+x	fouinasserae	fouinassàe	fouinassàe	VERB			Futur	Indicatif	1.0	sg				100.1	LIEVRE Louis	bruiner
+x	fouinasseras	fouinassàe	fouinassàe	VERB			Futur	Indicatif	2.0	sg				100.1	LIEVRE Louis	bruiner
+x	fouinasserun	fouinassàe	fouinassàe	VERB			Futur	Indicatif	1.0	pl				100.1	LIEVRE Louis	bruiner
+x	fouinasseréz	fouinassàe	fouinassàe	VERB			Futur	Indicatif	2.0	pl				100.1	LIEVRE Louis	bruiner
+x	fouinasserant	fouinassàe	fouinassàe	VERB			Futur	Indicatif	3.0	pl				100.1	LIEVRE Louis	bruiner
+x	fouinassi	fouinassàe	fouinassàe	VERB			Passé simple	Indicatif	1.0	sg				100.1	LIEVRE Louis	bruiner
+x	fouinassis	fouinassàe	fouinassàe	VERB			Passé simple	Indicatif	2.0	sg				100.1	LIEVRE Louis	bruiner
+x	fouinassirun	fouinassàe	fouinassàe	VERB			Passé simple	Indicatif	1.0	pl				100.1	LIEVRE Louis	bruiner
+x	fouinassiréz	fouinassàe	fouinassàe	VERB			Passé simple	Indicatif	1.0	pl				100.1	LIEVRE Louis	bruiner
+x	fouinassirant	fouinassàe	fouinassàe	VERB			Passé simple	Indicatif	3.0	pl				100.1	LIEVRE Louis	bruiner
+x	fouinasses	fouinassàe	fouinassàe	VERB			Présent	Subjonctif	2.0	sg				100.1	LIEVRE Louis	bruiner
+x	fouinassun	fouinassàe	fouinassàe	VERB			Présent	Subjonctif	1.0	pl				100.1	LIEVRE Louis	bruiner
+x	fouinasséz	fouinassàe	fouinassàe	VERB			Présent	Subjonctif	2.0	pl				100.1	LIEVRE Louis	bruiner
+x	fouinassant	fouinassàe	fouinassàe	VERB			Présent	Subjonctif	3.0	pl				100.1	LIEVRE Louis	bruiner
+x	fouinassisses	fouinassàe	fouinassàe	VERB			Imparfait	Subjonctif	2.0	sg				100.1	LIEVRE Louis	bruiner
+x	fouinassissiun	fouinassàe	fouinassàe	VERB			Imparfait	Subjonctif	1.0	pl				100.1	LIEVRE Louis	bruiner
+x	fouinassissiéz	fouinassàe	fouinassàe	VERB			Imparfait	Subjonctif	2.0	pl				100.1	LIEVRE Louis	bruiner
+x	fouinassissiant	fouinassàe	fouinassàe	VERB			Imparfait	Subjonctif	3.0	pl				100.1	LIEVRE Louis	bruiner
+x	fouinasseràe	fouinassàe	fouinassàe	VERB			Présent	Conditionnel	1.0	sg				100.1	LIEVRE Louis	bruiner
+x	fouinasseràes	fouinassàe	fouinassàe	VERB			Présent	Conditionnel	2.0	sg				100.1	LIEVRE Louis	bruiner
+x	fouinasseriun	fouinassàe	fouinassàe	VERB			Présent	Conditionnel	1.0	pl				100.1	LIEVRE Louis	bruiner
+x	fouinasseriéz	fouinassàe	fouinassàe	VERB			Présent	Conditionnel	2.0	pl				100.1	LIEVRE Louis	bruiner
+x	fouinasseriant	fouinassàe	fouinassàe	VERB			Présent	Conditionnel	3.0	pl				100.1	LIEVRE Louis	bruiner
+x	fouinasse	fouinassàe	fouinassàe	VERB			Présent	Impératif	2.0	sg				100.1	LIEVRE Louis	bruiner
+x	fouinassun	fouinassàe	fouinassàe	VERB			Présent	Impératif	1.0	pl				100.1	LIEVRE Louis	bruiner
+x	fouinasséz	fouinassàe	fouinassàe	VERB			Présent	Impératif	2.0	pl				100.1	LIEVRE Louis	bruiner
+x	foullardun	foullardàe	foullardàe	VERB			Présent	Indicatif	1.0	pl				100.1	LIEVRE Louis	bruire
+x	foullardéz	foullardàe	foullardàe	VERB			Présent	Indicatif	2.0	pl				100.1	LIEVRE Louis	bruire
+x	foullardi	foullardàe	foullardàe	VERB			Passé simple	Indicatif	1.0	sg				100.1	LIEVRE Louis	bruire
+x	foullardis	foullardàe	foullardàe	VERB			Passé simple	Indicatif	2.0	sg				100.1	LIEVRE Louis	bruire
+x	foullardirun	foullardàe	foullardàe	VERB			Passé simple	Indicatif	1.0	pl				100.1	LIEVRE Louis	bruire
+x	foullardiréz	foullardàe	foullardàe	VERB			Passé simple	Indicatif	1.0	pl				100.1	LIEVRE Louis	bruire
+x	foullarde	foullardàe	foullardàe	VERB			Présent	Subjonctif	1.0	sg				100.1	LIEVRE Louis	bruire
+x	foullardes	foullardàe	foullardàe	VERB			Présent	Subjonctif	2.0	sg				100.1	LIEVRE Louis	bruire
+x	foullardun	foullardàe	foullardàe	VERB			Présent	Subjonctif	1.0	pl				100.1	LIEVRE Louis	bruire
+x	foullardéz	foullardàe	foullardàe	VERB			Présent	Subjonctif	2.0	pl				100.1	LIEVRE Louis	bruire
+x	foullardisse	foullardàe	foullardàe	VERB			Imparfait	Subjonctif	1.0	sg				100.1	LIEVRE Louis	bruire
+x	foullardisses	foullardàe	foullardàe	VERB			Imparfait	Subjonctif	2.0	sg				100.1	LIEVRE Louis	bruire
+x	foullardissiun	foullardàe	foullardàe	VERB			Imparfait	Subjonctif	1.0	pl				100.1	LIEVRE Louis	bruire
+x	foullardissiéz	foullardàe	foullardàe	VERB			Imparfait	Subjonctif	2.0	pl				100.1	LIEVRE Louis	bruire
+x	foullardàie	foullardàe	foullardàe	VERB			Passé	Participe		sg	f			100.1	LIEVRE Louis	bruire
+x	foullardais	foullardàe	foullardàe	VERB			Passé	Participe		pl	m			100.1	LIEVRE Louis	bruire
+x	foullardàies	foullardàe	foullardàe	VERB			Passé	Participe		pl	f			100.1	LIEVRE Louis	bruire
+x	foullarde	foullardàe	foullardàe	VERB			Présent	Impératif	2.0	sg				100.1	LIEVRE Louis	bruire
+x	foullardun	foullardàe	foullardàe	VERB			Présent	Impératif	1.0	pl				100.1	LIEVRE Louis	bruire
+x	foullardéz	foullardàe	foullardàe	VERB			Présent	Impératif	2.0	pl				100.1	LIEVRE Louis	bruire
+x	foullarjhun	foullarjhàe	foullardàe	VERB			Présent	Indicatif	1.0	pl				100.1	LIEVRE Louis	bruire
+x	foullarjhéz	foullarjhàe	foullardàe	VERB			Présent	Indicatif	2.0	pl				100.1	LIEVRE Louis	bruire
+x	foullarjhi	foullarjhàe	foullardàe	VERB			Passé simple	Indicatif	1.0	sg				100.1	LIEVRE Louis	bruire
+x	foullarjhis	foullarjhàe	foullardàe	VERB			Passé simple	Indicatif	2.0	sg				100.1	LIEVRE Louis	bruire
+x	foullarjhirun	foullarjhàe	foullardàe	VERB			Passé simple	Indicatif	1.0	pl				100.1	LIEVRE Louis	bruire
+x	foullarjhiréz	foullarjhàe	foullardàe	VERB			Passé simple	Indicatif	1.0	pl				100.1	LIEVRE Louis	bruire
+x	foullarjhe	foullarjhàe	foullardàe	VERB			Présent	Subjonctif	1.0	sg				100.1	LIEVRE Louis	bruire
+x	foullarjhes	foullarjhàe	foullardàe	VERB			Présent	Subjonctif	2.0	sg				100.1	LIEVRE Louis	bruire
+x	foullarjhun	foullarjhàe	foullardàe	VERB			Présent	Subjonctif	1.0	pl				100.1	LIEVRE Louis	bruire
+x	foullarjhéz	foullarjhàe	foullardàe	VERB			Présent	Subjonctif	2.0	pl				100.1	LIEVRE Louis	bruire
+x	foullarjhisse	foullarjhàe	foullardàe	VERB			Imparfait	Subjonctif	1.0	sg				100.1	LIEVRE Louis	bruire
+x	foullarjhisses	foullarjhàe	foullardàe	VERB			Imparfait	Subjonctif	2.0	sg				100.1	LIEVRE Louis	bruire
+x	foullarjhissiun	foullarjhàe	foullardàe	VERB			Imparfait	Subjonctif	1.0	pl				100.1	LIEVRE Louis	bruire
+x	foullarjhissiéz	foullarjhàe	foullardàe	VERB			Imparfait	Subjonctif	2.0	pl				100.1	LIEVRE Louis	bruire
+x	foullarjhàie	foullarjhàe	foullardàe	VERB			Passé	Participe		sg	f			100.1	LIEVRE Louis	bruire
+x	foullarjhais	foullarjhàe	foullardàe	VERB			Passé	Participe		pl	m			100.1	LIEVRE Louis	bruire
+x	foullarjhàies	foullarjhàe	foullardàe	VERB			Passé	Participe		pl	f			100.1	LIEVRE Louis	bruire
+x	foullarjhe	foullarjhàe	foullardàe	VERB			Présent	Impératif	2.0	sg				100.1	LIEVRE Louis	bruire
+x	foullarjhun	foullarjhàe	foullardàe	VERB			Présent	Impératif	1.0	pl				100.1	LIEVRE Louis	bruire
+x	foullarjhéz	foullarjhàe	foullardàe	VERB			Présent	Impératif	2.0	pl				100.1	LIEVRE Louis	bruire
+x	fricassiéz	fricassàe	fricassàe	VERB			Imparfait	Indicatif	2.0	pl				100.1	LIEVRE Louis	frire
+x	fricassisse	fricassàe	fricassàe	VERB			Imparfait	Subjonctif	1.0	sg				100.1	LIEVRE Louis	frire
+x	fricassisses	fricassàe	fricassàe	VERB			Imparfait	Subjonctif	2.0	sg				100.1	LIEVRE Louis	frire
+x	fricassisse	fricassàe	fricassàe	VERB			Imparfait	Subjonctif	3.0	sg				100.1	LIEVRE Louis	frire
+x	fricassissiun	fricassàe	fricassàe	VERB			Imparfait	Subjonctif	1.0	pl				100.1	LIEVRE Louis	frire
+x	fricassissiéz	fricassàe	fricassàe	VERB			Imparfait	Subjonctif	2.0	pl				100.1	LIEVRE Louis	frire
+x	fricassissiant	fricassàe	fricassàe	VERB			Imparfait	Subjonctif	3.0	pl				100.1	LIEVRE Louis	frire
+x	frigassiéz	frigassàe	frigassàe	VERB			Imparfait	Indicatif	2.0	pl				100.1	LIEVRE Louis	frire
+x	frigassisse	frigassàe	frigassàe	VERB			Imparfait	Subjonctif	1.0	sg				100.1	LIEVRE Louis	frire
+x	frigassisses	frigassàe	frigassàe	VERB			Imparfait	Subjonctif	2.0	sg				100.1	LIEVRE Louis	frire
+x	frigassisse	frigassàe	frigassàe	VERB			Imparfait	Subjonctif	3.0	sg				100.1	LIEVRE Louis	frire
+x	frigassissiun	frigassàe	frigassàe	VERB			Imparfait	Subjonctif	1.0	pl				100.1	LIEVRE Louis	frire
+x	frigassissiéz	frigassàe	frigassàe	VERB			Imparfait	Subjonctif	2.0	pl				100.1	LIEVRE Louis	frire
+x	frigassissiant	frigassàe	frigassàe	VERB			Imparfait	Subjonctif	3.0	pl				100.1	LIEVRE Louis	frire
+x	guenasses	guenassàe	guenassàe	VERB			Présent	Indicatif	2.0	sg				100.1	LIEVRE Louis	bruiner
+x	guenassun	guenassàe	guenassàe	VERB			Présent	Indicatif	1.0	pl				100.1	LIEVRE Louis	bruiner
+x	guenasséz	guenassàe	guenassàe	VERB			Présent	Indicatif	2.0	pl				100.1	LIEVRE Louis	bruiner
+x	guenassant	guenassàe	guenassàe	VERB			Présent	Indicatif	3.0	pl				100.1	LIEVRE Louis	bruiner
+x	guenassàe	guenassàe	guenassàe	VERB			Imparfait	Indicatif	1.0	sg				100.1	LIEVRE Louis	bruiner
+x	guenassàes	guenassàe	guenassàe	VERB			Imparfait	Indicatif	2.0	sg				100.1	LIEVRE Louis	bruiner
+x	guenassiun	guenassàe	guenassàe	VERB			Imparfait	Indicatif	1.0	pl				100.1	LIEVRE Louis	bruiner
+x	guenassiéz	guenassàe	guenassàe	VERB			Imparfait	Indicatif	2.0	pl				100.1	LIEVRE Louis	bruiner
+x	guenassiant	guenassàe	guenassàe	VERB			Imparfait	Indicatif	3.0	pl				100.1	LIEVRE Louis	bruiner
+x	guenasserae	guenassàe	guenassàe	VERB			Futur	Indicatif	1.0	sg				100.1	LIEVRE Louis	bruiner
+x	guenasseras	guenassàe	guenassàe	VERB			Futur	Indicatif	2.0	sg				100.1	LIEVRE Louis	bruiner
+x	guenasserun	guenassàe	guenassàe	VERB			Futur	Indicatif	1.0	pl				100.1	LIEVRE Louis	bruiner
+x	guenasseréz	guenassàe	guenassàe	VERB			Futur	Indicatif	2.0	pl				100.1	LIEVRE Louis	bruiner
+x	guenasserant	guenassàe	guenassàe	VERB			Futur	Indicatif	3.0	pl				100.1	LIEVRE Louis	bruiner
+x	guenassi	guenassàe	guenassàe	VERB			Passé simple	Indicatif	1.0	sg				100.1	LIEVRE Louis	bruiner
+x	guenassis	guenassàe	guenassàe	VERB			Passé simple	Indicatif	2.0	sg				100.1	LIEVRE Louis	bruiner
+x	guenassirun	guenassàe	guenassàe	VERB			Passé simple	Indicatif	1.0	pl				100.1	LIEVRE Louis	bruiner
+x	guenassiréz	guenassàe	guenassàe	VERB			Passé simple	Indicatif	1.0	pl				100.1	LIEVRE Louis	bruiner
+x	guenassirant	guenassàe	guenassàe	VERB			Passé simple	Indicatif	3.0	pl				100.1	LIEVRE Louis	bruiner
+x	guenasses	guenassàe	guenassàe	VERB			Présent	Subjonctif	2.0	sg				100.1	LIEVRE Louis	bruiner
+x	guenassun	guenassàe	guenassàe	VERB			Présent	Subjonctif	1.0	pl				100.1	LIEVRE Louis	bruiner
+x	guenasséz	guenassàe	guenassàe	VERB			Présent	Subjonctif	2.0	pl				100.1	LIEVRE Louis	bruiner
+x	guenassant	guenassàe	guenassàe	VERB			Présent	Subjonctif	3.0	pl				100.1	LIEVRE Louis	bruiner
+x	guenassisses	guenassàe	guenassàe	VERB			Imparfait	Subjonctif	2.0	sg				100.1	LIEVRE Louis	bruiner
+x	guenassissiun	guenassàe	guenassàe	VERB			Imparfait	Subjonctif	1.0	pl				100.1	LIEVRE Louis	bruiner
+x	guenassissiéz	guenassàe	guenassàe	VERB			Imparfait	Subjonctif	2.0	pl				100.1	LIEVRE Louis	bruiner
+x	guenassissiant	guenassàe	guenassàe	VERB			Imparfait	Subjonctif	3.0	pl				100.1	LIEVRE Louis	bruiner
+x	guenasseràe	guenassàe	guenassàe	VERB			Présent	Conditionnel	1.0	sg				100.1	LIEVRE Louis	bruiner
+x	guenasseràes	guenassàe	guenassàe	VERB			Présent	Conditionnel	2.0	sg				100.1	LIEVRE Louis	bruiner
+x	guenasseriun	guenassàe	guenassàe	VERB			Présent	Conditionnel	1.0	pl				100.1	LIEVRE Louis	bruiner
+x	guenasseriéz	guenassàe	guenassàe	VERB			Présent	Conditionnel	2.0	pl				100.1	LIEVRE Louis	bruiner
+x	guenasseriant	guenassàe	guenassàe	VERB			Présent	Conditionnel	3.0	pl				100.1	LIEVRE Louis	bruiner
+x	guenasse	guenassàe	guenassàe	VERB			Présent	Impératif	2.0	sg				100.1	LIEVRE Louis	bruiner
+x	guenassun	guenassàe	guenassàe	VERB			Présent	Impératif	1.0	pl				100.1	LIEVRE Louis	bruiner
+x	guenasséz	guenassàe	guenassàe	VERB			Présent	Impératif	2.0	pl				100.1	LIEVRE Louis	bruiner
+x	mollasses	mollassàe	mollassàe	VERB			Présent	Indicatif	2.0	sg				100.1	LIEVRE Louis	bruiner
+x	mollassun	mollassàe	mollassàe	VERB			Présent	Indicatif	1.0	pl				100.1	LIEVRE Louis	bruiner
+x	mollasséz	mollassàe	mollassàe	VERB			Présent	Indicatif	2.0	pl				100.1	LIEVRE Louis	bruiner
+x	mollassant	mollassàe	mollassàe	VERB			Présent	Indicatif	3.0	pl				100.1	LIEVRE Louis	bruiner
+x	mollassàe	mollassàe	mollassàe	VERB			Imparfait	Indicatif	1.0	sg				100.1	LIEVRE Louis	bruiner
+x	mollassàes	mollassàe	mollassàe	VERB			Imparfait	Indicatif	2.0	sg				100.1	LIEVRE Louis	bruiner
+x	mollassiun	mollassàe	mollassàe	VERB			Imparfait	Indicatif	1.0	pl				100.1	LIEVRE Louis	bruiner
+x	mollassiéz	mollassàe	mollassàe	VERB			Imparfait	Indicatif	2.0	pl				100.1	LIEVRE Louis	bruiner
+x	mollassiant	mollassàe	mollassàe	VERB			Imparfait	Indicatif	3.0	pl				100.1	LIEVRE Louis	bruiner
+x	mollasserae	mollassàe	mollassàe	VERB			Futur	Indicatif	1.0	sg				100.1	LIEVRE Louis	bruiner
+x	mollasseras	mollassàe	mollassàe	VERB			Futur	Indicatif	2.0	sg				100.1	LIEVRE Louis	bruiner
+x	mollasserun	mollassàe	mollassàe	VERB			Futur	Indicatif	1.0	pl				100.1	LIEVRE Louis	bruiner
+x	mollasseréz	mollassàe	mollassàe	VERB			Futur	Indicatif	2.0	pl				100.1	LIEVRE Louis	bruiner
+x	mollasserant	mollassàe	mollassàe	VERB			Futur	Indicatif	3.0	pl				100.1	LIEVRE Louis	bruiner
+x	mollassi	mollassàe	mollassàe	VERB			Passé simple	Indicatif	1.0	sg				100.1	LIEVRE Louis	bruiner
+x	mollassis	mollassàe	mollassàe	VERB			Passé simple	Indicatif	2.0	sg				100.1	LIEVRE Louis	bruiner
+x	mollassirun	mollassàe	mollassàe	VERB			Passé simple	Indicatif	1.0	pl				100.1	LIEVRE Louis	bruiner
+x	mollassiréz	mollassàe	mollassàe	VERB			Passé simple	Indicatif	1.0	pl				100.1	LIEVRE Louis	bruiner
+x	mollassirant	mollassàe	mollassàe	VERB			Passé simple	Indicatif	3.0	pl				100.1	LIEVRE Louis	bruiner
+x	mollasses	mollassàe	mollassàe	VERB			Présent	Subjonctif	2.0	sg				100.1	LIEVRE Louis	bruiner
+x	mollassun	mollassàe	mollassàe	VERB			Présent	Subjonctif	1.0	pl				100.1	LIEVRE Louis	bruiner
+x	mollasséz	mollassàe	mollassàe	VERB			Présent	Subjonctif	2.0	pl				100.1	LIEVRE Louis	bruiner
+x	mollassant	mollassàe	mollassàe	VERB			Présent	Subjonctif	3.0	pl				100.1	LIEVRE Louis	bruiner
+x	mollassisses	mollassàe	mollassàe	VERB			Imparfait	Subjonctif	2.0	sg				100.1	LIEVRE Louis	bruiner
+x	mollassissiun	mollassàe	mollassàe	VERB			Imparfait	Subjonctif	1.0	pl				100.1	LIEVRE Louis	bruiner
+x	mollassissiéz	mollassàe	mollassàe	VERB			Imparfait	Subjonctif	2.0	pl				100.1	LIEVRE Louis	bruiner
+x	mollassissiant	mollassàe	mollassàe	VERB			Imparfait	Subjonctif	3.0	pl				100.1	LIEVRE Louis	bruiner
+x	mollasseràe	mollassàe	mollassàe	VERB			Présent	Conditionnel	1.0	sg				100.1	LIEVRE Louis	bruiner
+x	mollasseràes	mollassàe	mollassàe	VERB			Présent	Conditionnel	2.0	sg				100.1	LIEVRE Louis	bruiner
+x	mollasseriun	mollassàe	mollassàe	VERB			Présent	Conditionnel	1.0	pl				100.1	LIEVRE Louis	bruiner
+x	mollasseriéz	mollassàe	mollassàe	VERB			Présent	Conditionnel	2.0	pl				100.1	LIEVRE Louis	bruiner
+x	mollasseriant	mollassàe	mollassàe	VERB			Présent	Conditionnel	3.0	pl				100.1	LIEVRE Louis	bruiner
+x	mollasse	mollassàe	mollassàe	VERB			Présent	Impératif	2.0	sg				100.1	LIEVRE Louis	bruiner
+x	mollassun	mollassàe	mollassàe	VERB			Présent	Impératif	1.0	pl				100.1	LIEVRE Louis	bruiner
+x	mollasséz	mollassàe	mollassàe	VERB			Présent	Impératif	2.0	pl				100.1	LIEVRE Louis	bruiner
+x	moullassi	moullassàe	moullassàe	VERB			Passé simple	Indicatif	1.0	sg				100.1	LIEVRE Louis	pleuvoir
+x	moullassis	moullassàe	moullassàe	VERB			Passé simple	Indicatif	2.0	sg				100.1	LIEVRE Louis	pleuvoir
+x	moullassirun	moullassàe	moullassàe	VERB			Passé simple	Indicatif	1.0	pl				100.1	LIEVRE Louis	pleuvoir
+x	moullassiréz	moullassàe	moullassàe	VERB			Passé simple	Indicatif	1.0	pl				100.1	LIEVRE Louis	pleuvoir
+x	moullassisse	moullassàe	moullassàe	VERB			Imparfait	Subjonctif	1.0	sg				100.1	LIEVRE Louis	pleuvoir
+x	moullassisses	moullassàe	moullassàe	VERB			Imparfait	Subjonctif	2.0	sg				100.1	LIEVRE Louis	pleuvoir
+x	moullassissiun	moullassàe	moullassàe	VERB			Imparfait	Subjonctif	1.0	pl				100.1	LIEVRE Louis	pleuvoir
+x	moullassissiéz	moullassàe	moullassàe	VERB			Imparfait	Subjonctif	2.0	pl				100.1	LIEVRE Louis	pleuvoir
+x	naejhes	naejhàe	naejhàe	VERB			Présent	Indicatif	2.0	sg				100.1	LIEVRE Louis	neiger
+x	naejhun	naejhàe	naejhàe	VERB			Présent	Indicatif	1.0	pl				100.1	LIEVRE Louis	neiger
+x	naejhéz	naejhàe	naejhàe	VERB			Présent	Indicatif	2.0	pl				100.1	LIEVRE Louis	neiger
+x	naejhant	naejhàe	naejhàe	VERB			Présent	Indicatif	3.0	pl				100.1	LIEVRE Louis	neiger
+x	naejhàe	naejhàe	naejhàe	VERB			Imparfait	Indicatif	1.0	sg				100.1	LIEVRE Louis	neiger
+x	naejhàes	naejhàe	naejhàe	VERB			Imparfait	Indicatif	2.0	sg				100.1	LIEVRE Louis	neiger
+x	naejhiun	naejhàe	naejhàe	VERB			Imparfait	Indicatif	1.0	pl				100.1	LIEVRE Louis	neiger
+x	naejhiéz	naejhàe	naejhàe	VERB			Imparfait	Indicatif	2.0	pl				100.1	LIEVRE Louis	neiger
+x	naejhiant	naejhàe	naejhàe	VERB			Imparfait	Indicatif	3.0	pl				100.1	LIEVRE Louis	neiger
+x	naejherae	naejhàe	naejhàe	VERB			Futur	Indicatif	1.0	sg				100.1	LIEVRE Louis	neiger
+x	naejheras	naejhàe	naejhàe	VERB			Futur	Indicatif	2.0	sg				100.1	LIEVRE Louis	neiger
+x	naejherun	naejhàe	naejhàe	VERB			Futur	Indicatif	1.0	pl				100.1	LIEVRE Louis	neiger
+x	naejheréz	naejhàe	naejhàe	VERB			Futur	Indicatif	2.0	pl				100.1	LIEVRE Louis	neiger
+x	naejherant	naejhàe	naejhàe	VERB			Futur	Indicatif	3.0	pl				100.1	LIEVRE Louis	neiger
+x	naejhi	naejhàe	naejhàe	VERB			Passé simple	Indicatif	1.0	sg				100.1	LIEVRE Louis	neiger
+x	naejhis	naejhàe	naejhàe	VERB			Passé simple	Indicatif	2.0	sg				100.1	LIEVRE Louis	neiger
+x	naejhirun	naejhàe	naejhàe	VERB			Passé simple	Indicatif	1.0	pl				100.1	LIEVRE Louis	neiger
+x	naejhiréz	naejhàe	naejhàe	VERB			Passé simple	Indicatif	1.0	pl				100.1	LIEVRE Louis	neiger
+x	naejhirant	naejhàe	naejhàe	VERB			Passé simple	Indicatif	3.0	pl				100.1	LIEVRE Louis	neiger
+x	naejhes	naejhàe	naejhàe	VERB			Présent	Subjonctif	2.0	sg				100.1	LIEVRE Louis	neiger
+x	naejhun	naejhàe	naejhàe	VERB			Présent	Subjonctif	1.0	pl				100.1	LIEVRE Louis	neiger
+x	naejhéz	naejhàe	naejhàe	VERB			Présent	Subjonctif	2.0	pl				100.1	LIEVRE Louis	neiger
+x	naejhant	naejhàe	naejhàe	VERB			Présent	Subjonctif	3.0	pl				100.1	LIEVRE Louis	neiger
+x	naejhisse	naejhàe	naejhàe	VERB			Imparfait	Subjonctif	1.0	sg				100.1	LIEVRE Louis	neiger
+x	naejhisses	naejhàe	naejhàe	VERB			Imparfait	Subjonctif	2.0	sg				100.1	LIEVRE Louis	neiger
+x	naejhissiun	naejhàe	naejhàe	VERB			Imparfait	Subjonctif	1.0	pl				100.1	LIEVRE Louis	neiger
+x	naejhissiéz	naejhàe	naejhàe	VERB			Imparfait	Subjonctif	2.0	pl				100.1	LIEVRE Louis	neiger
+x	naejhissiant	naejhàe	naejhàe	VERB			Imparfait	Subjonctif	3.0	pl				100.1	LIEVRE Louis	neiger
+x	naejheràe	naejhàe	naejhàe	VERB			Présent	Conditionnel	1.0	sg				100.1	LIEVRE Louis	neiger
+x	naejheràes	naejhàe	naejhàe	VERB			Présent	Conditionnel	2.0	sg				100.1	LIEVRE Louis	neiger
+x	naejheriun	naejhàe	naejhàe	VERB			Présent	Conditionnel	1.0	pl				100.1	LIEVRE Louis	neiger
+x	naejheriéz	naejhàe	naejhàe	VERB			Présent	Conditionnel	2.0	pl				100.1	LIEVRE Louis	neiger
+x	naejheriant	naejhàe	naejhàe	VERB			Présent	Conditionnel	3.0	pl				100.1	LIEVRE Louis	neiger
+x	naejhe	naejhàe	naejhàe	VERB			Présent	Impératif	2.0	sg				100.1	LIEVRE Louis	neiger
+x	naejhun	naejhàe	naejhàe	VERB			Présent	Impératif	1.0	pl				100.1	LIEVRE Louis	neiger
+x	naejhéz	naejhàe	naejhàe	VERB			Présent	Impératif	2.0	pl				100.1	LIEVRE Louis	neiger
+x	ramissun	ramissàe	ramissàe	VERB			Présent	Indicatif	1.0	pl				100.1	LIEVRE Louis	bruire
+x	ramisséz	ramissàe	ramissàe	VERB			Présent	Indicatif	2.0	pl				100.1	LIEVRE Louis	bruire
+x	ramissi	ramissàe	ramissàe	VERB			Passé simple	Indicatif	1.0	sg				100.1	LIEVRE Louis	bruire
+x	ramissis	ramissàe	ramissàe	VERB			Passé simple	Indicatif	2.0	sg				100.1	LIEVRE Louis	bruire
+x	ramissirun	ramissàe	ramissàe	VERB			Passé simple	Indicatif	1.0	pl				100.1	LIEVRE Louis	bruire
+x	ramissiréz	ramissàe	ramissàe	VERB			Passé simple	Indicatif	1.0	pl				100.1	LIEVRE Louis	bruire
+x	ramisse	ramissàe	ramissàe	VERB			Présent	Subjonctif	1.0	sg				100.1	LIEVRE Louis	bruire
+x	ramisses	ramissàe	ramissàe	VERB			Présent	Subjonctif	2.0	sg				100.1	LIEVRE Louis	bruire
+x	ramissun	ramissàe	ramissàe	VERB			Présent	Subjonctif	1.0	pl				100.1	LIEVRE Louis	bruire
+x	ramisséz	ramissàe	ramissàe	VERB			Présent	Subjonctif	2.0	pl				100.1	LIEVRE Louis	bruire
+x	ramississe	ramissàe	ramissàe	VERB			Imparfait	Subjonctif	1.0	sg				100.1	LIEVRE Louis	bruire
+x	ramississes	ramissàe	ramissàe	VERB			Imparfait	Subjonctif	2.0	sg				100.1	LIEVRE Louis	bruire
+x	ramississiun	ramissàe	ramissàe	VERB			Imparfait	Subjonctif	1.0	pl				100.1	LIEVRE Louis	bruire
+x	ramississiéz	ramissàe	ramissàe	VERB			Imparfait	Subjonctif	2.0	pl				100.1	LIEVRE Louis	bruire
+x	ramissàie	ramissàe	ramissàe	VERB			Passé	Participe		sg	f			100.1	LIEVRE Louis	bruire
+x	ramissais	ramissàe	ramissàe	VERB			Passé	Participe		pl	m			100.1	LIEVRE Louis	bruire
+x	ramissàies	ramissàe	ramissàe	VERB			Passé	Participe		pl	f			100.1	LIEVRE Louis	bruire
+x	ramisse	ramissàe	ramissàe	VERB			Présent	Impératif	2.0	sg				100.1	LIEVRE Louis	bruire
+x	ramissun	ramissàe	ramissàe	VERB			Présent	Impératif	1.0	pl				100.1	LIEVRE Louis	bruire
+x	ramisséz	ramissàe	ramissàe	VERB			Présent	Impératif	2.0	pl				100.1	LIEVRE Louis	bruire
+x	recouiquiéz	recouicàe	recouicàe	VERB			Imparfait	Indicatif	2.0	pl				100.5	LIEVRE Louis	double-cliquer
+x	recouiquisse	recouicàe	recouicàe	VERB			Imparfait	Subjonctif	1.0	sg				100.5	LIEVRE Louis	double-cliquer
+x	recouiquisses	recouicàe	recouicàe	VERB			Imparfait	Subjonctif	2.0	sg				100.5	LIEVRE Louis	double-cliquer
+x	recouiquisse	recouicàe	recouicàe	VERB			Imparfait	Subjonctif	3.0	sg				100.5	LIEVRE Louis	double-cliquer
+x	recouiquissiun	recouicàe	recouicàe	VERB			Imparfait	Subjonctif	1.0	pl				100.5	LIEVRE Louis	double-cliquer
+x	recouiquissiéz	recouicàe	recouicàe	VERB			Imparfait	Subjonctif	2.0	pl				100.5	LIEVRE Louis	double-cliquer
+x	recouiquissiant	recouicàe	recouicàe	VERB			Imparfait	Subjonctif	3.0	pl				100.5	LIEVRE Louis	double-cliquer
+x	rouile	rouilàe	rouilàe	VERB			Présent	Indicatif	1.0	sg				100.1	LIEVRE Louis	sourdre
+x	rouiles	rouilàe	rouilàe	VERB			Présent	Indicatif	2.0	sg				100.1	LIEVRE Louis	sourdre
+x	rouilun	rouilàe	rouilàe	VERB			Présent	Indicatif	1.0	pl				100.1	LIEVRE Louis	sourdre
+x	rouiléz	rouilàe	rouilàe	VERB			Présent	Indicatif	2.0	pl				100.1	LIEVRE Louis	sourdre
+x	rouilàe	rouilàe	rouilàe	VERB			Imparfait	Indicatif	1.0	sg				100.1	LIEVRE Louis	sourdre
+x	rouilàes	rouilàe	rouilàe	VERB			Imparfait	Indicatif	2.0	sg				100.1	LIEVRE Louis	sourdre
+x	rouiliun	rouilàe	rouilàe	VERB			Imparfait	Indicatif	1.0	pl				100.1	LIEVRE Louis	sourdre
+x	rouiliéz	rouilàe	rouilàe	VERB			Imparfait	Indicatif	2.0	pl				100.1	LIEVRE Louis	sourdre
+x	rouilerae	rouilàe	rouilàe	VERB			Futur	Indicatif	1.0	sg				100.1	LIEVRE Louis	sourdre
+x	rouileras	rouilàe	rouilàe	VERB			Futur	Indicatif	2.0	sg				100.1	LIEVRE Louis	sourdre
+x	rouilerun	rouilàe	rouilàe	VERB			Futur	Indicatif	1.0	pl				100.1	LIEVRE Louis	sourdre
+x	rouileréz	rouilàe	rouilàe	VERB			Futur	Indicatif	2.0	pl				100.1	LIEVRE Louis	sourdre
+x	rouili	rouilàe	rouilàe	VERB			Passé simple	Indicatif	1.0	sg				100.1	LIEVRE Louis	sourdre
+x	rouilis	rouilàe	rouilàe	VERB			Passé simple	Indicatif	2.0	sg				100.1	LIEVRE Louis	sourdre
+x	rouilirun	rouilàe	rouilàe	VERB			Passé simple	Indicatif	1.0	pl				100.1	LIEVRE Louis	sourdre
+x	rouiliréz	rouilàe	rouilàe	VERB			Passé simple	Indicatif	1.0	pl				100.1	LIEVRE Louis	sourdre
+x	rouilirant	rouilàe	rouilàe	VERB			Passé simple	Indicatif	3.0	pl				100.1	LIEVRE Louis	sourdre
+x	rouile	rouilàe	rouilàe	VERB			Présent	Subjonctif	1.0	sg				100.1	LIEVRE Louis	sourdre
+x	rouiles	rouilàe	rouilàe	VERB			Présent	Subjonctif	2.0	sg				100.1	LIEVRE Louis	sourdre
+x	rouilun	rouilàe	rouilàe	VERB			Présent	Subjonctif	1.0	pl				100.1	LIEVRE Louis	sourdre
+x	rouiléz	rouilàe	rouilàe	VERB			Présent	Subjonctif	2.0	pl				100.1	LIEVRE Louis	sourdre
+x	rouilant	rouilàe	rouilàe	VERB			Présent	Subjonctif	3.0	pl				100.1	LIEVRE Louis	sourdre
+x	rouilisse	rouilàe	rouilàe	VERB			Imparfait	Subjonctif	1.0	sg				100.1	LIEVRE Louis	sourdre
+x	rouilisses	rouilàe	rouilàe	VERB			Imparfait	Subjonctif	2.0	sg				100.1	LIEVRE Louis	sourdre
+x	rouilissiun	rouilàe	rouilàe	VERB			Imparfait	Subjonctif	1.0	pl				100.1	LIEVRE Louis	sourdre
+x	rouilissiéz	rouilàe	rouilàe	VERB			Imparfait	Subjonctif	2.0	pl				100.1	LIEVRE Louis	sourdre
+x	rouilissiant	rouilàe	rouilàe	VERB			Imparfait	Subjonctif	3.0	pl				100.1	LIEVRE Louis	sourdre
+x	rouileràe	rouilàe	rouilàe	VERB			Présent	Conditionnel	1.0	sg				100.1	LIEVRE Louis	sourdre
+x	rouileràes	rouilàe	rouilàe	VERB			Présent	Conditionnel	2.0	sg				100.1	LIEVRE Louis	sourdre
+x	rouileriun	rouilàe	rouilàe	VERB			Présent	Conditionnel	1.0	pl				100.1	LIEVRE Louis	sourdre
+x	rouileriéz	rouilàe	rouilàe	VERB			Présent	Conditionnel	2.0	pl				100.1	LIEVRE Louis	sourdre
+x	rouileriant	rouilàe	rouilàe	VERB			Présent	Conditionnel	3.0	pl				100.1	LIEVRE Louis	sourdre
+x	rouilai	rouilàe	rouilàe	VERB			Passé	Participe		sg	m			100.1	LIEVRE Louis	sourdre
+x	rouilàie	rouilàe	rouilàe	VERB			Passé	Participe		sg	f			100.1	LIEVRE Louis	sourdre
+x	rouilais	rouilàe	rouilàe	VERB			Passé	Participe		pl	m			100.1	LIEVRE Louis	sourdre
+x	rouilàies	rouilàe	rouilàe	VERB			Passé	Participe		pl	f			100.1	LIEVRE Louis	sourdre
+x	rouile	rouilàe	rouilàe	VERB			Présent	Impératif	2.0	sg				100.1	LIEVRE Louis	sourdre
+x	rouilun	rouilàe	rouilàe	VERB			Présent	Impératif	1.0	pl				100.1	LIEVRE Louis	sourdre
+x	rouiléz	rouilàe	rouilàe	VERB			Présent	Impératif	2.0	pl				100.1	LIEVRE Louis	sourdre
+x	sigalles	sigallàe	sigallàe	VERB			Présent	Indicatif	2.0	sg				100.1	LIEVRE Louis	bruiner
+x	sigallun	sigallàe	sigallàe	VERB			Présent	Indicatif	1.0	pl				100.1	LIEVRE Louis	bruiner
+x	sigalléz	sigallàe	sigallàe	VERB			Présent	Indicatif	2.0	pl				100.1	LIEVRE Louis	bruiner
+x	sigallant	sigallàe	sigallàe	VERB			Présent	Indicatif	3.0	pl				100.1	LIEVRE Louis	bruiner
+x	sigallàe	sigallàe	sigallàe	VERB			Imparfait	Indicatif	1.0	sg				100.1	LIEVRE Louis	bruiner
+x	sigallàes	sigallàe	sigallàe	VERB			Imparfait	Indicatif	2.0	sg				100.1	LIEVRE Louis	bruiner
+x	sigalliun	sigallàe	sigallàe	VERB			Imparfait	Indicatif	1.0	pl				100.1	LIEVRE Louis	bruiner
+x	sigalliéz	sigallàe	sigallàe	VERB			Imparfait	Indicatif	2.0	pl				100.1	LIEVRE Louis	bruiner
+x	sigalliant	sigallàe	sigallàe	VERB			Imparfait	Indicatif	3.0	pl				100.1	LIEVRE Louis	bruiner
+x	sigallerae	sigallàe	sigallàe	VERB			Futur	Indicatif	1.0	sg				100.1	LIEVRE Louis	bruiner
+x	sigalleras	sigallàe	sigallàe	VERB			Futur	Indicatif	2.0	sg				100.1	LIEVRE Louis	bruiner
+x	sigallerun	sigallàe	sigallàe	VERB			Futur	Indicatif	1.0	pl				100.1	LIEVRE Louis	bruiner
+x	sigalleréz	sigallàe	sigallàe	VERB			Futur	Indicatif	2.0	pl				100.1	LIEVRE Louis	bruiner
+x	sigallerant	sigallàe	sigallàe	VERB			Futur	Indicatif	3.0	pl				100.1	LIEVRE Louis	bruiner
+x	sigalli	sigallàe	sigallàe	VERB			Passé simple	Indicatif	1.0	sg				100.1	LIEVRE Louis	bruiner
+x	sigallis	sigallàe	sigallàe	VERB			Passé simple	Indicatif	2.0	sg				100.1	LIEVRE Louis	bruiner
+x	sigallirun	sigallàe	sigallàe	VERB			Passé simple	Indicatif	1.0	pl				100.1	LIEVRE Louis	bruiner
+x	sigalliréz	sigallàe	sigallàe	VERB			Passé simple	Indicatif	1.0	pl				100.1	LIEVRE Louis	bruiner
+x	sigallirant	sigallàe	sigallàe	VERB			Passé simple	Indicatif	3.0	pl				100.1	LIEVRE Louis	bruiner
+x	sigalles	sigallàe	sigallàe	VERB			Présent	Subjonctif	2.0	sg				100.1	LIEVRE Louis	bruiner
+x	sigallun	sigallàe	sigallàe	VERB			Présent	Subjonctif	1.0	pl				100.1	LIEVRE Louis	bruiner
+x	sigalléz	sigallàe	sigallàe	VERB			Présent	Subjonctif	2.0	pl				100.1	LIEVRE Louis	bruiner
+x	sigallant	sigallàe	sigallàe	VERB			Présent	Subjonctif	3.0	pl				100.1	LIEVRE Louis	bruiner
+x	sigallisses	sigallàe	sigallàe	VERB			Imparfait	Subjonctif	2.0	sg				100.1	LIEVRE Louis	bruiner
+x	sigallissiun	sigallàe	sigallàe	VERB			Imparfait	Subjonctif	1.0	pl				100.1	LIEVRE Louis	bruiner
+x	sigallissiéz	sigallàe	sigallàe	VERB			Imparfait	Subjonctif	2.0	pl				100.1	LIEVRE Louis	bruiner
+x	sigallissiant	sigallàe	sigallàe	VERB			Imparfait	Subjonctif	3.0	pl				100.1	LIEVRE Louis	bruiner
+x	sigalleràe	sigallàe	sigallàe	VERB			Présent	Conditionnel	1.0	sg				100.1	LIEVRE Louis	bruiner
+x	sigalleràes	sigallàe	sigallàe	VERB			Présent	Conditionnel	2.0	sg				100.1	LIEVRE Louis	bruiner
+x	sigalleriun	sigallàe	sigallàe	VERB			Présent	Conditionnel	1.0	pl				100.1	LIEVRE Louis	bruiner
+x	sigalleriéz	sigallàe	sigallàe	VERB			Présent	Conditionnel	2.0	pl				100.1	LIEVRE Louis	bruiner
+x	sigalleriant	sigallàe	sigallàe	VERB			Présent	Conditionnel	3.0	pl				100.1	LIEVRE Louis	bruiner
+x	sigalle	sigallàe	sigallàe	VERB			Présent	Impératif	2.0	sg				100.1	LIEVRE Louis	bruiner
+x	sigallun	sigallàe	sigallàe	VERB			Présent	Impératif	1.0	pl				100.1	LIEVRE Louis	bruiner
+x	sigalléz	sigallàe	sigallàe	VERB			Présent	Impératif	2.0	pl				100.1	LIEVRE Louis	bruiner
+x	sigalles	sigallàe	sigallàe	VERB			Présent	Indicatif	2.0	sg				100.1	LIEVRE Louis	bruiner
+x	sigallun	sigallàe	sigallàe	VERB			Présent	Indicatif	1.0	pl				100.1	LIEVRE Louis	bruiner
+x	sigalléz	sigallàe	sigallàe	VERB			Présent	Indicatif	2.0	pl				100.1	LIEVRE Louis	bruiner
+x	sigallant	sigallàe	sigallàe	VERB			Présent	Indicatif	3.0	pl				100.1	LIEVRE Louis	bruiner
+x	sigallàe	sigallàe	sigallàe	VERB			Imparfait	Indicatif	1.0	sg				100.1	LIEVRE Louis	bruiner
+x	sigallàes	sigallàe	sigallàe	VERB			Imparfait	Indicatif	2.0	sg				100.1	LIEVRE Louis	bruiner
+x	sigalliun	sigallàe	sigallàe	VERB			Imparfait	Indicatif	1.0	pl				100.1	LIEVRE Louis	bruiner
+x	sigalliéz	sigallàe	sigallàe	VERB			Imparfait	Indicatif	2.0	pl				100.1	LIEVRE Louis	bruiner
+x	sigalliant	sigallàe	sigallàe	VERB			Imparfait	Indicatif	3.0	pl				100.1	LIEVRE Louis	bruiner
+x	sigallerae	sigallàe	sigallàe	VERB			Futur	Indicatif	1.0	sg				100.1	LIEVRE Louis	bruiner
+x	sigalleras	sigallàe	sigallàe	VERB			Futur	Indicatif	2.0	sg				100.1	LIEVRE Louis	bruiner
+x	sigallerun	sigallàe	sigallàe	VERB			Futur	Indicatif	1.0	pl				100.1	LIEVRE Louis	bruiner
+x	sigalleréz	sigallàe	sigallàe	VERB			Futur	Indicatif	2.0	pl				100.1	LIEVRE Louis	bruiner
+x	sigallerant	sigallàe	sigallàe	VERB			Futur	Indicatif	3.0	pl				100.1	LIEVRE Louis	bruiner
+x	sigalli	sigallàe	sigallàe	VERB			Passé simple	Indicatif	1.0	sg				100.1	LIEVRE Louis	bruiner
+x	sigallis	sigallàe	sigallàe	VERB			Passé simple	Indicatif	2.0	sg				100.1	LIEVRE Louis	bruiner
+x	sigallirun	sigallàe	sigallàe	VERB			Passé simple	Indicatif	1.0	pl				100.1	LIEVRE Louis	bruiner
+x	sigalliréz	sigallàe	sigallàe	VERB			Passé simple	Indicatif	1.0	pl				100.1	LIEVRE Louis	bruiner
+x	sigallirant	sigallàe	sigallàe	VERB			Passé simple	Indicatif	3.0	pl				100.1	LIEVRE Louis	bruiner
+x	sigalles	sigallàe	sigallàe	VERB			Présent	Subjonctif	2.0	sg				100.1	LIEVRE Louis	bruiner
+x	sigallun	sigallàe	sigallàe	VERB			Présent	Subjonctif	1.0	pl				100.1	LIEVRE Louis	bruiner
+x	sigalléz	sigallàe	sigallàe	VERB			Présent	Subjonctif	2.0	pl				100.1	LIEVRE Louis	bruiner
+x	sigallant	sigallàe	sigallàe	VERB			Présent	Subjonctif	3.0	pl				100.1	LIEVRE Louis	bruiner
+x	sigallisses	sigallàe	sigallàe	VERB			Imparfait	Subjonctif	2.0	sg				100.1	LIEVRE Louis	bruiner
+x	sigallissiun	sigallàe	sigallàe	VERB			Imparfait	Subjonctif	1.0	pl				100.1	LIEVRE Louis	bruiner
+x	sigallissiéz	sigallàe	sigallàe	VERB			Imparfait	Subjonctif	2.0	pl				100.1	LIEVRE Louis	bruiner
+x	sigallissiant	sigallàe	sigallàe	VERB			Imparfait	Subjonctif	3.0	pl				100.1	LIEVRE Louis	bruiner
+x	sigalleràe	sigallàe	sigallàe	VERB			Présent	Conditionnel	1.0	sg				100.1	LIEVRE Louis	bruiner
+x	sigalleràes	sigallàe	sigallàe	VERB			Présent	Conditionnel	2.0	sg				100.1	LIEVRE Louis	bruiner
+x	sigalleriun	sigallàe	sigallàe	VERB			Présent	Conditionnel	1.0	pl				100.1	LIEVRE Louis	bruiner
+x	sigalleriéz	sigallàe	sigallàe	VERB			Présent	Conditionnel	2.0	pl				100.1	LIEVRE Louis	bruiner
+x	sigalleriant	sigallàe	sigallàe	VERB			Présent	Conditionnel	3.0	pl				100.1	LIEVRE Louis	bruiner
+x	sigalle	sigallàe	sigallàe	VERB			Présent	Impératif	2.0	sg				100.1	LIEVRE Louis	bruiner
+x	sigallun	sigallàe	sigallàe	VERB			Présent	Impératif	1.0	pl				100.1	LIEVRE Louis	bruiner
+x	sigalléz	sigallàe	sigallàe	VERB			Présent	Impératif	2.0	pl				100.1	LIEVRE Louis	bruiner
+x	vrllounàie	vrllounàe	vrllounàe	VERB			Passé	Participe		sg	f			100.1	LIEVRE Louis	vrillonner
+x	vrllounais	vrllounàe	vrllounàe	VERB			Passé	Participe		pl	m			100.1	LIEVRE Louis	vrillonner
+x	vrllounàies	vrllounàe	vrllounàe	VERB			Passé	Participe		pl	f			100.1	LIEVRE Louis	vrillonner
+x	yésse	yéssàe	yéssàe	VERB			Présent	Indicatif	1.0	sg				100.1	LIEVRE Louis	Cf. ‘ghéssàe’
+x	yésses	yéssàe	yéssàe	VERB			Présent	Indicatif	2.0	sg				100.1	LIEVRE Louis	Cf. ‘ghéssàe’
+x	yésse	yéssàe	yéssàe	VERB			Présent	Indicatif	3.0	sg				100.1	LIEVRE Louis	Cf. ‘ghéssàe’
+x	yéssun	yéssàe	yéssàe	VERB			Présent	Indicatif	1.0	pl				100.1	LIEVRE Louis	Cf. ‘ghéssàe’
+x	yésséz	yéssàe	yéssàe	VERB			Présent	Indicatif	2.0	pl				100.1	LIEVRE Louis	Cf. ‘ghéssàe’
+x	yéssant	yéssàe	yéssàe	VERB			Présent	Indicatif	3.0	pl				100.1	LIEVRE Louis	Cf. ‘ghéssàe’
+x	yéssàe	yéssàe	yéssàe	VERB			Imparfait	Indicatif	1.0	sg				100.1	LIEVRE Louis	Cf. ‘ghéssàe’
+x	yéssàes	yéssàe	yéssàe	VERB			Imparfait	Indicatif	2.0	sg				100.1	LIEVRE Louis	Cf. ‘ghéssàe’
+x	yéssét	yéssàe	yéssàe	VERB			Imparfait	Indicatif	3.0	sg				100.1	LIEVRE Louis	Cf. ‘ghéssàe’
+x	yéssiun	yéssàe	yéssàe	VERB			Imparfait	Indicatif	1.0	pl				100.1	LIEVRE Louis	Cf. ‘ghéssàe’
+x	yéssiéz	yéssàe	yéssàe	VERB			Imparfait	Indicatif	2.0	pl				100.1	LIEVRE Louis	Cf. ‘ghéssàe’
+x	yéssiant	yéssàe	yéssàe	VERB			Imparfait	Indicatif	3.0	pl				100.1	LIEVRE Louis	Cf. ‘ghéssàe’
+x	yésserae	yéssàe	yéssàe	VERB			Futur	Indicatif	1.0	sg				100.1	LIEVRE Louis	Cf. ‘ghéssàe’
+x	yésseras	yéssàe	yéssàe	VERB			Futur	Indicatif	2.0	sg				100.1	LIEVRE Louis	Cf. ‘ghéssàe’
+x	yésserat	yéssàe	yéssàe	VERB			Futur	Indicatif	3.0	sg				100.1	LIEVRE Louis	Cf. ‘ghéssàe’
+x	yésserun	yéssàe	yéssàe	VERB			Futur	Indicatif	1.0	pl				100.1	LIEVRE Louis	Cf. ‘ghéssàe’
+x	yésseréz	yéssàe	yéssàe	VERB			Futur	Indicatif	2.0	pl				100.1	LIEVRE Louis	Cf. ‘ghéssàe’
+x	yésserant	yéssàe	yéssàe	VERB			Futur	Indicatif	3.0	pl				100.1	LIEVRE Louis	Cf. ‘ghéssàe’
+x	yéssi	yéssàe	yéssàe	VERB			Passé simple	Indicatif	1.0	sg				100.1	LIEVRE Louis	Cf. ‘ghéssàe’
+x	yéssis	yéssàe	yéssàe	VERB			Passé simple	Indicatif	2.0	sg				100.1	LIEVRE Louis	Cf. ‘ghéssàe’
+x	yéssit	yéssàe	yéssàe	VERB			Passé simple	Indicatif	3.0	sg				100.1	LIEVRE Louis	Cf. ‘ghéssàe’
+x	yéssirun	yéssàe	yéssàe	VERB			Passé simple	Indicatif	1.0	pl				100.1	LIEVRE Louis	Cf. ‘ghéssàe’
+x	yéssiréz	yéssàe	yéssàe	VERB			Passé simple	Indicatif	1.0	pl				100.1	LIEVRE Louis	Cf. ‘ghéssàe’
+x	yéssirant	yéssàe	yéssàe	VERB			Passé simple	Indicatif	3.0	pl				100.1	LIEVRE Louis	Cf. ‘ghéssàe’
+x	yésse	yéssàe	yéssàe	VERB			Présent	Subjonctif	1.0	sg				100.1	LIEVRE Louis	Cf. ‘ghéssàe’
+x	yésses	yéssàe	yéssàe	VERB			Présent	Subjonctif	2.0	sg				100.1	LIEVRE Louis	Cf. ‘ghéssàe’
+x	yésse	yéssàe	yéssàe	VERB			Présent	Subjonctif	3.0	sg				100.1	LIEVRE Louis	Cf. ‘ghéssàe’
+x	yéssun	yéssàe	yéssàe	VERB			Présent	Subjonctif	1.0	pl				100.1	LIEVRE Louis	Cf. ‘ghéssàe’
+x	yésséz	yéssàe	yéssàe	VERB			Présent	Subjonctif	2.0	pl				100.1	LIEVRE Louis	Cf. ‘ghéssàe’
+x	yéssant	yéssàe	yéssàe	VERB			Présent	Subjonctif	3.0	pl				100.1	LIEVRE Louis	Cf. ‘ghéssàe’
+x	yéssisse	yéssàe	yéssàe	VERB			Imparfait	Subjonctif	1.0	sg				100.1	LIEVRE Louis	Cf. ‘ghéssàe’
+x	yéssisses	yéssàe	yéssàe	VERB			Imparfait	Subjonctif	2.0	sg				100.1	LIEVRE Louis	Cf. ‘ghéssàe’
+x	yéssisse	yéssàe	yéssàe	VERB			Imparfait	Subjonctif	3.0	sg				100.1	LIEVRE Louis	Cf. ‘ghéssàe’
+x	yéssissiun	yéssàe	yéssàe	VERB			Imparfait	Subjonctif	1.0	pl				100.1	LIEVRE Louis	Cf. ‘ghéssàe’
+x	yéssissiéz	yéssàe	yéssàe	VERB			Imparfait	Subjonctif	2.0	pl				100.1	LIEVRE Louis	Cf. ‘ghéssàe’
+x	yéssissiant	yéssàe	yéssàe	VERB			Imparfait	Subjonctif	3.0	pl				100.1	LIEVRE Louis	Cf. ‘ghéssàe’
+x	yésseràe	yéssàe	yéssàe	VERB			Présent	Conditionnel	1.0	sg				100.1	LIEVRE Louis	Cf. ‘ghéssàe’
+x	yésseràes	yéssàe	yéssàe	VERB			Présent	Conditionnel	2.0	sg				100.1	LIEVRE Louis	Cf. ‘ghéssàe’
+x	yésserét	yéssàe	yéssàe	VERB			Présent	Conditionnel	3.0	sg				100.1	LIEVRE Louis	Cf. ‘ghéssàe’
+x	yésseriun	yéssàe	yéssàe	VERB			Présent	Conditionnel	1.0	pl				100.1	LIEVRE Louis	Cf. ‘ghéssàe’
+x	yésseriéz	yéssàe	yéssàe	VERB			Présent	Conditionnel	2.0	pl				100.1	LIEVRE Louis	Cf. ‘ghéssàe’
+x	yésseriant	yéssàe	yéssàe	VERB			Présent	Conditionnel	3.0	pl				100.1	LIEVRE Louis	Cf. ‘ghéssàe’
+x	yéssant	yéssàe	yéssàe	VERB			Présent	Participe						100.1	LIEVRE Louis	Cf. ‘ghéssàe’
+x	yéssai	yéssàe	yéssàe	VERB			Passé	Participe		sg	m			100.1	LIEVRE Louis	Cf. ‘ghéssàe’
+x	yéssàie	yéssàe	yéssàe	VERB			Passé	Participe		sg	f			100.1	LIEVRE Louis	Cf. ‘ghéssàe’
+x	yéssais	yéssàe	yéssàe	VERB			Passé	Participe		pl	m			100.1	LIEVRE Louis	Cf. ‘ghéssàe’
+x	yéssàies	yéssàe	yéssàe	VERB			Passé	Participe		pl	f			100.1	LIEVRE Louis	Cf. ‘ghéssàe’
+x	yésse	yéssàe	yéssàe	VERB			Présent	Impératif	2.0	sg				100.1	LIEVRE Louis	Cf. ‘ghéssàe’
+x	yéssun	yéssàe	yéssàe	VERB			Présent	Impératif	1.0	pl				100.1	LIEVRE Louis	Cf. ‘ghéssàe’
+x	yésséz	yéssàe	yéssàe	VERB			Présent	Impératif	2.0	pl				100.1	LIEVRE Louis	Cf. ‘ghéssàe’

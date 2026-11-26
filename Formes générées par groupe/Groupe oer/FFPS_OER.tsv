@@ -1,0 +1,1481 @@
+forme déduite	forme	lemme	supralemme	pos	parler	glose	tense	mode	person	number	gender	variante	comment	modele	source
+x	acheroe	achoer	acheyàe	VERB	Marais nord-vendéen	délaisserais	Présent	Conditionnel	1.0	sg				100.2	LIEVRE Louis
+x	acheroes	achoer	acheyàe	VERB	Marais nord-vendéen	délaisserais	Présent	Conditionnel	2.0	sg				100.2	LIEVRE Louis
+x	acheroét	achoer	acheyàe	VERB	Marais nord-vendéen	délaisserait	Présent	Conditionnel	3.0	sg				100.2	LIEVRE Louis
+x	acheriun	achoer	acheyàe	VERB	Marais nord-vendéen	délaisserions	Présent	Conditionnel	1.0	pl				100.2	LIEVRE Louis
+x	acheriéz	achoer	acheyàe	VERB	Marais nord-vendéen	délaisseriez	Présent	Conditionnel	2.0	pl				100.2	LIEVRE Louis
+x	acheriant	achoer	acheyàe	VERB	Marais nord-vendéen	délaisseraient	Présent	Conditionnel	3.0	pl				100.2	LIEVRE Louis
+x	achoe  	achoer	acheyàe	VERB	Marais nord-vendéen	délaisse	Présent	Impératif	2.0	sg				100.2	LIEVRE Louis
+x	achoyun 	achoer	acheyàe	VERB	Marais nord-vendéen	délaissons	Présent	Impératif	1.0	pl				100.2	LIEVRE Louis
+x	achoyéz 	achoer	acheyàe	VERB	Marais nord-vendéen	délaissez	Présent	Impératif	2.0	pl				100.2	LIEVRE Louis
+x	achoe	achoer	acheyàe	VERB	Marais nord-vendéen	délaisse	Présent	Indicatif	1.0	sg				100.2	LIEVRE Louis
+x	achoes	achoer	acheyàe	VERB	Marais nord-vendéen	délaisses	Présent	Indicatif	2.0	sg				100.2	LIEVRE Louis
+x	achoe 	achoer	acheyàe	VERB	Marais nord-vendéen	délaisse	Présent	Indicatif	3.0	sg				100.2	LIEVRE Louis
+x	achoyun	achoer	acheyàe	VERB	Marais nord-vendéen	délaissons	Présent	Indicatif	1.0	pl				100.2	LIEVRE Louis
+x	achoyéz	achoer	acheyàe	VERB	Marais nord-vendéen	délaissez	Présent	Indicatif	2.0	pl				100.2	LIEVRE Louis
+x	achoyant	achoer	acheyàe	VERB	Marais nord-vendéen	délaissent	Présent	Indicatif	3.0	pl				100.2	LIEVRE Louis
+x	achoyi	achoer	acheyàe	VERB	Marais nord-vendéen	délaissai	Passé simple	Indicatif	1.0	sg				100.2	LIEVRE Louis
+x	achoyis	achoer	acheyàe	VERB	Marais nord-vendéen	délaissas	Passé simple	Indicatif	2.0	sg				100.2	LIEVRE Louis
+x	achoyit	achoer	acheyàe	VERB	Marais nord-vendéen	délaissa	Passé simple	Indicatif	3.0	sg				100.2	LIEVRE Louis
+x	achoyirun	achoer	acheyàe	VERB	Marais nord-vendéen	délaissâmes	Passé simple	Indicatif	1.0	pl				100.2	LIEVRE Louis
+x	achoyiréz	achoer	acheyàe	VERB	Marais nord-vendéen	délaissâtes	Passé simple	Indicatif	2.0	pl				100.2	LIEVRE Louis
+x	achoyirant	achoer	acheyàe	VERB	Marais nord-vendéen	délaissèrent	Passé simple	Indicatif	3.0	pl				100.2	LIEVRE Louis
+x	achoyoe	achoer	acheyàe	VERB	Marais nord-vendéen	délaissais	Imparfait	Indicatif	1.0	sg				100.2	LIEVRE Louis
+x	achoyoes	achoer	acheyàe	VERB	Marais nord-vendéen	délaissais	Imparfait	Indicatif	2.0	sg				100.2	LIEVRE Louis
+x	achoyoét	achoer	acheyàe	VERB	Marais nord-vendéen	délaissait	Imparfait	Indicatif	3.0	sg				100.2	LIEVRE Louis
+x	achoyiun	achoer	acheyàe	VERB	Marais nord-vendéen	délaissions	Imparfait	Indicatif	1.0	pl				100.2	LIEVRE Louis
+x	achoyiéz	achoer	acheyàe	VERB	Marais nord-vendéen	délaissiez	Imparfait	Indicatif	2.0	pl				100.2	LIEVRE Louis
+x	achoyiant	achoer	acheyàe	VERB	Marais nord-vendéen	délaissaient	Imparfait	Indicatif	3.0	pl				100.2	LIEVRE Louis
+x	achoerae	achoer	acheyàe	VERB	Marais nord-vendéen	délaisserai	Futur	Indicatif	1.0	sg				100.2	LIEVRE Louis
+x	achoeras	achoer	acheyàe	VERB	Marais nord-vendéen	délaisseras	Futur	Indicatif	2.0	sg				100.2	LIEVRE Louis
+x	achoerat	achoer	acheyàe	VERB	Marais nord-vendéen	délaissera	Futur	Indicatif	3.0	sg				100.2	LIEVRE Louis
+x	achoerun	achoer	acheyàe	VERB	Marais nord-vendéen	délaisserons	Futur	Indicatif	1.0	pl				100.2	LIEVRE Louis
+x	achoeréz	achoer	acheyàe	VERB	Marais nord-vendéen	délaisserez	Futur	Indicatif	2.0	pl				100.2	LIEVRE Louis
+x	achoerant	achoer	acheyàe	VERB	Marais nord-vendéen	délaisseront	Futur	Indicatif	3.0	pl				100.2	LIEVRE Louis
+	achoer	achoer	acheyàe	VERB	Marais nord-vendéen	délaisser le nid / une tâche	Présent	Infinitif						100.2	PIVETEAU Vianney. 2021. Dicopoitevin
+x	achyant 	achoer	acheyàe	VERB	Marais nord-vendéen	délaissant	Présent	Participe						100.2	LIEVRE Louis
+x	ache	achoer	acheyàe	VERB	Marais nord-vendéen	délaissé	Passé	Participe		sg	m			100.2	LIEVRE Louis
+x	ache	achoer	acheyàe	VERB	Marais nord-vendéen	délaissée	Passé	Participe		sg	f			100.2	LIEVRE Louis
+x	aches	achoer	acheyàe	VERB	Marais nord-vendéen	délaissés	Passé	Participe		pl	m			100.2	LIEVRE Louis
+x	aches	achoer	acheyàe	VERB	Marais nord-vendéen	délaissées	Passé	Participe		pl	f			100.2	LIEVRE Louis
+x	achoejhe	achoer	acheyàe	VERB	Marais nord-vendéen	délaisse	Présent	Subjonctif	1.0	sg				100.2	LIEVRE Louis
+x	achoejhes	achoer	acheyàe	VERB	Marais nord-vendéen	délaisses	Présent	Subjonctif	2.0	sg				100.2	LIEVRE Louis
+x	achoejhe 	achoer	acheyàe	VERB	Marais nord-vendéen	délaisse	Présent	Subjonctif	3.0	sg				100.2	LIEVRE Louis
+x	achoejhun	achoer	acheyàe	VERB	Marais nord-vendéen	délaissions	Présent	Subjonctif	1.0	pl				100.2	LIEVRE Louis
+x	achoejhéz	achoer	acheyàe	VERB	Marais nord-vendéen	délaissiez	Présent	Subjonctif	2.0	pl				100.2	LIEVRE Louis
+x	achoejhant	achoer	acheyàe	VERB	Marais nord-vendéen	délaissent	Présent	Subjonctif	3.0	pl				100.2	LIEVRE Louis
+x	achoyijhe	achoer	acheyàe	VERB	Marais nord-vendéen	délaissasse	Imparfait	Subjonctif	1.0	sg				100.2	LIEVRE Louis
+x	achoyijhes	achoer	acheyàe	VERB	Marais nord-vendéen	délaissasses	Imparfait	Subjonctif	2.0	sg				100.2	LIEVRE Louis
+x	achoyijhe 	achoer	acheyàe	VERB	Marais nord-vendéen	délaissât	Imparfait	Subjonctif	3.0	sg				100.2	LIEVRE Louis
+x	achoyijhun	achoer	acheyàe	VERB	Marais nord-vendéen	délaissassions	Imparfait	Subjonctif	1.0	pl				100.2	LIEVRE Louis
+x	achoyijhéz	achoer	acheyàe	VERB	Marais nord-vendéen	délaissassiez	Imparfait	Subjonctif	2.0	pl				100.2	LIEVRE Louis
+x	achoyijhant	achoer	acheyàe	VERB	Marais nord-vendéen	délaissassent	Imparfait	Subjonctif	3.0	pl				100.2	LIEVRE Louis
+x	aleroe	aloer	aleyàe	VERB	Marais nord-vendéen	retirerais	Présent	Conditionnel	1.0	sg				100.2	LIEVRE Louis
+x	aleroes	aloer	aleyàe	VERB	Marais nord-vendéen	retirerais	Présent	Conditionnel	2.0	sg				100.2	LIEVRE Louis
+x	aleroét	aloer	aleyàe	VERB	Marais nord-vendéen	retirerait	Présent	Conditionnel	3.0	sg				100.2	LIEVRE Louis
+x	aleriun	aloer	aleyàe	VERB	Marais nord-vendéen	retirerions	Présent	Conditionnel	1.0	pl				100.2	LIEVRE Louis
+x	aleriéz	aloer	aleyàe	VERB	Marais nord-vendéen	retireriez	Présent	Conditionnel	2.0	pl				100.2	LIEVRE Louis
+x	aleriant	aloer	aleyàe	VERB	Marais nord-vendéen	retireraient	Présent	Conditionnel	3.0	pl				100.2	LIEVRE Louis
+x	aloe  	aloer	aleyàe	VERB	Marais nord-vendéen	retire	Présent	Impératif	2.0	sg				100.2	LIEVRE Louis
+x	aloyun 	aloer	aleyàe	VERB	Marais nord-vendéen	retirons	Présent	Impératif	1.0	pl				100.2	LIEVRE Louis
+x	aloyéz 	aloer	aleyàe	VERB	Marais nord-vendéen	retirez	Présent	Impératif	2.0	pl				100.2	LIEVRE Louis
+x	aloe	aloer	aleyàe	VERB	Marais nord-vendéen	retire	Présent	Indicatif	1.0	sg				100.2	LIEVRE Louis
+x	aloes	aloer	aleyàe	VERB	Marais nord-vendéen	retires	Présent	Indicatif	2.0	sg				100.2	LIEVRE Louis
+x	aloe 	aloer	aleyàe	VERB	Marais nord-vendéen	retire	Présent	Indicatif	3.0	sg				100.2	LIEVRE Louis
+x	aloyun	aloer	aleyàe	VERB	Marais nord-vendéen	retirons	Présent	Indicatif	1.0	pl				100.2	LIEVRE Louis
+x	aloyéz	aloer	aleyàe	VERB	Marais nord-vendéen	retirez	Présent	Indicatif	2.0	pl				100.2	LIEVRE Louis
+x	aloyant	aloer	aleyàe	VERB	Marais nord-vendéen	retirent	Présent	Indicatif	3.0	pl				100.2	LIEVRE Louis
+x	aloyi	aloer	aleyàe	VERB	Marais nord-vendéen	retirai	Passé simple	Indicatif	1.0	sg				100.2	LIEVRE Louis
+x	aloyis	aloer	aleyàe	VERB	Marais nord-vendéen	retiras	Passé simple	Indicatif	2.0	sg				100.2	LIEVRE Louis
+x	aloyit	aloer	aleyàe	VERB	Marais nord-vendéen	retira	Passé simple	Indicatif	3.0	sg				100.2	LIEVRE Louis
+x	aloyirun	aloer	aleyàe	VERB	Marais nord-vendéen	retirâmes	Passé simple	Indicatif	1.0	pl				100.2	LIEVRE Louis
+x	aloyiréz	aloer	aleyàe	VERB	Marais nord-vendéen	retirâtes	Passé simple	Indicatif	2.0	pl				100.2	LIEVRE Louis
+x	aloyirant	aloer	aleyàe	VERB	Marais nord-vendéen	retirèrent	Passé simple	Indicatif	3.0	pl				100.2	LIEVRE Louis
+x	aloyoe	aloer	aleyàe	VERB	Marais nord-vendéen	retirais	Imparfait	Indicatif	1.0	sg				100.2	LIEVRE Louis
+x	aloyoes	aloer	aleyàe	VERB	Marais nord-vendéen	retirais	Imparfait	Indicatif	2.0	sg				100.2	LIEVRE Louis
+x	aloyoét	aloer	aleyàe	VERB	Marais nord-vendéen	retirait	Imparfait	Indicatif	3.0	sg				100.2	LIEVRE Louis
+x	aloyiun	aloer	aleyàe	VERB	Marais nord-vendéen	retirions	Imparfait	Indicatif	1.0	pl				100.2	LIEVRE Louis
+x	aloyiéz	aloer	aleyàe	VERB	Marais nord-vendéen	retiriez	Imparfait	Indicatif	2.0	pl				100.2	LIEVRE Louis
+x	aloyiant	aloer	aleyàe	VERB	Marais nord-vendéen	retiraient	Imparfait	Indicatif	3.0	pl				100.2	LIEVRE Louis
+x	aloerae	aloer	aleyàe	VERB	Marais nord-vendéen	retirerai	Futur	Indicatif	1.0	sg				100.2	LIEVRE Louis
+x	aloeras	aloer	aleyàe	VERB	Marais nord-vendéen	retireras	Futur	Indicatif	2.0	sg				100.2	LIEVRE Louis
+x	aloerat	aloer	aleyàe	VERB	Marais nord-vendéen	retirera	Futur	Indicatif	3.0	sg				100.2	LIEVRE Louis
+x	aloerun	aloer	aleyàe	VERB	Marais nord-vendéen	retirerons	Futur	Indicatif	1.0	pl				100.2	LIEVRE Louis
+x	aloeréz	aloer	aleyàe	VERB	Marais nord-vendéen	retirerez	Futur	Indicatif	2.0	pl				100.2	LIEVRE Louis
+x	aloerant	aloer	aleyàe	VERB	Marais nord-vendéen	retireront	Futur	Indicatif	3.0	pl				100.2	LIEVRE Louis
+	aloer	aloer	aleyàe	VERB	Marais nord-vendéen	retirer	Présent	Infinitif						100.2	PIVETEAU Vianney. 2021. Dicopoitevin
+x	alyant 	aloer	aleyàe	VERB	Marais nord-vendéen	retirant	Présent	Participe						100.2	LIEVRE Louis
+x	ale	aloer	aleyàe	VERB	Marais nord-vendéen	retiré	Passé	Participe		sg	m			100.2	LIEVRE Louis
+x	ale	aloer	aleyàe	VERB	Marais nord-vendéen	retirée	Passé	Participe		sg	f			100.2	LIEVRE Louis
+x	ales	aloer	aleyàe	VERB	Marais nord-vendéen	retirés	Passé	Participe		pl	m			100.2	LIEVRE Louis
+x	ales	aloer	aleyàe	VERB	Marais nord-vendéen	retirées	Passé	Participe		pl	f			100.2	LIEVRE Louis
+x	aloejhe	aloer	aleyàe	VERB	Marais nord-vendéen	retire	Présent	Subjonctif	1.0	sg				100.2	LIEVRE Louis
+x	aloejhes	aloer	aleyàe	VERB	Marais nord-vendéen	retires	Présent	Subjonctif	2.0	sg				100.2	LIEVRE Louis
+x	aloejhe 	aloer	aleyàe	VERB	Marais nord-vendéen	retire	Présent	Subjonctif	3.0	sg				100.2	LIEVRE Louis
+x	aloejhun	aloer	aleyàe	VERB	Marais nord-vendéen	retirions	Présent	Subjonctif	1.0	pl				100.2	LIEVRE Louis
+x	aloejhéz	aloer	aleyàe	VERB	Marais nord-vendéen	retiriez	Présent	Subjonctif	2.0	pl				100.2	LIEVRE Louis
+x	aloejhant	aloer	aleyàe	VERB	Marais nord-vendéen	retirent	Présent	Subjonctif	3.0	pl				100.2	LIEVRE Louis
+x	aloyijhe	aloer	aleyàe	VERB	Marais nord-vendéen	retirasse	Imparfait	Subjonctif	1.0	sg				100.2	LIEVRE Louis
+x	aloyijhes	aloer	aleyàe	VERB	Marais nord-vendéen	retirasses	Imparfait	Subjonctif	2.0	sg				100.2	LIEVRE Louis
+x	aloyijhe 	aloer	aleyàe	VERB	Marais nord-vendéen	retirât	Imparfait	Subjonctif	3.0	sg				100.2	LIEVRE Louis
+x	aloyijhun	aloer	aleyàe	VERB	Marais nord-vendéen	retirassions	Imparfait	Subjonctif	1.0	pl				100.2	LIEVRE Louis
+x	aloyijhéz	aloer	aleyàe	VERB	Marais nord-vendéen	retirassiez	Imparfait	Subjonctif	2.0	pl				100.2	LIEVRE Louis
+x	aloyijhant	aloer	aleyàe	VERB	Marais nord-vendéen	retirassent	Imparfait	Subjonctif	3.0	pl				100.2	LIEVRE Louis
+x	amarcheroe	amarchoer	amarcheyàe	VERB	Marais nord-vendéen	baisserais	Présent	Conditionnel	1.0	sg				100.2	LIEVRE Louis
+x	amarcheroes	amarchoer	amarcheyàe	VERB	Marais nord-vendéen	baisserais	Présent	Conditionnel	2.0	sg				100.2	LIEVRE Louis
+x	amarcheroét	amarchoer	amarcheyàe	VERB	Marais nord-vendéen	baisserait	Présent	Conditionnel	3.0	sg				100.2	LIEVRE Louis
+x	amarcheriun	amarchoer	amarcheyàe	VERB	Marais nord-vendéen	baisserions	Présent	Conditionnel	1.0	pl				100.2	LIEVRE Louis
+x	amarcheriéz	amarchoer	amarcheyàe	VERB	Marais nord-vendéen	baisseriez	Présent	Conditionnel	2.0	pl				100.2	LIEVRE Louis
+x	amarcheriant	amarchoer	amarcheyàe	VERB	Marais nord-vendéen	baisseraient	Présent	Conditionnel	3.0	pl				100.2	LIEVRE Louis
+x	amarchoe  	amarchoer	amarcheyàe	VERB	Marais nord-vendéen	baisse	Présent	Impératif	2.0	sg				100.2	LIEVRE Louis
+x	amarchoyun 	amarchoer	amarcheyàe	VERB	Marais nord-vendéen	baissons	Présent	Impératif	1.0	pl				100.2	LIEVRE Louis
+x	amarchoyéz 	amarchoer	amarcheyàe	VERB	Marais nord-vendéen	baissez	Présent	Impératif	2.0	pl				100.2	LIEVRE Louis
+x	amarchoe	amarchoer	amarcheyàe	VERB	Marais nord-vendéen	baisse	Présent	Indicatif	1.0	sg				100.2	LIEVRE Louis
+x	amarchoes	amarchoer	amarcheyàe	VERB	Marais nord-vendéen	baisses	Présent	Indicatif	2.0	sg				100.2	LIEVRE Louis
+x	amarchoe 	amarchoer	amarcheyàe	VERB	Marais nord-vendéen	baisse	Présent	Indicatif	3.0	sg				100.2	LIEVRE Louis
+x	amarchoyun	amarchoer	amarcheyàe	VERB	Marais nord-vendéen	baissons	Présent	Indicatif	1.0	pl				100.2	LIEVRE Louis
+x	amarchoyéz	amarchoer	amarcheyàe	VERB	Marais nord-vendéen	baissez	Présent	Indicatif	2.0	pl				100.2	LIEVRE Louis
+x	amarchoyant	amarchoer	amarcheyàe	VERB	Marais nord-vendéen	baissent	Présent	Indicatif	3.0	pl				100.2	LIEVRE Louis
+x	amarchoyi	amarchoer	amarcheyàe	VERB	Marais nord-vendéen	baissai	Passé simple	Indicatif	1.0	sg				100.2	LIEVRE Louis
+x	amarchoyis	amarchoer	amarcheyàe	VERB	Marais nord-vendéen	baissas	Passé simple	Indicatif	2.0	sg				100.2	LIEVRE Louis
+x	amarchoyit	amarchoer	amarcheyàe	VERB	Marais nord-vendéen	baissa	Passé simple	Indicatif	3.0	sg				100.2	LIEVRE Louis
+x	amarchoyirun	amarchoer	amarcheyàe	VERB	Marais nord-vendéen	baissâmes	Passé simple	Indicatif	1.0	pl				100.2	LIEVRE Louis
+x	amarchoyiréz	amarchoer	amarcheyàe	VERB	Marais nord-vendéen	baissâtes	Passé simple	Indicatif	2.0	pl				100.2	LIEVRE Louis
+x	amarchoyirant	amarchoer	amarcheyàe	VERB	Marais nord-vendéen	baissèrent	Passé simple	Indicatif	3.0	pl				100.2	LIEVRE Louis
+x	amarchoyoe	amarchoer	amarcheyàe	VERB	Marais nord-vendéen	baissais	Imparfait	Indicatif	1.0	sg				100.2	LIEVRE Louis
+x	amarchoyoes	amarchoer	amarcheyàe	VERB	Marais nord-vendéen	baissais	Imparfait	Indicatif	2.0	sg				100.2	LIEVRE Louis
+x	amarchoyoét	amarchoer	amarcheyàe	VERB	Marais nord-vendéen	baissait	Imparfait	Indicatif	3.0	sg				100.2	LIEVRE Louis
+x	amarchoyiun	amarchoer	amarcheyàe	VERB	Marais nord-vendéen	baissions	Imparfait	Indicatif	1.0	pl				100.2	LIEVRE Louis
+x	amarchoyiéz	amarchoer	amarcheyàe	VERB	Marais nord-vendéen	baissiez	Imparfait	Indicatif	2.0	pl				100.2	LIEVRE Louis
+x	amarchoyiant	amarchoer	amarcheyàe	VERB	Marais nord-vendéen	baissaient	Imparfait	Indicatif	3.0	pl				100.2	LIEVRE Louis
+x	amarchoerae	amarchoer	amarcheyàe	VERB	Marais nord-vendéen	baisserai	Futur	Indicatif	1.0	sg				100.2	LIEVRE Louis
+x	amarchoeras	amarchoer	amarcheyàe	VERB	Marais nord-vendéen	baisseras	Futur	Indicatif	2.0	sg				100.2	LIEVRE Louis
+x	amarchoerat	amarchoer	amarcheyàe	VERB	Marais nord-vendéen	baissera	Futur	Indicatif	3.0	sg				100.2	LIEVRE Louis
+x	amarchoerun	amarchoer	amarcheyàe	VERB	Marais nord-vendéen	baisserons	Futur	Indicatif	1.0	pl				100.2	LIEVRE Louis
+x	amarchoeréz	amarchoer	amarcheyàe	VERB	Marais nord-vendéen	baisserez	Futur	Indicatif	2.0	pl				100.2	LIEVRE Louis
+x	amarchoerant	amarchoer	amarcheyàe	VERB	Marais nord-vendéen	baisseront	Futur	Indicatif	3.0	pl				100.2	LIEVRE Louis
+	amarchoer	amarchoer	amarcheyàe	VERB	Marais nord-vendéen	baisser de prix	Présent	Infinitif						100.2	PIVETEAU Vianney. 2021. Dicopoitevin
+x	amarchyant 	amarchoer	amarcheyàe	VERB	Marais nord-vendéen	baissant	Présent	Participe						100.2	LIEVRE Louis
+x	amarche	amarchoer	amarcheyàe	VERB	Marais nord-vendéen	baissé	Passé	Participe		sg	m			100.2	LIEVRE Louis
+x	amarche	amarchoer	amarcheyàe	VERB	Marais nord-vendéen	baissée	Passé	Participe		sg	f			100.2	LIEVRE Louis
+x	amarches	amarchoer	amarcheyàe	VERB	Marais nord-vendéen	baissés	Passé	Participe		pl	m			100.2	LIEVRE Louis
+x	amarches	amarchoer	amarcheyàe	VERB	Marais nord-vendéen	baissées	Passé	Participe		pl	f			100.2	LIEVRE Louis
+x	amarchoejhe	amarchoer	amarcheyàe	VERB	Marais nord-vendéen	baisse	Présent	Subjonctif	1.0	sg				100.2	LIEVRE Louis
+x	amarchoejhes	amarchoer	amarcheyàe	VERB	Marais nord-vendéen	baisses	Présent	Subjonctif	2.0	sg				100.2	LIEVRE Louis
+x	amarchoejhe 	amarchoer	amarcheyàe	VERB	Marais nord-vendéen	baisse	Présent	Subjonctif	3.0	sg				100.2	LIEVRE Louis
+x	amarchoejhun	amarchoer	amarcheyàe	VERB	Marais nord-vendéen	baissions	Présent	Subjonctif	1.0	pl				100.2	LIEVRE Louis
+x	amarchoejhéz	amarchoer	amarcheyàe	VERB	Marais nord-vendéen	baissiez	Présent	Subjonctif	2.0	pl				100.2	LIEVRE Louis
+x	amarchoejhant	amarchoer	amarcheyàe	VERB	Marais nord-vendéen	baissent	Présent	Subjonctif	3.0	pl				100.2	LIEVRE Louis
+x	amarchoyijhe	amarchoer	amarcheyàe	VERB	Marais nord-vendéen	baissasse	Imparfait	Subjonctif	1.0	sg				100.2	LIEVRE Louis
+x	amarchoyijhes	amarchoer	amarcheyàe	VERB	Marais nord-vendéen	baissasses	Imparfait	Subjonctif	2.0	sg				100.2	LIEVRE Louis
+x	amarchoyijhe 	amarchoer	amarcheyàe	VERB	Marais nord-vendéen	baissât	Imparfait	Subjonctif	3.0	sg				100.2	LIEVRE Louis
+x	amarchoyijhun	amarchoer	amarcheyàe	VERB	Marais nord-vendéen	baissassions	Imparfait	Subjonctif	1.0	pl				100.2	LIEVRE Louis
+x	amarchoyijhéz	amarchoer	amarcheyàe	VERB	Marais nord-vendéen	baissassiez	Imparfait	Subjonctif	2.0	pl				100.2	LIEVRE Louis
+x	amarchoyijhant	amarchoer	amarcheyàe	VERB	Marais nord-vendéen	baissassent	Imparfait	Subjonctif	3.0	pl				100.2	LIEVRE Louis
+x	aprceveroe	aprcevoer	aprcevoer	VERB	Marais nord-vendéen	apercevrais	Présent	Conditionnel	1.0	sg				100.2	LIEVRE Louis
+x	aprceveroes	aprcevoer	aprcevoer	VERB	Marais nord-vendéen	apercevrais	Présent	Conditionnel	2.0	sg				100.2	LIEVRE Louis
+x	aprceveroét	aprcevoer	aprcevoer	VERB	Marais nord-vendéen	apercevrait	Présent	Conditionnel	3.0	sg				100.2	LIEVRE Louis
+x	aprceveriun	aprcevoer	aprcevoer	VERB	Marais nord-vendéen	apercevrions	Présent	Conditionnel	1.0	pl				100.2	LIEVRE Louis
+x	aprceveriéz	aprcevoer	aprcevoer	VERB	Marais nord-vendéen	apercevriez	Présent	Conditionnel	2.0	pl				100.2	LIEVRE Louis
+x	aprceveriant	aprcevoer	aprcevoer	VERB	Marais nord-vendéen	apercevraient	Présent	Conditionnel	3.0	pl				100.2	LIEVRE Louis
+x	aprcevoe  	aprcevoer	aprcevoer	VERB	Marais nord-vendéen	aperçois	Présent	Impératif	2.0	sg				100.2	LIEVRE Louis
+x	aprcevoyun 	aprcevoer	aprcevoer	VERB	Marais nord-vendéen	apercevons	Présent	Impératif	1.0	pl				100.2	LIEVRE Louis
+x	aprcevoyéz 	aprcevoer	aprcevoer	VERB	Marais nord-vendéen	apercevez	Présent	Impératif	2.0	pl				100.2	LIEVRE Louis
+x	aprcevoe	aprcevoer	aprcevoer	VERB	Marais nord-vendéen	aperçois	Présent	Indicatif	1.0	sg				100.2	LIEVRE Louis
+x	aprcevoes	aprcevoer	aprcevoer	VERB	Marais nord-vendéen	aperçois	Présent	Indicatif	2.0	sg				100.2	LIEVRE Louis
+x	aprcevoe 	aprcevoer	aprcevoer	VERB	Marais nord-vendéen	aperçoit	Présent	Indicatif	3.0	sg				100.2	LIEVRE Louis
+x	aprcevoyun	aprcevoer	aprcevoer	VERB	Marais nord-vendéen	apercevons	Présent	Indicatif	1.0	pl				100.2	LIEVRE Louis
+x	aprcevoyéz	aprcevoer	aprcevoer	VERB	Marais nord-vendéen	apercevez	Présent	Indicatif	2.0	pl				100.2	LIEVRE Louis
+x	aprcevoyant	aprcevoer	aprcevoer	VERB	Marais nord-vendéen	aperçoivent	Présent	Indicatif	3.0	pl				100.2	LIEVRE Louis
+x	aprcevoyi	aprcevoer	aprcevoer	VERB	Marais nord-vendéen	aperçus	Passé simple	Indicatif	1.0	sg				100.2	LIEVRE Louis
+x	aprcevoyis	aprcevoer	aprcevoer	VERB	Marais nord-vendéen	aperçus	Passé simple	Indicatif	2.0	sg				100.2	LIEVRE Louis
+x	aprcevoyit	aprcevoer	aprcevoer	VERB	Marais nord-vendéen	aperçut	Passé simple	Indicatif	3.0	sg				100.2	LIEVRE Louis
+x	aprcevoyirun	aprcevoer	aprcevoer	VERB	Marais nord-vendéen	aperçûmes	Passé simple	Indicatif	1.0	pl				100.2	LIEVRE Louis
+x	aprcevoyiréz	aprcevoer	aprcevoer	VERB	Marais nord-vendéen	aperçûtes	Passé simple	Indicatif	2.0	pl				100.2	LIEVRE Louis
+x	aprcevoyirant	aprcevoer	aprcevoer	VERB	Marais nord-vendéen	aperçurent	Passé simple	Indicatif	3.0	pl				100.2	LIEVRE Louis
+x	aprcevoyoe	aprcevoer	aprcevoer	VERB	Marais nord-vendéen	apercevais	Imparfait	Indicatif	1.0	sg				100.2	LIEVRE Louis
+x	aprcevoyoes	aprcevoer	aprcevoer	VERB	Marais nord-vendéen	apercevais	Imparfait	Indicatif	2.0	sg				100.2	LIEVRE Louis
+x	aprcevoyoét	aprcevoer	aprcevoer	VERB	Marais nord-vendéen	apercevait	Imparfait	Indicatif	3.0	sg				100.2	LIEVRE Louis
+x	aprcevoyiun	aprcevoer	aprcevoer	VERB	Marais nord-vendéen	apercevions	Imparfait	Indicatif	1.0	pl				100.2	LIEVRE Louis
+x	aprcevoyiéz	aprcevoer	aprcevoer	VERB	Marais nord-vendéen	aperceviez	Imparfait	Indicatif	2.0	pl				100.2	LIEVRE Louis
+x	aprcevoyiant	aprcevoer	aprcevoer	VERB	Marais nord-vendéen	apercevaient	Imparfait	Indicatif	3.0	pl				100.2	LIEVRE Louis
+x	aprcevoerae	aprcevoer	aprcevoer	VERB	Marais nord-vendéen	apercevrai	Futur	Indicatif	1.0	sg				100.2	LIEVRE Louis
+x	aprcevoeras	aprcevoer	aprcevoer	VERB	Marais nord-vendéen	apercevras	Futur	Indicatif	2.0	sg				100.2	LIEVRE Louis
+x	aprcevoerat	aprcevoer	aprcevoer	VERB	Marais nord-vendéen	apercevra	Futur	Indicatif	3.0	sg				100.2	LIEVRE Louis
+x	aprcevoerun	aprcevoer	aprcevoer	VERB	Marais nord-vendéen	apercevrons	Futur	Indicatif	1.0	pl				100.2	LIEVRE Louis
+x	aprcevoeréz	aprcevoer	aprcevoer	VERB	Marais nord-vendéen	apercevrez	Futur	Indicatif	2.0	pl				100.2	LIEVRE Louis
+x	aprcevoerant	aprcevoer	aprcevoer	VERB	Marais nord-vendéen	apercevront	Futur	Indicatif	3.0	pl				100.2	LIEVRE Louis
+	aprcevoer	aprcevoer	aprcevoer	VERB	Marais nord-vendéen	apercevoir	Présent	Infinitif						100.2	PIVETEAU Vianney. 2021. Dicopoitevin
+x	aprcevyant 	aprcevoer	aprcevoer	VERB	Marais nord-vendéen	apercevant	Présent	Participe						100.2	LIEVRE Louis
+x	aprceve	aprcevoer	aprcevoer	VERB	Marais nord-vendéen	aperçu	Passé	Participe		sg	m			100.2	LIEVRE Louis
+x	aprceve	aprcevoer	aprcevoer	VERB	Marais nord-vendéen	aperçue	Passé	Participe		sg	f			100.2	LIEVRE Louis
+x	aprceves	aprcevoer	aprcevoer	VERB	Marais nord-vendéen	aperçus	Passé	Participe		pl	m			100.2	LIEVRE Louis
+x	aprceves	aprcevoer	aprcevoer	VERB	Marais nord-vendéen	aperçues	Passé	Participe		pl	f			100.2	LIEVRE Louis
+x	aprcevoejhe	aprcevoer	aprcevoer	VERB	Marais nord-vendéen	aperçoive	Présent	Subjonctif	1.0	sg				100.2	LIEVRE Louis
+x	aprcevoejhes	aprcevoer	aprcevoer	VERB	Marais nord-vendéen	aperçoives	Présent	Subjonctif	2.0	sg				100.2	LIEVRE Louis
+x	aprcevoejhe 	aprcevoer	aprcevoer	VERB	Marais nord-vendéen	aperçoive	Présent	Subjonctif	3.0	sg				100.2	LIEVRE Louis
+x	aprcevoejhun	aprcevoer	aprcevoer	VERB	Marais nord-vendéen	apercevions	Présent	Subjonctif	1.0	pl				100.2	LIEVRE Louis
+x	aprcevoejhéz	aprcevoer	aprcevoer	VERB	Marais nord-vendéen	aperceviez	Présent	Subjonctif	2.0	pl				100.2	LIEVRE Louis
+x	aprcevoejhant	aprcevoer	aprcevoer	VERB	Marais nord-vendéen	aperçoivent	Présent	Subjonctif	3.0	pl				100.2	LIEVRE Louis
+x	aprcevoyijhe	aprcevoer	aprcevoer	VERB	Marais nord-vendéen	aperçusse	Imparfait	Subjonctif	1.0	sg				100.2	LIEVRE Louis
+x	aprcevoyijhes	aprcevoer	aprcevoer	VERB	Marais nord-vendéen	aperçusses	Imparfait	Subjonctif	2.0	sg				100.2	LIEVRE Louis
+x	aprcevoyijhe 	aprcevoer	aprcevoer	VERB	Marais nord-vendéen	aperçût	Imparfait	Subjonctif	3.0	sg				100.2	LIEVRE Louis
+x	aprcevoyijhun	aprcevoer	aprcevoer	VERB	Marais nord-vendéen	aperçussions	Imparfait	Subjonctif	1.0	pl				100.2	LIEVRE Louis
+x	aprcevoyijhéz	aprcevoer	aprcevoer	VERB	Marais nord-vendéen	aperçussiez	Imparfait	Subjonctif	2.0	pl				100.2	LIEVRE Louis
+x	aprcevoyijhant	aprcevoer	aprcevoer	VERB	Marais nord-vendéen	aperçussent	Imparfait	Subjonctif	3.0	pl				100.2	LIEVRE Louis
+x	breroe	broer	bréyàe	VERB	Marais nord-vendéen	pleurerais	Présent	Conditionnel	1.0	sg				100.2	LIEVRE Louis
+x	breroes	broer	bréyàe	VERB	Marais nord-vendéen	pleurerais	Présent	Conditionnel	2.0	sg				100.2	LIEVRE Louis
+x	breroét	broer	bréyàe	VERB	Marais nord-vendéen	pleurerait	Présent	Conditionnel	3.0	sg				100.2	LIEVRE Louis
+x	breriun	broer	bréyàe	VERB	Marais nord-vendéen	pleurerions	Présent	Conditionnel	1.0	pl				100.2	LIEVRE Louis
+x	breriéz	broer	bréyàe	VERB	Marais nord-vendéen	pleureriez	Présent	Conditionnel	2.0	pl				100.2	LIEVRE Louis
+x	breriant	broer	bréyàe	VERB	Marais nord-vendéen	pleureraient	Présent	Conditionnel	3.0	pl				100.2	LIEVRE Louis
+x	broe  	broer	bréyàe	VERB	Marais nord-vendéen	pleure	Présent	Impératif	2.0	sg				100.2	LIEVRE Louis
+x	broyun 	broer	bréyàe	VERB	Marais nord-vendéen	pleurons	Présent	Impératif	1.0	pl				100.2	LIEVRE Louis
+x	broyéz 	broer	bréyàe	VERB	Marais nord-vendéen	pleurez	Présent	Impératif	2.0	pl				100.2	LIEVRE Louis
+x	broe	broer	bréyàe	VERB	Marais nord-vendéen	pleure	Présent	Indicatif	1.0	sg				100.2	LIEVRE Louis
+x	broes	broer	bréyàe	VERB	Marais nord-vendéen	pleures	Présent	Indicatif	2.0	sg				100.2	LIEVRE Louis
+x	broe 	broer	bréyàe	VERB	Marais nord-vendéen	pleure	Présent	Indicatif	3.0	sg				100.2	LIEVRE Louis
+x	broyun	broer	bréyàe	VERB	Marais nord-vendéen	pleurons	Présent	Indicatif	1.0	pl				100.2	LIEVRE Louis
+x	broyéz	broer	bréyàe	VERB	Marais nord-vendéen	pleurez	Présent	Indicatif	2.0	pl				100.2	LIEVRE Louis
+x	broyant	broer	bréyàe	VERB	Marais nord-vendéen	pleurent	Présent	Indicatif	3.0	pl				100.2	LIEVRE Louis
+x	broyi	broer	bréyàe	VERB	Marais nord-vendéen	pleurai	Passé simple	Indicatif	1.0	sg				100.2	LIEVRE Louis
+x	broyis	broer	bréyàe	VERB	Marais nord-vendéen	pleuras	Passé simple	Indicatif	2.0	sg				100.2	LIEVRE Louis
+x	broyit	broer	bréyàe	VERB	Marais nord-vendéen	pleura	Passé simple	Indicatif	3.0	sg				100.2	LIEVRE Louis
+x	broyirun	broer	bréyàe	VERB	Marais nord-vendéen	pleurâmes	Passé simple	Indicatif	1.0	pl				100.2	LIEVRE Louis
+x	broyiréz	broer	bréyàe	VERB	Marais nord-vendéen	pleurâtes	Passé simple	Indicatif	2.0	pl				100.2	LIEVRE Louis
+x	broyirant	broer	bréyàe	VERB	Marais nord-vendéen	pleurèrent	Passé simple	Indicatif	3.0	pl				100.2	LIEVRE Louis
+x	broyoe	broer	bréyàe	VERB	Marais nord-vendéen	pleurais	Imparfait	Indicatif	1.0	sg				100.2	LIEVRE Louis
+x	broyoes	broer	bréyàe	VERB	Marais nord-vendéen	pleurais	Imparfait	Indicatif	2.0	sg				100.2	LIEVRE Louis
+x	broyoét	broer	bréyàe	VERB	Marais nord-vendéen	pleurait	Imparfait	Indicatif	3.0	sg				100.2	LIEVRE Louis
+x	broyiun	broer	bréyàe	VERB	Marais nord-vendéen	pleurions	Imparfait	Indicatif	1.0	pl				100.2	LIEVRE Louis
+x	broyiéz	broer	bréyàe	VERB	Marais nord-vendéen	pleuriez	Imparfait	Indicatif	2.0	pl				100.2	LIEVRE Louis
+x	broyiant	broer	bréyàe	VERB	Marais nord-vendéen	pleuraient	Imparfait	Indicatif	3.0	pl				100.2	LIEVRE Louis
+x	broerae	broer	bréyàe	VERB	Marais nord-vendéen	pleurerai	Futur	Indicatif	1.0	sg				100.2	LIEVRE Louis
+x	broeras	broer	bréyàe	VERB	Marais nord-vendéen	pleureras	Futur	Indicatif	2.0	sg				100.2	LIEVRE Louis
+x	broerat	broer	bréyàe	VERB	Marais nord-vendéen	pleurera	Futur	Indicatif	3.0	sg				100.2	LIEVRE Louis
+x	broerun	broer	bréyàe	VERB	Marais nord-vendéen	pleurerons	Futur	Indicatif	1.0	pl				100.2	LIEVRE Louis
+x	broeréz	broer	bréyàe	VERB	Marais nord-vendéen	pleurerez	Futur	Indicatif	2.0	pl				100.2	LIEVRE Louis
+x	broerant	broer	bréyàe	VERB	Marais nord-vendéen	pleureront	Futur	Indicatif	3.0	pl				100.2	LIEVRE Louis
+	broer	broer	bréyàe	VERB	Marais nord-vendéen	pleurer	Présent	Infinitif						100.2	PIVETEAU Vianney. 2021. Dicopoitevin
+x	bryant 	broer	bréyàe	VERB	Marais nord-vendéen	pleurant	Présent	Participe						100.2	LIEVRE Louis
+x	bre	broer	bréyàe	VERB	Marais nord-vendéen	pleuré	Passé	Participe		sg	m			100.2	LIEVRE Louis
+x	bre	broer	bréyàe	VERB	Marais nord-vendéen	pleurée	Passé	Participe		sg	f			100.2	LIEVRE Louis
+x	bres	broer	bréyàe	VERB	Marais nord-vendéen	pleurés	Passé	Participe		pl	m			100.2	LIEVRE Louis
+x	bres	broer	bréyàe	VERB	Marais nord-vendéen	pleurées	Passé	Participe		pl	f			100.2	LIEVRE Louis
+x	broejhe	broer	bréyàe	VERB	Marais nord-vendéen	pleure	Présent	Subjonctif	1.0	sg				100.2	LIEVRE Louis
+x	broejhes	broer	bréyàe	VERB	Marais nord-vendéen	pleures	Présent	Subjonctif	2.0	sg				100.2	LIEVRE Louis
+x	broejhe 	broer	bréyàe	VERB	Marais nord-vendéen	pleure	Présent	Subjonctif	3.0	sg				100.2	LIEVRE Louis
+x	broejhun	broer	bréyàe	VERB	Marais nord-vendéen	pleurions	Présent	Subjonctif	1.0	pl				100.2	LIEVRE Louis
+x	broejhéz	broer	bréyàe	VERB	Marais nord-vendéen	pleuriez	Présent	Subjonctif	2.0	pl				100.2	LIEVRE Louis
+x	broejhant	broer	bréyàe	VERB	Marais nord-vendéen	pleurent	Présent	Subjonctif	3.0	pl				100.2	LIEVRE Louis
+x	broyijhe	broer	bréyàe	VERB	Marais nord-vendéen	pleurasse	Imparfait	Subjonctif	1.0	sg				100.2	LIEVRE Louis
+x	broyijhes	broer	bréyàe	VERB	Marais nord-vendéen	pleurasses	Imparfait	Subjonctif	2.0	sg				100.2	LIEVRE Louis
+x	broyijhe 	broer	bréyàe	VERB	Marais nord-vendéen	pleurât	Imparfait	Subjonctif	3.0	sg				100.2	LIEVRE Louis
+x	broyijhun	broer	bréyàe	VERB	Marais nord-vendéen	pleurassions	Imparfait	Subjonctif	1.0	pl				100.2	LIEVRE Louis
+x	broyijhéz	broer	bréyàe	VERB	Marais nord-vendéen	pleurassiez	Imparfait	Subjonctif	2.0	pl				100.2	LIEVRE Louis
+x	broyijhant	broer	bréyàe	VERB	Marais nord-vendéen	pleurassent	Imparfait	Subjonctif	3.0	pl				100.2	LIEVRE Louis
+x	carteroe	cartoer	carteyàe	VERB	Marais nord-vendéen	passerais	Présent	Conditionnel	1.0	sg				100.2	LIEVRE Louis
+x	carteroes	cartoer	carteyàe	VERB	Marais nord-vendéen	passerais	Présent	Conditionnel	2.0	sg				100.2	LIEVRE Louis
+x	carteroét	cartoer	carteyàe	VERB	Marais nord-vendéen	passerait	Présent	Conditionnel	3.0	sg				100.2	LIEVRE Louis
+x	carteriun	cartoer	carteyàe	VERB	Marais nord-vendéen	passerions	Présent	Conditionnel	1.0	pl				100.2	LIEVRE Louis
+x	carteriéz	cartoer	carteyàe	VERB	Marais nord-vendéen	passeriez	Présent	Conditionnel	2.0	pl				100.2	LIEVRE Louis
+x	carteriant	cartoer	carteyàe	VERB	Marais nord-vendéen	passeraient	Présent	Conditionnel	3.0	pl				100.2	LIEVRE Louis
+x	cartoe  	cartoer	carteyàe	VERB	Marais nord-vendéen	passe	Présent	Impératif	2.0	sg				100.2	LIEVRE Louis
+x	cartoyun 	cartoer	carteyàe	VERB	Marais nord-vendéen	passons	Présent	Impératif	1.0	pl				100.2	LIEVRE Louis
+x	cartoyéz 	cartoer	carteyàe	VERB	Marais nord-vendéen	passez	Présent	Impératif	2.0	pl				100.2	LIEVRE Louis
+x	cartoe	cartoer	carteyàe	VERB	Marais nord-vendéen	passe	Présent	Indicatif	1.0	sg				100.2	LIEVRE Louis
+x	cartoes	cartoer	carteyàe	VERB	Marais nord-vendéen	passes	Présent	Indicatif	2.0	sg				100.2	LIEVRE Louis
+x	cartoe 	cartoer	carteyàe	VERB	Marais nord-vendéen	passe	Présent	Indicatif	3.0	sg				100.2	LIEVRE Louis
+x	cartoyun	cartoer	carteyàe	VERB	Marais nord-vendéen	passons	Présent	Indicatif	1.0	pl				100.2	LIEVRE Louis
+x	cartoyéz	cartoer	carteyàe	VERB	Marais nord-vendéen	passez	Présent	Indicatif	2.0	pl				100.2	LIEVRE Louis
+x	cartoyant	cartoer	carteyàe	VERB	Marais nord-vendéen	passent	Présent	Indicatif	3.0	pl				100.2	LIEVRE Louis
+x	cartoyi	cartoer	carteyàe	VERB	Marais nord-vendéen	passai	Passé simple	Indicatif	1.0	sg				100.2	LIEVRE Louis
+x	cartoyis	cartoer	carteyàe	VERB	Marais nord-vendéen	passas	Passé simple	Indicatif	2.0	sg				100.2	LIEVRE Louis
+x	cartoyit	cartoer	carteyàe	VERB	Marais nord-vendéen	passa	Passé simple	Indicatif	3.0	sg				100.2	LIEVRE Louis
+x	cartoyirun	cartoer	carteyàe	VERB	Marais nord-vendéen	passâmes	Passé simple	Indicatif	1.0	pl				100.2	LIEVRE Louis
+x	cartoyiréz	cartoer	carteyàe	VERB	Marais nord-vendéen	passâtes	Passé simple	Indicatif	2.0	pl				100.2	LIEVRE Louis
+x	cartoyirant	cartoer	carteyàe	VERB	Marais nord-vendéen	passèrent	Passé simple	Indicatif	3.0	pl				100.2	LIEVRE Louis
+x	cartoyoe	cartoer	carteyàe	VERB	Marais nord-vendéen	passais	Imparfait	Indicatif	1.0	sg				100.2	LIEVRE Louis
+x	cartoyoes	cartoer	carteyàe	VERB	Marais nord-vendéen	passais	Imparfait	Indicatif	2.0	sg				100.2	LIEVRE Louis
+x	cartoyoét	cartoer	carteyàe	VERB	Marais nord-vendéen	passait	Imparfait	Indicatif	3.0	sg				100.2	LIEVRE Louis
+x	cartoyiun	cartoer	carteyàe	VERB	Marais nord-vendéen	passions	Imparfait	Indicatif	1.0	pl				100.2	LIEVRE Louis
+x	cartoyiéz	cartoer	carteyàe	VERB	Marais nord-vendéen	passiez	Imparfait	Indicatif	2.0	pl				100.2	LIEVRE Louis
+x	cartoyiant	cartoer	carteyàe	VERB	Marais nord-vendéen	passaient	Imparfait	Indicatif	3.0	pl				100.2	LIEVRE Louis
+x	cartoerae	cartoer	carteyàe	VERB	Marais nord-vendéen	passerai	Futur	Indicatif	1.0	sg				100.2	LIEVRE Louis
+x	cartoeras	cartoer	carteyàe	VERB	Marais nord-vendéen	passeras	Futur	Indicatif	2.0	sg				100.2	LIEVRE Louis
+x	cartoerat	cartoer	carteyàe	VERB	Marais nord-vendéen	passera	Futur	Indicatif	3.0	sg				100.2	LIEVRE Louis
+x	cartoerun	cartoer	carteyàe	VERB	Marais nord-vendéen	passerons	Futur	Indicatif	1.0	pl				100.2	LIEVRE Louis
+x	cartoeréz	cartoer	carteyàe	VERB	Marais nord-vendéen	passerez	Futur	Indicatif	2.0	pl				100.2	LIEVRE Louis
+x	cartoerant	cartoer	carteyàe	VERB	Marais nord-vendéen	passeront	Futur	Indicatif	3.0	pl				100.2	LIEVRE Louis
+	cartoer	cartoer	carteyàe	VERB	Marais nord-vendéen	passer à côté	Présent	Infinitif						100.2	PIVETEAU Vianney. 2021. Dicopoitevin
+x	cartyant 	cartoer	carteyàe	VERB	Marais nord-vendéen	passant	Présent	Participe						100.2	LIEVRE Louis
+x	carte	cartoer	carteyàe	VERB	Marais nord-vendéen	passé	Passé	Participe		sg	m			100.2	LIEVRE Louis
+x	carte	cartoer	carteyàe	VERB	Marais nord-vendéen	passée	Passé	Participe		sg	f			100.2	LIEVRE Louis
+x	cartes	cartoer	carteyàe	VERB	Marais nord-vendéen	passés	Passé	Participe		pl	m			100.2	LIEVRE Louis
+x	cartes	cartoer	carteyàe	VERB	Marais nord-vendéen	passées	Passé	Participe		pl	f			100.2	LIEVRE Louis
+x	cartoejhe	cartoer	carteyàe	VERB	Marais nord-vendéen	passe	Présent	Subjonctif	1.0	sg				100.2	LIEVRE Louis
+x	cartoejhes	cartoer	carteyàe	VERB	Marais nord-vendéen	passes	Présent	Subjonctif	2.0	sg				100.2	LIEVRE Louis
+x	cartoejhe 	cartoer	carteyàe	VERB	Marais nord-vendéen	passe	Présent	Subjonctif	3.0	sg				100.2	LIEVRE Louis
+x	cartoejhun	cartoer	carteyàe	VERB	Marais nord-vendéen	passions	Présent	Subjonctif	1.0	pl				100.2	LIEVRE Louis
+x	cartoejhéz	cartoer	carteyàe	VERB	Marais nord-vendéen	passiez	Présent	Subjonctif	2.0	pl				100.2	LIEVRE Louis
+x	cartoejhant	cartoer	carteyàe	VERB	Marais nord-vendéen	passent	Présent	Subjonctif	3.0	pl				100.2	LIEVRE Louis
+x	cartoyijhe	cartoer	carteyàe	VERB	Marais nord-vendéen	passasse	Imparfait	Subjonctif	1.0	sg				100.2	LIEVRE Louis
+x	cartoyijhes	cartoer	carteyàe	VERB	Marais nord-vendéen	passasses	Imparfait	Subjonctif	2.0	sg				100.2	LIEVRE Louis
+x	cartoyijhe 	cartoer	carteyàe	VERB	Marais nord-vendéen	passât	Imparfait	Subjonctif	3.0	sg				100.2	LIEVRE Louis
+x	cartoyijhun	cartoer	carteyàe	VERB	Marais nord-vendéen	passassions	Imparfait	Subjonctif	1.0	pl				100.2	LIEVRE Louis
+x	cartoyijhéz	cartoer	carteyàe	VERB	Marais nord-vendéen	passassiez	Imparfait	Subjonctif	2.0	pl				100.2	LIEVRE Louis
+x	cartoyijhant	cartoer	carteyàe	VERB	Marais nord-vendéen	passassent	Imparfait	Subjonctif	3.0	pl				100.2	LIEVRE Louis
+x	chanperoe	chanpoer	chanpoer	VERB	Marais nord-vendéen	déplacerais	Présent	Conditionnel	1.0	sg				100.2	LIEVRE Louis
+x	chanperoes	chanpoer	chanpoer	VERB	Marais nord-vendéen	déplacerais	Présent	Conditionnel	2.0	sg				100.2	LIEVRE Louis
+x	chanperoét	chanpoer	chanpoer	VERB	Marais nord-vendéen	déplacerait	Présent	Conditionnel	3.0	sg				100.2	LIEVRE Louis
+x	chanperiun	chanpoer	chanpoer	VERB	Marais nord-vendéen	déplacerions	Présent	Conditionnel	1.0	pl				100.2	LIEVRE Louis
+x	chanperiéz	chanpoer	chanpoer	VERB	Marais nord-vendéen	déplaceriez	Présent	Conditionnel	2.0	pl				100.2	LIEVRE Louis
+x	chanperiant	chanpoer	chanpoer	VERB	Marais nord-vendéen	déplaceraient	Présent	Conditionnel	3.0	pl				100.2	LIEVRE Louis
+x	chanpoe  	chanpoer	chanpoer	VERB	Marais nord-vendéen	déplace	Présent	Impératif	2.0	sg				100.2	LIEVRE Louis
+x	chanpoyun 	chanpoer	chanpoer	VERB	Marais nord-vendéen	déplaçons	Présent	Impératif	1.0	pl				100.2	LIEVRE Louis
+x	chanpoyéz 	chanpoer	chanpoer	VERB	Marais nord-vendéen	déplacez	Présent	Impératif	2.0	pl				100.2	LIEVRE Louis
+x	chanpoe	chanpoer	chanpoer	VERB	Marais nord-vendéen	déplace	Présent	Indicatif	1.0	sg				100.2	LIEVRE Louis
+x	chanpoes	chanpoer	chanpoer	VERB	Marais nord-vendéen	déplaces	Présent	Indicatif	2.0	sg				100.2	LIEVRE Louis
+x	chanpoe 	chanpoer	chanpoer	VERB	Marais nord-vendéen	déplace	Présent	Indicatif	3.0	sg				100.2	LIEVRE Louis
+x	chanpoyun	chanpoer	chanpoer	VERB	Marais nord-vendéen	déplaçons	Présent	Indicatif	1.0	pl				100.2	LIEVRE Louis
+x	chanpoyéz	chanpoer	chanpoer	VERB	Marais nord-vendéen	déplacez	Présent	Indicatif	2.0	pl				100.2	LIEVRE Louis
+x	chanpoyant	chanpoer	chanpoer	VERB	Marais nord-vendéen	déplacent	Présent	Indicatif	3.0	pl				100.2	LIEVRE Louis
+x	chanpoyi	chanpoer	chanpoer	VERB	Marais nord-vendéen	déplaçai	Passé simple	Indicatif	1.0	sg				100.2	LIEVRE Louis
+x	chanpoyis	chanpoer	chanpoer	VERB	Marais nord-vendéen	déplaças	Passé simple	Indicatif	2.0	sg				100.2	LIEVRE Louis
+x	chanpoyit	chanpoer	chanpoer	VERB	Marais nord-vendéen	déplaça	Passé simple	Indicatif	3.0	sg				100.2	LIEVRE Louis
+x	chanpoyirun	chanpoer	chanpoer	VERB	Marais nord-vendéen	déplaçâmes	Passé simple	Indicatif	1.0	pl				100.2	LIEVRE Louis
+x	chanpoyiréz	chanpoer	chanpoer	VERB	Marais nord-vendéen	déplaçâtes	Passé simple	Indicatif	2.0	pl				100.2	LIEVRE Louis
+x	chanpoyirant	chanpoer	chanpoer	VERB	Marais nord-vendéen	déplacèrent	Passé simple	Indicatif	3.0	pl				100.2	LIEVRE Louis
+x	chanpoyoe	chanpoer	chanpoer	VERB	Marais nord-vendéen	déplaçais	Imparfait	Indicatif	1.0	sg				100.2	LIEVRE Louis
+x	chanpoyoes	chanpoer	chanpoer	VERB	Marais nord-vendéen	déplaçais	Imparfait	Indicatif	2.0	sg				100.2	LIEVRE Louis
+x	chanpoyoét	chanpoer	chanpoer	VERB	Marais nord-vendéen	déplaçait	Imparfait	Indicatif	3.0	sg				100.2	LIEVRE Louis
+x	chanpoyiun	chanpoer	chanpoer	VERB	Marais nord-vendéen	déplacions	Imparfait	Indicatif	1.0	pl				100.2	LIEVRE Louis
+x	chanpoyiéz	chanpoer	chanpoer	VERB	Marais nord-vendéen	déplaciez	Imparfait	Indicatif	2.0	pl				100.2	LIEVRE Louis
+x	chanpoyiant	chanpoer	chanpoer	VERB	Marais nord-vendéen	déplaçaient	Imparfait	Indicatif	3.0	pl				100.2	LIEVRE Louis
+x	chanpoerae	chanpoer	chanpoer	VERB	Marais nord-vendéen	déplacerai	Futur	Indicatif	1.0	sg				100.2	LIEVRE Louis
+x	chanpoeras	chanpoer	chanpoer	VERB	Marais nord-vendéen	déplaceras	Futur	Indicatif	2.0	sg				100.2	LIEVRE Louis
+x	chanpoerat	chanpoer	chanpoer	VERB	Marais nord-vendéen	déplacera	Futur	Indicatif	3.0	sg				100.2	LIEVRE Louis
+x	chanpoerun	chanpoer	chanpoer	VERB	Marais nord-vendéen	déplacerons	Futur	Indicatif	1.0	pl				100.2	LIEVRE Louis
+x	chanpoeréz	chanpoer	chanpoer	VERB	Marais nord-vendéen	déplacerez	Futur	Indicatif	2.0	pl				100.2	LIEVRE Louis
+x	chanpoerant	chanpoer	chanpoer	VERB	Marais nord-vendéen	déplaceront	Futur	Indicatif	3.0	pl				100.2	LIEVRE Louis
+	chanpoer	chanpoer	chanpoer	VERB	Marais nord-vendéen	déplacer	Présent	Infinitif						100.2	PIVETEAU Vianney. 2021. Dicopoitevin
+x	chanpyant 	chanpoer	chanpoer	VERB	Marais nord-vendéen	déplaçant	Présent	Participe						100.2	LIEVRE Louis
+x	chanpe	chanpoer	chanpoer	VERB	Marais nord-vendéen	déplacé	Passé	Participe		sg	m			100.2	LIEVRE Louis
+x	chanpe	chanpoer	chanpoer	VERB	Marais nord-vendéen	déplacée	Passé	Participe		sg	f			100.2	LIEVRE Louis
+x	chanpes	chanpoer	chanpoer	VERB	Marais nord-vendéen	déplacés	Passé	Participe		pl	m			100.2	LIEVRE Louis
+x	chanpes	chanpoer	chanpoer	VERB	Marais nord-vendéen	déplacées	Passé	Participe		pl	f			100.2	LIEVRE Louis
+x	chanpoejhe	chanpoer	chanpoer	VERB	Marais nord-vendéen	déplace	Présent	Subjonctif	1.0	sg				100.2	LIEVRE Louis
+x	chanpoejhes	chanpoer	chanpoer	VERB	Marais nord-vendéen	déplaces	Présent	Subjonctif	2.0	sg				100.2	LIEVRE Louis
+x	chanpoejhe 	chanpoer	chanpoer	VERB	Marais nord-vendéen	déplace	Présent	Subjonctif	3.0	sg				100.2	LIEVRE Louis
+x	chanpoejhun	chanpoer	chanpoer	VERB	Marais nord-vendéen	déplacions	Présent	Subjonctif	1.0	pl				100.2	LIEVRE Louis
+x	chanpoejhéz	chanpoer	chanpoer	VERB	Marais nord-vendéen	déplaciez	Présent	Subjonctif	2.0	pl				100.2	LIEVRE Louis
+x	chanpoejhant	chanpoer	chanpoer	VERB	Marais nord-vendéen	déplacent	Présent	Subjonctif	3.0	pl				100.2	LIEVRE Louis
+x	chanpoyijhe	chanpoer	chanpoer	VERB	Marais nord-vendéen	déplaçasse	Imparfait	Subjonctif	1.0	sg				100.2	LIEVRE Louis
+x	chanpoyijhes	chanpoer	chanpoer	VERB	Marais nord-vendéen	déplaçasses	Imparfait	Subjonctif	2.0	sg				100.2	LIEVRE Louis
+x	chanpoyijhe 	chanpoer	chanpoer	VERB	Marais nord-vendéen	déplaçât	Imparfait	Subjonctif	3.0	sg				100.2	LIEVRE Louis
+x	chanpoyijhun	chanpoer	chanpoer	VERB	Marais nord-vendéen	déplaçassions	Imparfait	Subjonctif	1.0	pl				100.2	LIEVRE Louis
+x	chanpoyijhéz	chanpoer	chanpoer	VERB	Marais nord-vendéen	déplaçassiez	Imparfait	Subjonctif	2.0	pl				100.2	LIEVRE Louis
+x	chanpoyijhant	chanpoer	chanpoer	VERB	Marais nord-vendéen	déplaçassent	Imparfait	Subjonctif	3.0	pl				100.2	LIEVRE Louis
+	charoer	charoer	charoyàe	VERB	Marais nord-vendéen	charoyàe	Présent	Infinitif						100.2	PIVETEAU Vianney. 2021. Dicopoitevin
+x	cllérzeroe	cllérzoer	cllértàe	VERB	Marais nord-vendéen	brillerais	Présent	Conditionnel	1.0	sg				100.2	LIEVRE Louis
+x	cllérzeroes	cllérzoer	cllértàe	VERB	Marais nord-vendéen	brillerais	Présent	Conditionnel	2.0	sg				100.2	LIEVRE Louis
+x	cllérzeroét	cllérzoer	cllértàe	VERB	Marais nord-vendéen	brillerait	Présent	Conditionnel	3.0	sg				100.2	LIEVRE Louis
+x	cllérzeriun	cllérzoer	cllértàe	VERB	Marais nord-vendéen	brillerions	Présent	Conditionnel	1.0	pl				100.2	LIEVRE Louis
+x	cllérzeriéz	cllérzoer	cllértàe	VERB	Marais nord-vendéen	brilleriez	Présent	Conditionnel	2.0	pl				100.2	LIEVRE Louis
+x	cllérzeriant	cllérzoer	cllértàe	VERB	Marais nord-vendéen	brilleraient	Présent	Conditionnel	3.0	pl				100.2	LIEVRE Louis
+x	cllérzoe  	cllérzoer	cllértàe	VERB	Marais nord-vendéen	brille	Présent	Impératif	2.0	sg				100.2	LIEVRE Louis
+x	cllérzoyun 	cllérzoer	cllértàe	VERB	Marais nord-vendéen	brillons	Présent	Impératif	1.0	pl				100.2	LIEVRE Louis
+x	cllérzoyéz 	cllérzoer	cllértàe	VERB	Marais nord-vendéen	brillez	Présent	Impératif	2.0	pl				100.2	LIEVRE Louis
+x	cllérzoe	cllérzoer	cllértàe	VERB	Marais nord-vendéen	brille	Présent	Indicatif	1.0	sg				100.2	LIEVRE Louis
+x	cllérzoes	cllérzoer	cllértàe	VERB	Marais nord-vendéen	brilles	Présent	Indicatif	2.0	sg				100.2	LIEVRE Louis
+x	cllérzoe 	cllérzoer	cllértàe	VERB	Marais nord-vendéen	brille	Présent	Indicatif	3.0	sg				100.2	LIEVRE Louis
+x	cllérzoyun	cllérzoer	cllértàe	VERB	Marais nord-vendéen	brillons	Présent	Indicatif	1.0	pl				100.2	LIEVRE Louis
+x	cllérzoyéz	cllérzoer	cllértàe	VERB	Marais nord-vendéen	brillez	Présent	Indicatif	2.0	pl				100.2	LIEVRE Louis
+x	cllérzoyant	cllérzoer	cllértàe	VERB	Marais nord-vendéen	brillent	Présent	Indicatif	3.0	pl				100.2	LIEVRE Louis
+x	cllérzoyi	cllérzoer	cllértàe	VERB	Marais nord-vendéen	brillai	Passé simple	Indicatif	1.0	sg				100.2	LIEVRE Louis
+x	cllérzoyis	cllérzoer	cllértàe	VERB	Marais nord-vendéen	brillas	Passé simple	Indicatif	2.0	sg				100.2	LIEVRE Louis
+x	cllérzoyit	cllérzoer	cllértàe	VERB	Marais nord-vendéen	brilla	Passé simple	Indicatif	3.0	sg				100.2	LIEVRE Louis
+x	cllérzoyirun	cllérzoer	cllértàe	VERB	Marais nord-vendéen	brillâmes	Passé simple	Indicatif	1.0	pl				100.2	LIEVRE Louis
+x	cllérzoyiréz	cllérzoer	cllértàe	VERB	Marais nord-vendéen	brillâtes	Passé simple	Indicatif	2.0	pl				100.2	LIEVRE Louis
+x	cllérzoyirant	cllérzoer	cllértàe	VERB	Marais nord-vendéen	brillèrent	Passé simple	Indicatif	3.0	pl				100.2	LIEVRE Louis
+x	cllérzoyoe	cllérzoer	cllértàe	VERB	Marais nord-vendéen	brillais	Imparfait	Indicatif	1.0	sg				100.2	LIEVRE Louis
+x	cllérzoyoes	cllérzoer	cllértàe	VERB	Marais nord-vendéen	brillais	Imparfait	Indicatif	2.0	sg				100.2	LIEVRE Louis
+x	cllérzoyoét	cllérzoer	cllértàe	VERB	Marais nord-vendéen	brillait	Imparfait	Indicatif	3.0	sg				100.2	LIEVRE Louis
+x	cllérzoyiun	cllérzoer	cllértàe	VERB	Marais nord-vendéen	brillions	Imparfait	Indicatif	1.0	pl				100.2	LIEVRE Louis
+x	cllérzoyiéz	cllérzoer	cllértàe	VERB	Marais nord-vendéen	brilliez	Imparfait	Indicatif	2.0	pl				100.2	LIEVRE Louis
+x	cllérzoyiant	cllérzoer	cllértàe	VERB	Marais nord-vendéen	brillaient	Imparfait	Indicatif	3.0	pl				100.2	LIEVRE Louis
+x	cllérzoerae	cllérzoer	cllértàe	VERB	Marais nord-vendéen	brillerai	Futur	Indicatif	1.0	sg				100.2	LIEVRE Louis
+x	cllérzoeras	cllérzoer	cllértàe	VERB	Marais nord-vendéen	brilleras	Futur	Indicatif	2.0	sg				100.2	LIEVRE Louis
+x	cllérzoerat	cllérzoer	cllértàe	VERB	Marais nord-vendéen	brillera	Futur	Indicatif	3.0	sg				100.2	LIEVRE Louis
+x	cllérzoerun	cllérzoer	cllértàe	VERB	Marais nord-vendéen	brillerons	Futur	Indicatif	1.0	pl				100.2	LIEVRE Louis
+x	cllérzoeréz	cllérzoer	cllértàe	VERB	Marais nord-vendéen	brillerez	Futur	Indicatif	2.0	pl				100.2	LIEVRE Louis
+x	cllérzoerant	cllérzoer	cllértàe	VERB	Marais nord-vendéen	brilleront	Futur	Indicatif	3.0	pl				100.2	LIEVRE Louis
+	cllérzoer	cllérzoer	cllértàe	VERB	Marais nord-vendéen	briller	Présent	Infinitif						100.2	PIVETEAU Vianney. 2021. Dicopoitevin
+x	cllérzyant 	cllérzoer	cllértàe	VERB	Marais nord-vendéen	brillant	Présent	Participe						100.2	LIEVRE Louis
+x	cllérze	cllérzoer	cllértàe	VERB	Marais nord-vendéen	brillé	Passé	Participe		sg	m			100.2	LIEVRE Louis
+x	cllérze	cllérzoer	cllértàe	VERB	Marais nord-vendéen	brillée	Passé	Participe		sg	f			100.2	LIEVRE Louis
+x	cllérzes	cllérzoer	cllértàe	VERB	Marais nord-vendéen	brillés	Passé	Participe		pl	m			100.2	LIEVRE Louis
+x	cllérzes	cllérzoer	cllértàe	VERB	Marais nord-vendéen	brillées	Passé	Participe		pl	f			100.2	LIEVRE Louis
+x	cllérzoejhe	cllérzoer	cllértàe	VERB	Marais nord-vendéen	brille	Présent	Subjonctif	1.0	sg				100.2	LIEVRE Louis
+x	cllérzoejhes	cllérzoer	cllértàe	VERB	Marais nord-vendéen	brilles	Présent	Subjonctif	2.0	sg				100.2	LIEVRE Louis
+x	cllérzoejhe 	cllérzoer	cllértàe	VERB	Marais nord-vendéen	brille	Présent	Subjonctif	3.0	sg				100.2	LIEVRE Louis
+x	cllérzoejhun	cllérzoer	cllértàe	VERB	Marais nord-vendéen	brillions	Présent	Subjonctif	1.0	pl				100.2	LIEVRE Louis
+x	cllérzoejhéz	cllérzoer	cllértàe	VERB	Marais nord-vendéen	brilliez	Présent	Subjonctif	2.0	pl				100.2	LIEVRE Louis
+x	cllérzoejhant	cllérzoer	cllértàe	VERB	Marais nord-vendéen	brillent	Présent	Subjonctif	3.0	pl				100.2	LIEVRE Louis
+x	cllérzoyijhe	cllérzoer	cllértàe	VERB	Marais nord-vendéen	brillasse	Imparfait	Subjonctif	1.0	sg				100.2	LIEVRE Louis
+x	cllérzoyijhes	cllérzoer	cllértàe	VERB	Marais nord-vendéen	brillasses	Imparfait	Subjonctif	2.0	sg				100.2	LIEVRE Louis
+x	cllérzoyijhe 	cllérzoer	cllértàe	VERB	Marais nord-vendéen	brillât	Imparfait	Subjonctif	3.0	sg				100.2	LIEVRE Louis
+x	cllérzoyijhun	cllérzoer	cllértàe	VERB	Marais nord-vendéen	brillassions	Imparfait	Subjonctif	1.0	pl				100.2	LIEVRE Louis
+x	cllérzoyijhéz	cllérzoer	cllértàe	VERB	Marais nord-vendéen	brillassiez	Imparfait	Subjonctif	2.0	pl				100.2	LIEVRE Louis
+x	cllérzoyijhant	cllérzoer	cllértàe	VERB	Marais nord-vendéen	brillassent	Imparfait	Subjonctif	3.0	pl				100.2	LIEVRE Louis
+x	coderoe	codoer	codeyàe	VERB	Marais nord-vendéen	rangerais	Présent	Conditionnel	1.0	sg				100.2	LIEVRE Louis
+x	coderoes	codoer	codeyàe	VERB	Marais nord-vendéen	rangerais	Présent	Conditionnel	2.0	sg				100.2	LIEVRE Louis
+x	coderoét	codoer	codeyàe	VERB	Marais nord-vendéen	rangerait	Présent	Conditionnel	3.0	sg				100.2	LIEVRE Louis
+x	coderiun	codoer	codeyàe	VERB	Marais nord-vendéen	rangerions	Présent	Conditionnel	1.0	pl				100.2	LIEVRE Louis
+x	coderiéz	codoer	codeyàe	VERB	Marais nord-vendéen	rangeriez	Présent	Conditionnel	2.0	pl				100.2	LIEVRE Louis
+x	coderiant	codoer	codeyàe	VERB	Marais nord-vendéen	rangeraient	Présent	Conditionnel	3.0	pl				100.2	LIEVRE Louis
+x	codoe  	codoer	codeyàe	VERB	Marais nord-vendéen	range	Présent	Impératif	2.0	sg				100.2	LIEVRE Louis
+x	codoyun 	codoer	codeyàe	VERB	Marais nord-vendéen	rangeons	Présent	Impératif	1.0	pl				100.2	LIEVRE Louis
+x	codoyéz 	codoer	codeyàe	VERB	Marais nord-vendéen	rangez	Présent	Impératif	2.0	pl				100.2	LIEVRE Louis
+x	codoe	codoer	codeyàe	VERB	Marais nord-vendéen	range	Présent	Indicatif	1.0	sg				100.2	LIEVRE Louis
+x	codoes	codoer	codeyàe	VERB	Marais nord-vendéen	ranges	Présent	Indicatif	2.0	sg				100.2	LIEVRE Louis
+x	codoe 	codoer	codeyàe	VERB	Marais nord-vendéen	range	Présent	Indicatif	3.0	sg				100.2	LIEVRE Louis
+x	codoyun	codoer	codeyàe	VERB	Marais nord-vendéen	rangeons	Présent	Indicatif	1.0	pl				100.2	LIEVRE Louis
+x	codoyéz	codoer	codeyàe	VERB	Marais nord-vendéen	rangez	Présent	Indicatif	2.0	pl				100.2	LIEVRE Louis
+x	codoyant	codoer	codeyàe	VERB	Marais nord-vendéen	rangent	Présent	Indicatif	3.0	pl				100.2	LIEVRE Louis
+x	codoyi	codoer	codeyàe	VERB	Marais nord-vendéen	rangeai	Passé simple	Indicatif	1.0	sg				100.2	LIEVRE Louis
+x	codoyis	codoer	codeyàe	VERB	Marais nord-vendéen	rangeas	Passé simple	Indicatif	2.0	sg				100.2	LIEVRE Louis
+x	codoyit	codoer	codeyàe	VERB	Marais nord-vendéen	rangea	Passé simple	Indicatif	3.0	sg				100.2	LIEVRE Louis
+x	codoyirun	codoer	codeyàe	VERB	Marais nord-vendéen	rangeâmes	Passé simple	Indicatif	1.0	pl				100.2	LIEVRE Louis
+x	codoyiréz	codoer	codeyàe	VERB	Marais nord-vendéen	rangeâtes	Passé simple	Indicatif	2.0	pl				100.2	LIEVRE Louis
+x	codoyirant	codoer	codeyàe	VERB	Marais nord-vendéen	rangèrent	Passé simple	Indicatif	3.0	pl				100.2	LIEVRE Louis
+x	codoyoe	codoer	codeyàe	VERB	Marais nord-vendéen	rangeais	Imparfait	Indicatif	1.0	sg				100.2	LIEVRE Louis
+x	codoyoes	codoer	codeyàe	VERB	Marais nord-vendéen	rangeais	Imparfait	Indicatif	2.0	sg				100.2	LIEVRE Louis
+x	codoyoét	codoer	codeyàe	VERB	Marais nord-vendéen	rangeait	Imparfait	Indicatif	3.0	sg				100.2	LIEVRE Louis
+x	codoyiun	codoer	codeyàe	VERB	Marais nord-vendéen	rangions	Imparfait	Indicatif	1.0	pl				100.2	LIEVRE Louis
+x	codoyiéz	codoer	codeyàe	VERB	Marais nord-vendéen	rangiez	Imparfait	Indicatif	2.0	pl				100.2	LIEVRE Louis
+x	codoyiant	codoer	codeyàe	VERB	Marais nord-vendéen	rangeaient	Imparfait	Indicatif	3.0	pl				100.2	LIEVRE Louis
+x	codoerae	codoer	codeyàe	VERB	Marais nord-vendéen	rangerai	Futur	Indicatif	1.0	sg				100.2	LIEVRE Louis
+x	codoeras	codoer	codeyàe	VERB	Marais nord-vendéen	rangeras	Futur	Indicatif	2.0	sg				100.2	LIEVRE Louis
+x	codoerat	codoer	codeyàe	VERB	Marais nord-vendéen	rangera	Futur	Indicatif	3.0	sg				100.2	LIEVRE Louis
+x	codoerun	codoer	codeyàe	VERB	Marais nord-vendéen	rangerons	Futur	Indicatif	1.0	pl				100.2	LIEVRE Louis
+x	codoeréz	codoer	codeyàe	VERB	Marais nord-vendéen	rangerez	Futur	Indicatif	2.0	pl				100.2	LIEVRE Louis
+x	codoerant	codoer	codeyàe	VERB	Marais nord-vendéen	rangeront	Futur	Indicatif	3.0	pl				100.2	LIEVRE Louis
+	codoer	codoer	codeyàe	VERB	Marais nord-vendéen	ranger	Présent	Infinitif						100.2	PIVETEAU Vianney. 2021. Dicopoitevin
+x	codyant 	codoer	codeyàe	VERB	Marais nord-vendéen	rangeant	Présent	Participe						100.2	LIEVRE Louis
+x	code	codoer	codeyàe	VERB	Marais nord-vendéen	rangé	Passé	Participe		sg	m			100.2	LIEVRE Louis
+x	code	codoer	codeyàe	VERB	Marais nord-vendéen	rangée	Passé	Participe		sg	f			100.2	LIEVRE Louis
+x	codes	codoer	codeyàe	VERB	Marais nord-vendéen	rangés	Passé	Participe		pl	m			100.2	LIEVRE Louis
+x	codes	codoer	codeyàe	VERB	Marais nord-vendéen	rangées	Passé	Participe		pl	f			100.2	LIEVRE Louis
+x	codoejhe	codoer	codeyàe	VERB	Marais nord-vendéen	range	Présent	Subjonctif	1.0	sg				100.2	LIEVRE Louis
+x	codoejhes	codoer	codeyàe	VERB	Marais nord-vendéen	ranges	Présent	Subjonctif	2.0	sg				100.2	LIEVRE Louis
+x	codoejhe 	codoer	codeyàe	VERB	Marais nord-vendéen	range	Présent	Subjonctif	3.0	sg				100.2	LIEVRE Louis
+x	codoejhun	codoer	codeyàe	VERB	Marais nord-vendéen	rangions	Présent	Subjonctif	1.0	pl				100.2	LIEVRE Louis
+x	codoejhéz	codoer	codeyàe	VERB	Marais nord-vendéen	rangiez	Présent	Subjonctif	2.0	pl				100.2	LIEVRE Louis
+x	codoejhant	codoer	codeyàe	VERB	Marais nord-vendéen	rangent	Présent	Subjonctif	3.0	pl				100.2	LIEVRE Louis
+x	codoyijhe	codoer	codeyàe	VERB	Marais nord-vendéen	rangeasse	Imparfait	Subjonctif	1.0	sg				100.2	LIEVRE Louis
+x	codoyijhes	codoer	codeyàe	VERB	Marais nord-vendéen	rangeasses	Imparfait	Subjonctif	2.0	sg				100.2	LIEVRE Louis
+x	codoyijhe 	codoer	codeyàe	VERB	Marais nord-vendéen	rangeât	Imparfait	Subjonctif	3.0	sg				100.2	LIEVRE Louis
+x	codoyijhun	codoer	codeyàe	VERB	Marais nord-vendéen	rangeassions	Imparfait	Subjonctif	1.0	pl				100.2	LIEVRE Louis
+x	codoyijhéz	codoer	codeyàe	VERB	Marais nord-vendéen	rangeassiez	Imparfait	Subjonctif	2.0	pl				100.2	LIEVRE Louis
+x	codoyijhant	codoer	codeyàe	VERB	Marais nord-vendéen	rangeassent	Imparfait	Subjonctif	3.0	pl				100.2	LIEVRE Louis
+x	coleroe	coloer	coleyàe	VERB	Marais nord-vendéen	coltinerais	Présent	Conditionnel	1.0	sg				100.2	LIEVRE Louis
+x	coleroes	coloer	coleyàe	VERB	Marais nord-vendéen	coltinerais	Présent	Conditionnel	2.0	sg				100.2	LIEVRE Louis
+x	coleroét	coloer	coleyàe	VERB	Marais nord-vendéen	coltinerait	Présent	Conditionnel	3.0	sg				100.2	LIEVRE Louis
+x	coleriun	coloer	coleyàe	VERB	Marais nord-vendéen	coltinerions	Présent	Conditionnel	1.0	pl				100.2	LIEVRE Louis
+x	coleriéz	coloer	coleyàe	VERB	Marais nord-vendéen	coltineriez	Présent	Conditionnel	2.0	pl				100.2	LIEVRE Louis
+x	coleriant	coloer	coleyàe	VERB	Marais nord-vendéen	coltineraient	Présent	Conditionnel	3.0	pl				100.2	LIEVRE Louis
+x	coloe  	coloer	coleyàe	VERB	Marais nord-vendéen	coltine	Présent	Impératif	2.0	sg				100.2	LIEVRE Louis
+x	coloyun 	coloer	coleyàe	VERB	Marais nord-vendéen	coltinons	Présent	Impératif	1.0	pl				100.2	LIEVRE Louis
+x	coloyéz 	coloer	coleyàe	VERB	Marais nord-vendéen	coltinez	Présent	Impératif	2.0	pl				100.2	LIEVRE Louis
+x	coloe	coloer	coleyàe	VERB	Marais nord-vendéen	coltine	Présent	Indicatif	1.0	sg				100.2	LIEVRE Louis
+x	coloes	coloer	coleyàe	VERB	Marais nord-vendéen	coltines	Présent	Indicatif	2.0	sg				100.2	LIEVRE Louis
+x	coloe 	coloer	coleyàe	VERB	Marais nord-vendéen	coltine	Présent	Indicatif	3.0	sg				100.2	LIEVRE Louis
+x	coloyun	coloer	coleyàe	VERB	Marais nord-vendéen	coltinons	Présent	Indicatif	1.0	pl				100.2	LIEVRE Louis
+x	coloyéz	coloer	coleyàe	VERB	Marais nord-vendéen	coltinez	Présent	Indicatif	2.0	pl				100.2	LIEVRE Louis
+x	coloyant	coloer	coleyàe	VERB	Marais nord-vendéen	coltinent	Présent	Indicatif	3.0	pl				100.2	LIEVRE Louis
+x	coloyi	coloer	coleyàe	VERB	Marais nord-vendéen	coltinai	Passé simple	Indicatif	1.0	sg				100.2	LIEVRE Louis
+x	coloyis	coloer	coleyàe	VERB	Marais nord-vendéen	coltinas	Passé simple	Indicatif	2.0	sg				100.2	LIEVRE Louis
+x	coloyit	coloer	coleyàe	VERB	Marais nord-vendéen	coltina	Passé simple	Indicatif	3.0	sg				100.2	LIEVRE Louis
+x	coloyirun	coloer	coleyàe	VERB	Marais nord-vendéen	coltinâmes	Passé simple	Indicatif	1.0	pl				100.2	LIEVRE Louis
+x	coloyiréz	coloer	coleyàe	VERB	Marais nord-vendéen	coltinâtes	Passé simple	Indicatif	2.0	pl				100.2	LIEVRE Louis
+x	coloyirant	coloer	coleyàe	VERB	Marais nord-vendéen	coltinèrent	Passé simple	Indicatif	3.0	pl				100.2	LIEVRE Louis
+x	coloyoe	coloer	coleyàe	VERB	Marais nord-vendéen	coltinais	Imparfait	Indicatif	1.0	sg				100.2	LIEVRE Louis
+x	coloyoes	coloer	coleyàe	VERB	Marais nord-vendéen	coltinais	Imparfait	Indicatif	2.0	sg				100.2	LIEVRE Louis
+x	coloyoét	coloer	coleyàe	VERB	Marais nord-vendéen	coltinait	Imparfait	Indicatif	3.0	sg				100.2	LIEVRE Louis
+x	coloyiun	coloer	coleyàe	VERB	Marais nord-vendéen	coltinions	Imparfait	Indicatif	1.0	pl				100.2	LIEVRE Louis
+x	coloyiéz	coloer	coleyàe	VERB	Marais nord-vendéen	coltiniez	Imparfait	Indicatif	2.0	pl				100.2	LIEVRE Louis
+x	coloyiant	coloer	coleyàe	VERB	Marais nord-vendéen	coltinaient	Imparfait	Indicatif	3.0	pl				100.2	LIEVRE Louis
+x	coloerae	coloer	coleyàe	VERB	Marais nord-vendéen	coltinerai	Futur	Indicatif	1.0	sg				100.2	LIEVRE Louis
+x	coloeras	coloer	coleyàe	VERB	Marais nord-vendéen	coltineras	Futur	Indicatif	2.0	sg				100.2	LIEVRE Louis
+x	coloerat	coloer	coleyàe	VERB	Marais nord-vendéen	coltinera	Futur	Indicatif	3.0	sg				100.2	LIEVRE Louis
+x	coloerun	coloer	coleyàe	VERB	Marais nord-vendéen	coltinerons	Futur	Indicatif	1.0	pl				100.2	LIEVRE Louis
+x	coloeréz	coloer	coleyàe	VERB	Marais nord-vendéen	coltinerez	Futur	Indicatif	2.0	pl				100.2	LIEVRE Louis
+x	coloerant	coloer	coleyàe	VERB	Marais nord-vendéen	coltineront	Futur	Indicatif	3.0	pl				100.2	LIEVRE Louis
+	coloer	coloer	coleyàe	VERB	Marais nord-vendéen	coltiner	Présent	Infinitif						100.2	PIVETEAU Vianney. 2021. Dicopoitevin
+x	colyant 	coloer	coleyàe	VERB	Marais nord-vendéen	coltinant	Présent	Participe						100.2	LIEVRE Louis
+x	cole	coloer	coleyàe	VERB	Marais nord-vendéen	coltiné	Passé	Participe		sg	m			100.2	LIEVRE Louis
+x	cole	coloer	coleyàe	VERB	Marais nord-vendéen	coltinée	Passé	Participe		sg	f			100.2	LIEVRE Louis
+x	coles	coloer	coleyàe	VERB	Marais nord-vendéen	coltinés	Passé	Participe		pl	m			100.2	LIEVRE Louis
+x	coles	coloer	coleyàe	VERB	Marais nord-vendéen	coltinées	Passé	Participe		pl	f			100.2	LIEVRE Louis
+x	coloejhe	coloer	coleyàe	VERB	Marais nord-vendéen	coltine	Présent	Subjonctif	1.0	sg				100.2	LIEVRE Louis
+x	coloejhes	coloer	coleyàe	VERB	Marais nord-vendéen	coltines	Présent	Subjonctif	2.0	sg				100.2	LIEVRE Louis
+x	coloejhe 	coloer	coleyàe	VERB	Marais nord-vendéen	coltine	Présent	Subjonctif	3.0	sg				100.2	LIEVRE Louis
+x	coloejhun	coloer	coleyàe	VERB	Marais nord-vendéen	coltinions	Présent	Subjonctif	1.0	pl				100.2	LIEVRE Louis
+x	coloejhéz	coloer	coleyàe	VERB	Marais nord-vendéen	coltiniez	Présent	Subjonctif	2.0	pl				100.2	LIEVRE Louis
+x	coloejhant	coloer	coleyàe	VERB	Marais nord-vendéen	coltinent	Présent	Subjonctif	3.0	pl				100.2	LIEVRE Louis
+x	coloyijhe	coloer	coleyàe	VERB	Marais nord-vendéen	coltinasse	Imparfait	Subjonctif	1.0	sg				100.2	LIEVRE Louis
+x	coloyijhes	coloer	coleyàe	VERB	Marais nord-vendéen	coltinasses	Imparfait	Subjonctif	2.0	sg				100.2	LIEVRE Louis
+x	coloyijhe 	coloer	coleyàe	VERB	Marais nord-vendéen	coltinât	Imparfait	Subjonctif	3.0	sg				100.2	LIEVRE Louis
+x	coloyijhun	coloer	coleyàe	VERB	Marais nord-vendéen	coltinassions	Imparfait	Subjonctif	1.0	pl				100.2	LIEVRE Louis
+x	coloyijhéz	coloer	coleyàe	VERB	Marais nord-vendéen	coltinassiez	Imparfait	Subjonctif	2.0	pl				100.2	LIEVRE Louis
+x	coloyijhant	coloer	coleyàe	VERB	Marais nord-vendéen	coltinassent	Imparfait	Subjonctif	3.0	pl				100.2	LIEVRE Louis
+x	désaleroe	désaloer	désaleyàe	VERB	Marais nord-vendéen	baisserais	Présent	Conditionnel	1.0	sg				100.2	LIEVRE Louis
+x	désaleroes	désaloer	désaleyàe	VERB	Marais nord-vendéen	baisserais	Présent	Conditionnel	2.0	sg				100.2	LIEVRE Louis
+x	désaleroét	désaloer	désaleyàe	VERB	Marais nord-vendéen	baisserait	Présent	Conditionnel	3.0	sg				100.2	LIEVRE Louis
+x	désaleriun	désaloer	désaleyàe	VERB	Marais nord-vendéen	baisserions	Présent	Conditionnel	1.0	pl				100.2	LIEVRE Louis
+x	désaleriéz	désaloer	désaleyàe	VERB	Marais nord-vendéen	baisseriez	Présent	Conditionnel	2.0	pl				100.2	LIEVRE Louis
+x	désaleriant	désaloer	désaleyàe	VERB	Marais nord-vendéen	baisseraient	Présent	Conditionnel	3.0	pl				100.2	LIEVRE Louis
+x	désaloe  	désaloer	désaleyàe	VERB	Marais nord-vendéen	baisse	Présent	Impératif	2.0	sg				100.2	LIEVRE Louis
+x	désaloyun 	désaloer	désaleyàe	VERB	Marais nord-vendéen	baissons	Présent	Impératif	1.0	pl				100.2	LIEVRE Louis
+x	désaloyéz 	désaloer	désaleyàe	VERB	Marais nord-vendéen	baissez	Présent	Impératif	2.0	pl				100.2	LIEVRE Louis
+x	désaloe	désaloer	désaleyàe	VERB	Marais nord-vendéen	baisse	Présent	Indicatif	1.0	sg				100.2	LIEVRE Louis
+x	désaloes	désaloer	désaleyàe	VERB	Marais nord-vendéen	baisses	Présent	Indicatif	2.0	sg				100.2	LIEVRE Louis
+x	désaloe 	désaloer	désaleyàe	VERB	Marais nord-vendéen	baisse	Présent	Indicatif	3.0	sg				100.2	LIEVRE Louis
+x	désaloyun	désaloer	désaleyàe	VERB	Marais nord-vendéen	baissons	Présent	Indicatif	1.0	pl				100.2	LIEVRE Louis
+x	désaloyéz	désaloer	désaleyàe	VERB	Marais nord-vendéen	baissez	Présent	Indicatif	2.0	pl				100.2	LIEVRE Louis
+x	désaloyant	désaloer	désaleyàe	VERB	Marais nord-vendéen	baissent	Présent	Indicatif	3.0	pl				100.2	LIEVRE Louis
+x	désaloyi	désaloer	désaleyàe	VERB	Marais nord-vendéen	baissai	Passé simple	Indicatif	1.0	sg				100.2	LIEVRE Louis
+x	désaloyis	désaloer	désaleyàe	VERB	Marais nord-vendéen	baissas	Passé simple	Indicatif	2.0	sg				100.2	LIEVRE Louis
+x	désaloyit	désaloer	désaleyàe	VERB	Marais nord-vendéen	baissa	Passé simple	Indicatif	3.0	sg				100.2	LIEVRE Louis
+x	désaloyirun	désaloer	désaleyàe	VERB	Marais nord-vendéen	baissâmes	Passé simple	Indicatif	1.0	pl				100.2	LIEVRE Louis
+x	désaloyiréz	désaloer	désaleyàe	VERB	Marais nord-vendéen	baissâtes	Passé simple	Indicatif	2.0	pl				100.2	LIEVRE Louis
+x	désaloyirant	désaloer	désaleyàe	VERB	Marais nord-vendéen	baissèrent	Passé simple	Indicatif	3.0	pl				100.2	LIEVRE Louis
+x	désaloyoe	désaloer	désaleyàe	VERB	Marais nord-vendéen	baissais	Imparfait	Indicatif	1.0	sg				100.2	LIEVRE Louis
+x	désaloyoes	désaloer	désaleyàe	VERB	Marais nord-vendéen	baissais	Imparfait	Indicatif	2.0	sg				100.2	LIEVRE Louis
+x	désaloyoét	désaloer	désaleyàe	VERB	Marais nord-vendéen	baissait	Imparfait	Indicatif	3.0	sg				100.2	LIEVRE Louis
+x	désaloyiun	désaloer	désaleyàe	VERB	Marais nord-vendéen	baissions	Imparfait	Indicatif	1.0	pl				100.2	LIEVRE Louis
+x	désaloyiéz	désaloer	désaleyàe	VERB	Marais nord-vendéen	baissiez	Imparfait	Indicatif	2.0	pl				100.2	LIEVRE Louis
+x	désaloyiant	désaloer	désaleyàe	VERB	Marais nord-vendéen	baissaient	Imparfait	Indicatif	3.0	pl				100.2	LIEVRE Louis
+x	désaloerae	désaloer	désaleyàe	VERB	Marais nord-vendéen	baisserai	Futur	Indicatif	1.0	sg				100.2	LIEVRE Louis
+x	désaloeras	désaloer	désaleyàe	VERB	Marais nord-vendéen	baisseras	Futur	Indicatif	2.0	sg				100.2	LIEVRE Louis
+x	désaloerat	désaloer	désaleyàe	VERB	Marais nord-vendéen	baissera	Futur	Indicatif	3.0	sg				100.2	LIEVRE Louis
+x	désaloerun	désaloer	désaleyàe	VERB	Marais nord-vendéen	baisserons	Futur	Indicatif	1.0	pl				100.2	LIEVRE Louis
+x	désaloeréz	désaloer	désaleyàe	VERB	Marais nord-vendéen	baisserez	Futur	Indicatif	2.0	pl				100.2	LIEVRE Louis
+x	désaloerant	désaloer	désaleyàe	VERB	Marais nord-vendéen	baisseront	Futur	Indicatif	3.0	pl				100.2	LIEVRE Louis
+	désaloer	désaloer	désaleyàe	VERB	Marais nord-vendéen	baisser	Présent	Infinitif						100.2	PIVETEAU Vianney. 2021. Dicopoitevin
+x	désalyant 	désaloer	désaleyàe	VERB	Marais nord-vendéen	baissant	Présent	Participe						100.2	LIEVRE Louis
+x	désale	désaloer	désaleyàe	VERB	Marais nord-vendéen	baissé	Passé	Participe		sg	m			100.2	LIEVRE Louis
+x	désale	désaloer	désaleyàe	VERB	Marais nord-vendéen	baissée	Passé	Participe		sg	f			100.2	LIEVRE Louis
+x	désales	désaloer	désaleyàe	VERB	Marais nord-vendéen	baissés	Passé	Participe		pl	m			100.2	LIEVRE Louis
+x	désales	désaloer	désaleyàe	VERB	Marais nord-vendéen	baissées	Passé	Participe		pl	f			100.2	LIEVRE Louis
+x	désaloejhe	désaloer	désaleyàe	VERB	Marais nord-vendéen	baisse	Présent	Subjonctif	1.0	sg				100.2	LIEVRE Louis
+x	désaloejhes	désaloer	désaleyàe	VERB	Marais nord-vendéen	baisses	Présent	Subjonctif	2.0	sg				100.2	LIEVRE Louis
+x	désaloejhe 	désaloer	désaleyàe	VERB	Marais nord-vendéen	baisse	Présent	Subjonctif	3.0	sg				100.2	LIEVRE Louis
+x	désaloejhun	désaloer	désaleyàe	VERB	Marais nord-vendéen	baissions	Présent	Subjonctif	1.0	pl				100.2	LIEVRE Louis
+x	désaloejhéz	désaloer	désaleyàe	VERB	Marais nord-vendéen	baissiez	Présent	Subjonctif	2.0	pl				100.2	LIEVRE Louis
+x	désaloejhant	désaloer	désaleyàe	VERB	Marais nord-vendéen	baissent	Présent	Subjonctif	3.0	pl				100.2	LIEVRE Louis
+x	désaloyijhe	désaloer	désaleyàe	VERB	Marais nord-vendéen	baissasse	Imparfait	Subjonctif	1.0	sg				100.2	LIEVRE Louis
+x	désaloyijhes	désaloer	désaleyàe	VERB	Marais nord-vendéen	baissasses	Imparfait	Subjonctif	2.0	sg				100.2	LIEVRE Louis
+x	désaloyijhe 	désaloer	désaleyàe	VERB	Marais nord-vendéen	baissât	Imparfait	Subjonctif	3.0	sg				100.2	LIEVRE Louis
+x	désaloyijhun	désaloer	désaleyàe	VERB	Marais nord-vendéen	baissassions	Imparfait	Subjonctif	1.0	pl				100.2	LIEVRE Louis
+x	désaloyijhéz	désaloer	désaleyàe	VERB	Marais nord-vendéen	baissassiez	Imparfait	Subjonctif	2.0	pl				100.2	LIEVRE Louis
+x	désaloyijhant	désaloer	désaleyàe	VERB	Marais nord-vendéen	baissassent	Imparfait	Subjonctif	3.0	pl				100.2	LIEVRE Louis
+x	enteroe	entoer	entoer	VERB	Marais nord-vendéen	enliserais	Présent	Conditionnel	1.0	sg				100.2	LIEVRE Louis
+x	enteroes	entoer	entoer	VERB	Marais nord-vendéen	enliserais	Présent	Conditionnel	2.0	sg				100.2	LIEVRE Louis
+x	enteroét	entoer	entoer	VERB	Marais nord-vendéen	enliserait	Présent	Conditionnel	3.0	sg				100.2	LIEVRE Louis
+x	enteriun	entoer	entoer	VERB	Marais nord-vendéen	enliserions	Présent	Conditionnel	1.0	pl				100.2	LIEVRE Louis
+x	enteriéz	entoer	entoer	VERB	Marais nord-vendéen	enliseriez	Présent	Conditionnel	2.0	pl				100.2	LIEVRE Louis
+x	enteriant	entoer	entoer	VERB	Marais nord-vendéen	enliseraient	Présent	Conditionnel	3.0	pl				100.2	LIEVRE Louis
+x	entoe  	entoer	entoer	VERB	Marais nord-vendéen	enlise	Présent	Impératif	2.0	sg				100.2	LIEVRE Louis
+x	entoyun 	entoer	entoer	VERB	Marais nord-vendéen	enlisons	Présent	Impératif	1.0	pl				100.2	LIEVRE Louis
+x	entoyéz 	entoer	entoer	VERB	Marais nord-vendéen	enlisez	Présent	Impératif	2.0	pl				100.2	LIEVRE Louis
+x	entoe	entoer	entoer	VERB	Marais nord-vendéen	enlise	Présent	Indicatif	1.0	sg				100.2	LIEVRE Louis
+x	entoes	entoer	entoer	VERB	Marais nord-vendéen	enlises	Présent	Indicatif	2.0	sg				100.2	LIEVRE Louis
+x	entoe 	entoer	entoer	VERB	Marais nord-vendéen	enlise	Présent	Indicatif	3.0	sg				100.2	LIEVRE Louis
+x	entoyun	entoer	entoer	VERB	Marais nord-vendéen	enlisons	Présent	Indicatif	1.0	pl				100.2	LIEVRE Louis
+x	entoyéz	entoer	entoer	VERB	Marais nord-vendéen	enlisez	Présent	Indicatif	2.0	pl				100.2	LIEVRE Louis
+x	entoyant	entoer	entoer	VERB	Marais nord-vendéen	enlisent	Présent	Indicatif	3.0	pl				100.2	LIEVRE Louis
+x	entoyi	entoer	entoer	VERB	Marais nord-vendéen	enlisai	Passé simple	Indicatif	1.0	sg				100.2	LIEVRE Louis
+x	entoyis	entoer	entoer	VERB	Marais nord-vendéen	enlisas	Passé simple	Indicatif	2.0	sg				100.2	LIEVRE Louis
+x	entoyit	entoer	entoer	VERB	Marais nord-vendéen	enlisa	Passé simple	Indicatif	3.0	sg				100.2	LIEVRE Louis
+x	entoyirun	entoer	entoer	VERB	Marais nord-vendéen	enlisâmes	Passé simple	Indicatif	1.0	pl				100.2	LIEVRE Louis
+x	entoyiréz	entoer	entoer	VERB	Marais nord-vendéen	enlisâtes	Passé simple	Indicatif	2.0	pl				100.2	LIEVRE Louis
+x	entoyirant	entoer	entoer	VERB	Marais nord-vendéen	enlisèrent	Passé simple	Indicatif	3.0	pl				100.2	LIEVRE Louis
+x	entoyoe	entoer	entoer	VERB	Marais nord-vendéen	enlisais	Imparfait	Indicatif	1.0	sg				100.2	LIEVRE Louis
+x	entoyoes	entoer	entoer	VERB	Marais nord-vendéen	enlisais	Imparfait	Indicatif	2.0	sg				100.2	LIEVRE Louis
+x	entoyoét	entoer	entoer	VERB	Marais nord-vendéen	enlisait	Imparfait	Indicatif	3.0	sg				100.2	LIEVRE Louis
+x	entoyiun	entoer	entoer	VERB	Marais nord-vendéen	enlisions	Imparfait	Indicatif	1.0	pl				100.2	LIEVRE Louis
+x	entoyiéz	entoer	entoer	VERB	Marais nord-vendéen	enlisiez	Imparfait	Indicatif	2.0	pl				100.2	LIEVRE Louis
+x	entoyiant	entoer	entoer	VERB	Marais nord-vendéen	enlisaient	Imparfait	Indicatif	3.0	pl				100.2	LIEVRE Louis
+x	entoerae	entoer	entoer	VERB	Marais nord-vendéen	enliserai	Futur	Indicatif	1.0	sg				100.2	LIEVRE Louis
+x	entoeras	entoer	entoer	VERB	Marais nord-vendéen	enliseras	Futur	Indicatif	2.0	sg				100.2	LIEVRE Louis
+x	entoerat	entoer	entoer	VERB	Marais nord-vendéen	enlisera	Futur	Indicatif	3.0	sg				100.2	LIEVRE Louis
+x	entoerun	entoer	entoer	VERB	Marais nord-vendéen	enliserons	Futur	Indicatif	1.0	pl				100.2	LIEVRE Louis
+x	entoeréz	entoer	entoer	VERB	Marais nord-vendéen	enliserez	Futur	Indicatif	2.0	pl				100.2	LIEVRE Louis
+x	entoerant	entoer	entoer	VERB	Marais nord-vendéen	enliseront	Futur	Indicatif	3.0	pl				100.2	LIEVRE Louis
+	entoer	entoer	entoer	VERB	Marais nord-vendéen	s'enliser	Présent	Infinitif						100.2	PIVETEAU Vianney. 2021. Dicopoitevin
+x	entyant 	entoer	entoer	VERB	Marais nord-vendéen	enlisant	Présent	Participe						100.2	LIEVRE Louis
+x	ente	entoer	entoer	VERB	Marais nord-vendéen	enlisé	Passé	Participe		sg	m			100.2	LIEVRE Louis
+x	ente	entoer	entoer	VERB	Marais nord-vendéen	enlisée	Passé	Participe		sg	f			100.2	LIEVRE Louis
+x	entes	entoer	entoer	VERB	Marais nord-vendéen	enlisés	Passé	Participe		pl	m			100.2	LIEVRE Louis
+x	entes	entoer	entoer	VERB	Marais nord-vendéen	enlisées	Passé	Participe		pl	f			100.2	LIEVRE Louis
+x	entoejhe	entoer	entoer	VERB	Marais nord-vendéen	enlise	Présent	Subjonctif	1.0	sg				100.2	LIEVRE Louis
+x	entoejhes	entoer	entoer	VERB	Marais nord-vendéen	enlises	Présent	Subjonctif	2.0	sg				100.2	LIEVRE Louis
+x	entoejhe 	entoer	entoer	VERB	Marais nord-vendéen	enlise	Présent	Subjonctif	3.0	sg				100.2	LIEVRE Louis
+x	entoejhun	entoer	entoer	VERB	Marais nord-vendéen	enlisions	Présent	Subjonctif	1.0	pl				100.2	LIEVRE Louis
+x	entoejhéz	entoer	entoer	VERB	Marais nord-vendéen	enlisiez	Présent	Subjonctif	2.0	pl				100.2	LIEVRE Louis
+x	entoejhant	entoer	entoer	VERB	Marais nord-vendéen	enlisent	Présent	Subjonctif	3.0	pl				100.2	LIEVRE Louis
+x	entoyijhe	entoer	entoer	VERB	Marais nord-vendéen	enlisasse	Imparfait	Subjonctif	1.0	sg				100.2	LIEVRE Louis
+x	entoyijhes	entoer	entoer	VERB	Marais nord-vendéen	enlisasses	Imparfait	Subjonctif	2.0	sg				100.2	LIEVRE Louis
+x	entoyijhe 	entoer	entoer	VERB	Marais nord-vendéen	enlisât	Imparfait	Subjonctif	3.0	sg				100.2	LIEVRE Louis
+x	entoyijhun	entoer	entoer	VERB	Marais nord-vendéen	enlisassions	Imparfait	Subjonctif	1.0	pl				100.2	LIEVRE Louis
+x	entoyijhéz	entoer	entoer	VERB	Marais nord-vendéen	enlisassiez	Imparfait	Subjonctif	2.0	pl				100.2	LIEVRE Louis
+x	entoyijhant	entoer	entoer	VERB	Marais nord-vendéen	enlisassent	Imparfait	Subjonctif	3.0	pl				100.2	LIEVRE Louis
+x	foleroe	foloer	foléyàe	VERB	Marais nord-vendéen	deviendrais	Présent	Conditionnel	1.0	sg				100.2	LIEVRE Louis
+x	foleroes	foloer	foléyàe	VERB	Marais nord-vendéen	deviendrais	Présent	Conditionnel	2.0	sg				100.2	LIEVRE Louis
+x	foleroét	foloer	foléyàe	VERB	Marais nord-vendéen	deviendrait	Présent	Conditionnel	3.0	sg				100.2	LIEVRE Louis
+x	foleriun	foloer	foléyàe	VERB	Marais nord-vendéen	deviendrions	Présent	Conditionnel	1.0	pl				100.2	LIEVRE Louis
+x	foleriéz	foloer	foléyàe	VERB	Marais nord-vendéen	deviendriez	Présent	Conditionnel	2.0	pl				100.2	LIEVRE Louis
+x	foleriant	foloer	foléyàe	VERB	Marais nord-vendéen	deviendraient	Présent	Conditionnel	3.0	pl				100.2	LIEVRE Louis
+x	foloe  	foloer	foléyàe	VERB	Marais nord-vendéen	deviens	Présent	Impératif	2.0	sg				100.2	LIEVRE Louis
+x	foloyun 	foloer	foléyàe	VERB	Marais nord-vendéen	devenons	Présent	Impératif	1.0	pl				100.2	LIEVRE Louis
+x	foloyéz 	foloer	foléyàe	VERB	Marais nord-vendéen	devenez	Présent	Impératif	2.0	pl				100.2	LIEVRE Louis
+x	foloe	foloer	foléyàe	VERB	Marais nord-vendéen	deviens	Présent	Indicatif	1.0	sg				100.2	LIEVRE Louis
+x	foloes	foloer	foléyàe	VERB	Marais nord-vendéen	deviens	Présent	Indicatif	2.0	sg				100.2	LIEVRE Louis
+x	foloe 	foloer	foléyàe	VERB	Marais nord-vendéen	devient	Présent	Indicatif	3.0	sg				100.2	LIEVRE Louis
+x	foloyun	foloer	foléyàe	VERB	Marais nord-vendéen	devenons	Présent	Indicatif	1.0	pl				100.2	LIEVRE Louis
+x	foloyéz	foloer	foléyàe	VERB	Marais nord-vendéen	devenez	Présent	Indicatif	2.0	pl				100.2	LIEVRE Louis
+x	foloyant	foloer	foléyàe	VERB	Marais nord-vendéen	deviennent	Présent	Indicatif	3.0	pl				100.2	LIEVRE Louis
+x	foloyi	foloer	foléyàe	VERB	Marais nord-vendéen	devins	Passé simple	Indicatif	1.0	sg				100.2	LIEVRE Louis
+x	foloyis	foloer	foléyàe	VERB	Marais nord-vendéen	devins	Passé simple	Indicatif	2.0	sg				100.2	LIEVRE Louis
+x	foloyit	foloer	foléyàe	VERB	Marais nord-vendéen	devint	Passé simple	Indicatif	3.0	sg				100.2	LIEVRE Louis
+x	foloyirun	foloer	foléyàe	VERB	Marais nord-vendéen	devînmes	Passé simple	Indicatif	1.0	pl				100.2	LIEVRE Louis
+x	foloyiréz	foloer	foléyàe	VERB	Marais nord-vendéen	devîntes	Passé simple	Indicatif	2.0	pl				100.2	LIEVRE Louis
+x	foloyirant	foloer	foléyàe	VERB	Marais nord-vendéen	devinrent	Passé simple	Indicatif	3.0	pl				100.2	LIEVRE Louis
+x	foloyoe	foloer	foléyàe	VERB	Marais nord-vendéen	devenais	Imparfait	Indicatif	1.0	sg				100.2	LIEVRE Louis
+x	foloyoes	foloer	foléyàe	VERB	Marais nord-vendéen	devenais	Imparfait	Indicatif	2.0	sg				100.2	LIEVRE Louis
+x	foloyoét	foloer	foléyàe	VERB	Marais nord-vendéen	devenait	Imparfait	Indicatif	3.0	sg				100.2	LIEVRE Louis
+x	foloyiun	foloer	foléyàe	VERB	Marais nord-vendéen	devenions	Imparfait	Indicatif	1.0	pl				100.2	LIEVRE Louis
+x	foloyiéz	foloer	foléyàe	VERB	Marais nord-vendéen	deveniez	Imparfait	Indicatif	2.0	pl				100.2	LIEVRE Louis
+x	foloyiant	foloer	foléyàe	VERB	Marais nord-vendéen	devenaient	Imparfait	Indicatif	3.0	pl				100.2	LIEVRE Louis
+x	foloerae	foloer	foléyàe	VERB	Marais nord-vendéen	deviendrai	Futur	Indicatif	1.0	sg				100.2	LIEVRE Louis
+x	foloeras	foloer	foléyàe	VERB	Marais nord-vendéen	deviendras	Futur	Indicatif	2.0	sg				100.2	LIEVRE Louis
+x	foloerat	foloer	foléyàe	VERB	Marais nord-vendéen	deviendra	Futur	Indicatif	3.0	sg				100.2	LIEVRE Louis
+x	foloerun	foloer	foléyàe	VERB	Marais nord-vendéen	deviendrons	Futur	Indicatif	1.0	pl				100.2	LIEVRE Louis
+x	foloeréz	foloer	foléyàe	VERB	Marais nord-vendéen	deviendrez	Futur	Indicatif	2.0	pl				100.2	LIEVRE Louis
+x	foloerant	foloer	foléyàe	VERB	Marais nord-vendéen	deviendront	Futur	Indicatif	3.0	pl				100.2	LIEVRE Louis
+	foloer	foloer	foléyàe	VERB	Marais nord-vendéen	devenir fou	Présent	Infinitif						100.2	PIVETEAU Vianney. 2021. Dicopoitevin
+x	folyant 	foloer	foléyàe	VERB	Marais nord-vendéen	devenant	Présent	Participe						100.2	LIEVRE Louis
+x	fole	foloer	foléyàe	VERB	Marais nord-vendéen	devenu	Passé	Participe		sg	m			100.2	LIEVRE Louis
+x	fole	foloer	foléyàe	VERB	Marais nord-vendéen	devenue	Passé	Participe		sg	f			100.2	LIEVRE Louis
+x	foles	foloer	foléyàe	VERB	Marais nord-vendéen	devenus	Passé	Participe		pl	m			100.2	LIEVRE Louis
+x	foles	foloer	foléyàe	VERB	Marais nord-vendéen	devenues	Passé	Participe		pl	f			100.2	LIEVRE Louis
+x	foloejhe	foloer	foléyàe	VERB	Marais nord-vendéen	devienne	Présent	Subjonctif	1.0	sg				100.2	LIEVRE Louis
+x	foloejhes	foloer	foléyàe	VERB	Marais nord-vendéen	deviennes	Présent	Subjonctif	2.0	sg				100.2	LIEVRE Louis
+x	foloejhe 	foloer	foléyàe	VERB	Marais nord-vendéen	devienne	Présent	Subjonctif	3.0	sg				100.2	LIEVRE Louis
+x	foloejhun	foloer	foléyàe	VERB	Marais nord-vendéen	devenions	Présent	Subjonctif	1.0	pl				100.2	LIEVRE Louis
+x	foloejhéz	foloer	foléyàe	VERB	Marais nord-vendéen	deveniez	Présent	Subjonctif	2.0	pl				100.2	LIEVRE Louis
+x	foloejhant	foloer	foléyàe	VERB	Marais nord-vendéen	deviennent	Présent	Subjonctif	3.0	pl				100.2	LIEVRE Louis
+x	foloyijhe	foloer	foléyàe	VERB	Marais nord-vendéen	devinsse	Imparfait	Subjonctif	1.0	sg				100.2	LIEVRE Louis
+x	foloyijhes	foloer	foléyàe	VERB	Marais nord-vendéen	devinsses	Imparfait	Subjonctif	2.0	sg				100.2	LIEVRE Louis
+x	foloyijhe 	foloer	foléyàe	VERB	Marais nord-vendéen	devînt	Imparfait	Subjonctif	3.0	sg				100.2	LIEVRE Louis
+x	foloyijhun	foloer	foléyàe	VERB	Marais nord-vendéen	devinssions	Imparfait	Subjonctif	1.0	pl				100.2	LIEVRE Louis
+x	foloyijhéz	foloer	foléyàe	VERB	Marais nord-vendéen	devinssiez	Imparfait	Subjonctif	2.0	pl				100.2	LIEVRE Louis
+x	foloyijhant	foloer	foléyàe	VERB	Marais nord-vendéen	devinssent	Imparfait	Subjonctif	3.0	pl				100.2	LIEVRE Louis
+x	freroe	froer	freyàe	VERB	Marais nord-vendéen	curerais	Présent	Conditionnel	1.0	sg				100.2	LIEVRE Louis
+x	freroes	froer	freyàe	VERB	Marais nord-vendéen	curerais	Présent	Conditionnel	2.0	sg				100.2	LIEVRE Louis
+x	freroét	froer	freyàe	VERB	Marais nord-vendéen	curerait	Présent	Conditionnel	3.0	sg				100.2	LIEVRE Louis
+x	freriun	froer	freyàe	VERB	Marais nord-vendéen	curerions	Présent	Conditionnel	1.0	pl				100.2	LIEVRE Louis
+x	freriéz	froer	freyàe	VERB	Marais nord-vendéen	cureriez	Présent	Conditionnel	2.0	pl				100.2	LIEVRE Louis
+x	freriant	froer	freyàe	VERB	Marais nord-vendéen	cureraient	Présent	Conditionnel	3.0	pl				100.2	LIEVRE Louis
+x	froe  	froer	freyàe	VERB	Marais nord-vendéen	cure	Présent	Impératif	2.0	sg				100.2	LIEVRE Louis
+x	froyun 	froer	freyàe	VERB	Marais nord-vendéen	curons	Présent	Impératif	1.0	pl				100.2	LIEVRE Louis
+x	froyéz 	froer	freyàe	VERB	Marais nord-vendéen	curez	Présent	Impératif	2.0	pl				100.2	LIEVRE Louis
+x	froe	froer	freyàe	VERB	Marais nord-vendéen	cure	Présent	Indicatif	1.0	sg				100.2	LIEVRE Louis
+x	froes	froer	freyàe	VERB	Marais nord-vendéen	cures	Présent	Indicatif	2.0	sg				100.2	LIEVRE Louis
+x	froe 	froer	freyàe	VERB	Marais nord-vendéen	cure	Présent	Indicatif	3.0	sg				100.2	LIEVRE Louis
+x	froyun	froer	freyàe	VERB	Marais nord-vendéen	curons	Présent	Indicatif	1.0	pl				100.2	LIEVRE Louis
+x	froyéz	froer	freyàe	VERB	Marais nord-vendéen	curez	Présent	Indicatif	2.0	pl				100.2	LIEVRE Louis
+x	froyant	froer	freyàe	VERB	Marais nord-vendéen	curent	Présent	Indicatif	3.0	pl				100.2	LIEVRE Louis
+x	froyi	froer	freyàe	VERB	Marais nord-vendéen	curai	Passé simple	Indicatif	1.0	sg				100.2	LIEVRE Louis
+x	froyis	froer	freyàe	VERB	Marais nord-vendéen	curas	Passé simple	Indicatif	2.0	sg				100.2	LIEVRE Louis
+x	froyit	froer	freyàe	VERB	Marais nord-vendéen	cura	Passé simple	Indicatif	3.0	sg				100.2	LIEVRE Louis
+x	froyirun	froer	freyàe	VERB	Marais nord-vendéen	curâmes	Passé simple	Indicatif	1.0	pl				100.2	LIEVRE Louis
+x	froyiréz	froer	freyàe	VERB	Marais nord-vendéen	curâtes	Passé simple	Indicatif	2.0	pl				100.2	LIEVRE Louis
+x	froyirant	froer	freyàe	VERB	Marais nord-vendéen	curèrent	Passé simple	Indicatif	3.0	pl				100.2	LIEVRE Louis
+x	froyoe	froer	freyàe	VERB	Marais nord-vendéen	curais	Imparfait	Indicatif	1.0	sg				100.2	LIEVRE Louis
+x	froyoes	froer	freyàe	VERB	Marais nord-vendéen	curais	Imparfait	Indicatif	2.0	sg				100.2	LIEVRE Louis
+x	froyoét	froer	freyàe	VERB	Marais nord-vendéen	curait	Imparfait	Indicatif	3.0	sg				100.2	LIEVRE Louis
+x	froyiun	froer	freyàe	VERB	Marais nord-vendéen	curions	Imparfait	Indicatif	1.0	pl				100.2	LIEVRE Louis
+x	froyiéz	froer	freyàe	VERB	Marais nord-vendéen	curiez	Imparfait	Indicatif	2.0	pl				100.2	LIEVRE Louis
+x	froyiant	froer	freyàe	VERB	Marais nord-vendéen	curaient	Imparfait	Indicatif	3.0	pl				100.2	LIEVRE Louis
+x	froerae	froer	freyàe	VERB	Marais nord-vendéen	curerai	Futur	Indicatif	1.0	sg				100.2	LIEVRE Louis
+x	froeras	froer	freyàe	VERB	Marais nord-vendéen	cureras	Futur	Indicatif	2.0	sg				100.2	LIEVRE Louis
+x	froerat	froer	freyàe	VERB	Marais nord-vendéen	curera	Futur	Indicatif	3.0	sg				100.2	LIEVRE Louis
+x	froerun	froer	freyàe	VERB	Marais nord-vendéen	curerons	Futur	Indicatif	1.0	pl				100.2	LIEVRE Louis
+x	froeréz	froer	freyàe	VERB	Marais nord-vendéen	curerez	Futur	Indicatif	2.0	pl				100.2	LIEVRE Louis
+x	froerant	froer	freyàe	VERB	Marais nord-vendéen	cureront	Futur	Indicatif	3.0	pl				100.2	LIEVRE Louis
+	froer	froer	freyàe	VERB	Marais nord-vendéen	curer un fossé	Présent	Infinitif						100.2	PIVETEAU Vianney. 2021. Dicopoitevin
+x	fryant 	froer	freyàe	VERB	Marais nord-vendéen	curant	Présent	Participe						100.2	LIEVRE Louis
+x	fre	froer	freyàe	VERB	Marais nord-vendéen	curé	Passé	Participe		sg	m			100.2	LIEVRE Louis
+x	fre	froer	freyàe	VERB	Marais nord-vendéen	curée	Passé	Participe		sg	f			100.2	LIEVRE Louis
+x	fres	froer	freyàe	VERB	Marais nord-vendéen	curés	Passé	Participe		pl	m			100.2	LIEVRE Louis
+x	fres	froer	freyàe	VERB	Marais nord-vendéen	curées	Passé	Participe		pl	f			100.2	LIEVRE Louis
+x	froejhe	froer	freyàe	VERB	Marais nord-vendéen	cure	Présent	Subjonctif	1.0	sg				100.2	LIEVRE Louis
+x	froejhes	froer	freyàe	VERB	Marais nord-vendéen	cures	Présent	Subjonctif	2.0	sg				100.2	LIEVRE Louis
+x	froejhe 	froer	freyàe	VERB	Marais nord-vendéen	cure	Présent	Subjonctif	3.0	sg				100.2	LIEVRE Louis
+x	froejhun	froer	freyàe	VERB	Marais nord-vendéen	curions	Présent	Subjonctif	1.0	pl				100.2	LIEVRE Louis
+x	froejhéz	froer	freyàe	VERB	Marais nord-vendéen	curiez	Présent	Subjonctif	2.0	pl				100.2	LIEVRE Louis
+x	froejhant	froer	freyàe	VERB	Marais nord-vendéen	curent	Présent	Subjonctif	3.0	pl				100.2	LIEVRE Louis
+x	froyijhe	froer	freyàe	VERB	Marais nord-vendéen	curasse	Imparfait	Subjonctif	1.0	sg				100.2	LIEVRE Louis
+x	froyijhes	froer	freyàe	VERB	Marais nord-vendéen	curasses	Imparfait	Subjonctif	2.0	sg				100.2	LIEVRE Louis
+x	froyijhe 	froer	freyàe	VERB	Marais nord-vendéen	curât	Imparfait	Subjonctif	3.0	sg				100.2	LIEVRE Louis
+x	froyijhun	froer	freyàe	VERB	Marais nord-vendéen	curassions	Imparfait	Subjonctif	1.0	pl				100.2	LIEVRE Louis
+x	froyijhéz	froer	freyàe	VERB	Marais nord-vendéen	curassiez	Imparfait	Subjonctif	2.0	pl				100.2	LIEVRE Louis
+x	froyijhant	froer	freyàe	VERB	Marais nord-vendéen	curassent	Imparfait	Subjonctif	3.0	pl				100.2	LIEVRE Louis
+x	gllaçeroe	gllaçoer	gllaçoer	VERB	Marais nord-vendéen	glisserais	Présent	Conditionnel	1.0	sg				100.2	LIEVRE Louis
+x	gllaçeroes	gllaçoer	gllaçoer	VERB	Marais nord-vendéen	glisserais	Présent	Conditionnel	2.0	sg				100.2	LIEVRE Louis
+x	gllaçeroét	gllaçoer	gllaçoer	VERB	Marais nord-vendéen	glisserait	Présent	Conditionnel	3.0	sg				100.2	LIEVRE Louis
+x	gllaçeriun	gllaçoer	gllaçoer	VERB	Marais nord-vendéen	glisserions	Présent	Conditionnel	1.0	pl				100.2	LIEVRE Louis
+x	gllaçeriéz	gllaçoer	gllaçoer	VERB	Marais nord-vendéen	glisseriez	Présent	Conditionnel	2.0	pl				100.2	LIEVRE Louis
+x	gllaçeriant	gllaçoer	gllaçoer	VERB	Marais nord-vendéen	glisseraient	Présent	Conditionnel	3.0	pl				100.2	LIEVRE Louis
+x	gllaçoe  	gllaçoer	gllaçoer	VERB	Marais nord-vendéen	glisse	Présent	Impératif	2.0	sg				100.2	LIEVRE Louis
+x	gllaçoyun 	gllaçoer	gllaçoer	VERB	Marais nord-vendéen	glissons	Présent	Impératif	1.0	pl				100.2	LIEVRE Louis
+x	gllaçoyéz 	gllaçoer	gllaçoer	VERB	Marais nord-vendéen	glissez	Présent	Impératif	2.0	pl				100.2	LIEVRE Louis
+x	gllaçoe	gllaçoer	gllaçoer	VERB	Marais nord-vendéen	glisse	Présent	Indicatif	1.0	sg				100.2	LIEVRE Louis
+x	gllaçoes	gllaçoer	gllaçoer	VERB	Marais nord-vendéen	glisses	Présent	Indicatif	2.0	sg				100.2	LIEVRE Louis
+x	gllaçoe 	gllaçoer	gllaçoer	VERB	Marais nord-vendéen	glisse	Présent	Indicatif	3.0	sg				100.2	LIEVRE Louis
+x	gllaçoyun	gllaçoer	gllaçoer	VERB	Marais nord-vendéen	glissons	Présent	Indicatif	1.0	pl				100.2	LIEVRE Louis
+x	gllaçoyéz	gllaçoer	gllaçoer	VERB	Marais nord-vendéen	glissez	Présent	Indicatif	2.0	pl				100.2	LIEVRE Louis
+x	gllaçoyant	gllaçoer	gllaçoer	VERB	Marais nord-vendéen	glissent	Présent	Indicatif	3.0	pl				100.2	LIEVRE Louis
+x	gllaçoyi	gllaçoer	gllaçoer	VERB	Marais nord-vendéen	glissai	Passé simple	Indicatif	1.0	sg				100.2	LIEVRE Louis
+x	gllaçoyis	gllaçoer	gllaçoer	VERB	Marais nord-vendéen	glissas	Passé simple	Indicatif	2.0	sg				100.2	LIEVRE Louis
+x	gllaçoyit	gllaçoer	gllaçoer	VERB	Marais nord-vendéen	glissa	Passé simple	Indicatif	3.0	sg				100.2	LIEVRE Louis
+x	gllaçoyirun	gllaçoer	gllaçoer	VERB	Marais nord-vendéen	glissâmes	Passé simple	Indicatif	1.0	pl				100.2	LIEVRE Louis
+x	gllaçoyiréz	gllaçoer	gllaçoer	VERB	Marais nord-vendéen	glissâtes	Passé simple	Indicatif	2.0	pl				100.2	LIEVRE Louis
+x	gllaçoyirant	gllaçoer	gllaçoer	VERB	Marais nord-vendéen	glissèrent	Passé simple	Indicatif	3.0	pl				100.2	LIEVRE Louis
+x	gllaçoyoe	gllaçoer	gllaçoer	VERB	Marais nord-vendéen	glissais	Imparfait	Indicatif	1.0	sg				100.2	LIEVRE Louis
+x	gllaçoyoes	gllaçoer	gllaçoer	VERB	Marais nord-vendéen	glissais	Imparfait	Indicatif	2.0	sg				100.2	LIEVRE Louis
+x	gllaçoyoét	gllaçoer	gllaçoer	VERB	Marais nord-vendéen	glissait	Imparfait	Indicatif	3.0	sg				100.2	LIEVRE Louis
+x	gllaçoyiun	gllaçoer	gllaçoer	VERB	Marais nord-vendéen	glissions	Imparfait	Indicatif	1.0	pl				100.2	LIEVRE Louis
+x	gllaçoyiéz	gllaçoer	gllaçoer	VERB	Marais nord-vendéen	glissiez	Imparfait	Indicatif	2.0	pl				100.2	LIEVRE Louis
+x	gllaçoyiant	gllaçoer	gllaçoer	VERB	Marais nord-vendéen	glissaient	Imparfait	Indicatif	3.0	pl				100.2	LIEVRE Louis
+x	gllaçoerae	gllaçoer	gllaçoer	VERB	Marais nord-vendéen	glisserai	Futur	Indicatif	1.0	sg				100.2	LIEVRE Louis
+x	gllaçoeras	gllaçoer	gllaçoer	VERB	Marais nord-vendéen	glisseras	Futur	Indicatif	2.0	sg				100.2	LIEVRE Louis
+x	gllaçoerat	gllaçoer	gllaçoer	VERB	Marais nord-vendéen	glissera	Futur	Indicatif	3.0	sg				100.2	LIEVRE Louis
+x	gllaçoerun	gllaçoer	gllaçoer	VERB	Marais nord-vendéen	glisserons	Futur	Indicatif	1.0	pl				100.2	LIEVRE Louis
+x	gllaçoeréz	gllaçoer	gllaçoer	VERB	Marais nord-vendéen	glisserez	Futur	Indicatif	2.0	pl				100.2	LIEVRE Louis
+x	gllaçoerant	gllaçoer	gllaçoer	VERB	Marais nord-vendéen	glisseront	Futur	Indicatif	3.0	pl				100.2	LIEVRE Louis
+	gllaçoer	gllaçoer	gllaçoer	VERB	Marais nord-vendéen	glisser	Présent	Infinitif						100.2	PIVETEAU Vianney. 2021. Dicopoitevin
+x	gllaçyant 	gllaçoer	gllaçoer	VERB	Marais nord-vendéen	glissant	Présent	Participe						100.2	LIEVRE Louis
+x	gllaçe	gllaçoer	gllaçoer	VERB	Marais nord-vendéen	glissé	Passé	Participe		sg	m			100.2	LIEVRE Louis
+x	gllaçe	gllaçoer	gllaçoer	VERB	Marais nord-vendéen	glissée	Passé	Participe		sg	f			100.2	LIEVRE Louis
+x	gllaçes	gllaçoer	gllaçoer	VERB	Marais nord-vendéen	glissés	Passé	Participe		pl	m			100.2	LIEVRE Louis
+x	gllaçes	gllaçoer	gllaçoer	VERB	Marais nord-vendéen	glissées	Passé	Participe		pl	f			100.2	LIEVRE Louis
+x	gllaçoejhe	gllaçoer	gllaçoer	VERB	Marais nord-vendéen	glisse	Présent	Subjonctif	1.0	sg				100.2	LIEVRE Louis
+x	gllaçoejhes	gllaçoer	gllaçoer	VERB	Marais nord-vendéen	glisses	Présent	Subjonctif	2.0	sg				100.2	LIEVRE Louis
+x	gllaçoejhe 	gllaçoer	gllaçoer	VERB	Marais nord-vendéen	glisse	Présent	Subjonctif	3.0	sg				100.2	LIEVRE Louis
+x	gllaçoejhun	gllaçoer	gllaçoer	VERB	Marais nord-vendéen	glissions	Présent	Subjonctif	1.0	pl				100.2	LIEVRE Louis
+x	gllaçoejhéz	gllaçoer	gllaçoer	VERB	Marais nord-vendéen	glissiez	Présent	Subjonctif	2.0	pl				100.2	LIEVRE Louis
+x	gllaçoejhant	gllaçoer	gllaçoer	VERB	Marais nord-vendéen	glissent	Présent	Subjonctif	3.0	pl				100.2	LIEVRE Louis
+x	gllaçoyijhe	gllaçoer	gllaçoer	VERB	Marais nord-vendéen	glissasse	Imparfait	Subjonctif	1.0	sg				100.2	LIEVRE Louis
+x	gllaçoyijhes	gllaçoer	gllaçoer	VERB	Marais nord-vendéen	glissasses	Imparfait	Subjonctif	2.0	sg				100.2	LIEVRE Louis
+x	gllaçoyijhe 	gllaçoer	gllaçoer	VERB	Marais nord-vendéen	glissât	Imparfait	Subjonctif	3.0	sg				100.2	LIEVRE Louis
+x	gllaçoyijhun	gllaçoer	gllaçoer	VERB	Marais nord-vendéen	glissassions	Imparfait	Subjonctif	1.0	pl				100.2	LIEVRE Louis
+x	gllaçoyijhéz	gllaçoer	gllaçoer	VERB	Marais nord-vendéen	glissassiez	Imparfait	Subjonctif	2.0	pl				100.2	LIEVRE Louis
+x	gllaçoyijhant	gllaçoer	gllaçoer	VERB	Marais nord-vendéen	glissassent	Imparfait	Subjonctif	3.0	pl				100.2	LIEVRE Louis
+x	grleroe	grloer	grlàe	VERB	Marais nord-vendéen	tamiserais	Présent	Conditionnel	1.0	sg				100.2	LIEVRE Louis
+x	grleroes	grloer	grlàe	VERB	Marais nord-vendéen	tamiserais	Présent	Conditionnel	2.0	sg				100.2	LIEVRE Louis
+x	grleroét	grloer	grlàe	VERB	Marais nord-vendéen	tamiserait	Présent	Conditionnel	3.0	sg				100.2	LIEVRE Louis
+x	grleriun	grloer	grlàe	VERB	Marais nord-vendéen	tamiserions	Présent	Conditionnel	1.0	pl				100.2	LIEVRE Louis
+x	grleriéz	grloer	grlàe	VERB	Marais nord-vendéen	tamiseriez	Présent	Conditionnel	2.0	pl				100.2	LIEVRE Louis
+x	grleriant	grloer	grlàe	VERB	Marais nord-vendéen	tamiseraient	Présent	Conditionnel	3.0	pl				100.2	LIEVRE Louis
+x	grloe  	grloer	grlàe	VERB	Marais nord-vendéen	tamise	Présent	Impératif	2.0	sg				100.2	LIEVRE Louis
+x	grloyun 	grloer	grlàe	VERB	Marais nord-vendéen	tamisons	Présent	Impératif	1.0	pl				100.2	LIEVRE Louis
+x	grloyéz 	grloer	grlàe	VERB	Marais nord-vendéen	tamisez	Présent	Impératif	2.0	pl				100.2	LIEVRE Louis
+x	grloe	grloer	grlàe	VERB	Marais nord-vendéen	tamise	Présent	Indicatif	1.0	sg				100.2	LIEVRE Louis
+x	grloes	grloer	grlàe	VERB	Marais nord-vendéen	tamises	Présent	Indicatif	2.0	sg				100.2	LIEVRE Louis
+x	grloe 	grloer	grlàe	VERB	Marais nord-vendéen	tamise	Présent	Indicatif	3.0	sg				100.2	LIEVRE Louis
+x	grloyun	grloer	grlàe	VERB	Marais nord-vendéen	tamisons	Présent	Indicatif	1.0	pl				100.2	LIEVRE Louis
+x	grloyéz	grloer	grlàe	VERB	Marais nord-vendéen	tamisez	Présent	Indicatif	2.0	pl				100.2	LIEVRE Louis
+x	grloyant	grloer	grlàe	VERB	Marais nord-vendéen	tamisent	Présent	Indicatif	3.0	pl				100.2	LIEVRE Louis
+x	grloyi	grloer	grlàe	VERB	Marais nord-vendéen	tamisai	Passé simple	Indicatif	1.0	sg				100.2	LIEVRE Louis
+x	grloyis	grloer	grlàe	VERB	Marais nord-vendéen	tamisas	Passé simple	Indicatif	2.0	sg				100.2	LIEVRE Louis
+x	grloyit	grloer	grlàe	VERB	Marais nord-vendéen	tamisa	Passé simple	Indicatif	3.0	sg				100.2	LIEVRE Louis
+x	grloyirun	grloer	grlàe	VERB	Marais nord-vendéen	tamisâmes	Passé simple	Indicatif	1.0	pl				100.2	LIEVRE Louis
+x	grloyiréz	grloer	grlàe	VERB	Marais nord-vendéen	tamisâtes	Passé simple	Indicatif	2.0	pl				100.2	LIEVRE Louis
+x	grloyirant	grloer	grlàe	VERB	Marais nord-vendéen	tamisèrent	Passé simple	Indicatif	3.0	pl				100.2	LIEVRE Louis
+x	grloyoe	grloer	grlàe	VERB	Marais nord-vendéen	tamisais	Imparfait	Indicatif	1.0	sg				100.2	LIEVRE Louis
+x	grloyoes	grloer	grlàe	VERB	Marais nord-vendéen	tamisais	Imparfait	Indicatif	2.0	sg				100.2	LIEVRE Louis
+x	grloyoét	grloer	grlàe	VERB	Marais nord-vendéen	tamisait	Imparfait	Indicatif	3.0	sg				100.2	LIEVRE Louis
+x	grloyiun	grloer	grlàe	VERB	Marais nord-vendéen	tamisions	Imparfait	Indicatif	1.0	pl				100.2	LIEVRE Louis
+x	grloyiéz	grloer	grlàe	VERB	Marais nord-vendéen	tamisiez	Imparfait	Indicatif	2.0	pl				100.2	LIEVRE Louis
+x	grloyiant	grloer	grlàe	VERB	Marais nord-vendéen	tamisaient	Imparfait	Indicatif	3.0	pl				100.2	LIEVRE Louis
+x	grloerae	grloer	grlàe	VERB	Marais nord-vendéen	tamiserai	Futur	Indicatif	1.0	sg				100.2	LIEVRE Louis
+x	grloeras	grloer	grlàe	VERB	Marais nord-vendéen	tamiseras	Futur	Indicatif	2.0	sg				100.2	LIEVRE Louis
+x	grloerat	grloer	grlàe	VERB	Marais nord-vendéen	tamisera	Futur	Indicatif	3.0	sg				100.2	LIEVRE Louis
+x	grloerun	grloer	grlàe	VERB	Marais nord-vendéen	tamiserons	Futur	Indicatif	1.0	pl				100.2	LIEVRE Louis
+x	grloeréz	grloer	grlàe	VERB	Marais nord-vendéen	tamiserez	Futur	Indicatif	2.0	pl				100.2	LIEVRE Louis
+x	grloerant	grloer	grlàe	VERB	Marais nord-vendéen	tamiseront	Futur	Indicatif	3.0	pl				100.2	LIEVRE Louis
+	grloer	grloer	grlàe	VERB	Marais nord-vendéen	tamiser	Présent	Infinitif						100.2	PIVETEAU Vianney. 2021. Dicopoitevin
+x	grlyant 	grloer	grlàe	VERB	Marais nord-vendéen	tamisant	Présent	Participe						100.2	LIEVRE Louis
+x	grle	grloer	grlàe	VERB	Marais nord-vendéen	tamisé	Passé	Participe		sg	m			100.2	LIEVRE Louis
+x	grle	grloer	grlàe	VERB	Marais nord-vendéen	tamisée	Passé	Participe		sg	f			100.2	LIEVRE Louis
+x	grles	grloer	grlàe	VERB	Marais nord-vendéen	tamisés	Passé	Participe		pl	m			100.2	LIEVRE Louis
+x	grles	grloer	grlàe	VERB	Marais nord-vendéen	tamisées	Passé	Participe		pl	f			100.2	LIEVRE Louis
+x	grloejhe	grloer	grlàe	VERB	Marais nord-vendéen	tamise	Présent	Subjonctif	1.0	sg				100.2	LIEVRE Louis
+x	grloejhes	grloer	grlàe	VERB	Marais nord-vendéen	tamises	Présent	Subjonctif	2.0	sg				100.2	LIEVRE Louis
+x	grloejhe 	grloer	grlàe	VERB	Marais nord-vendéen	tamise	Présent	Subjonctif	3.0	sg				100.2	LIEVRE Louis
+x	grloejhun	grloer	grlàe	VERB	Marais nord-vendéen	tamisions	Présent	Subjonctif	1.0	pl				100.2	LIEVRE Louis
+x	grloejhéz	grloer	grlàe	VERB	Marais nord-vendéen	tamisiez	Présent	Subjonctif	2.0	pl				100.2	LIEVRE Louis
+x	grloejhant	grloer	grlàe	VERB	Marais nord-vendéen	tamisent	Présent	Subjonctif	3.0	pl				100.2	LIEVRE Louis
+x	grloyijhe	grloer	grlàe	VERB	Marais nord-vendéen	tamisasse	Imparfait	Subjonctif	1.0	sg				100.2	LIEVRE Louis
+x	grloyijhes	grloer	grlàe	VERB	Marais nord-vendéen	tamisasses	Imparfait	Subjonctif	2.0	sg				100.2	LIEVRE Louis
+x	grloyijhe 	grloer	grlàe	VERB	Marais nord-vendéen	tamisât	Imparfait	Subjonctif	3.0	sg				100.2	LIEVRE Louis
+x	grloyijhun	grloer	grlàe	VERB	Marais nord-vendéen	tamisassions	Imparfait	Subjonctif	1.0	pl				100.2	LIEVRE Louis
+x	grloyijhéz	grloer	grlàe	VERB	Marais nord-vendéen	tamisassiez	Imparfait	Subjonctif	2.0	pl				100.2	LIEVRE Louis
+x	grloyijhant	grloer	grlàe	VERB	Marais nord-vendéen	tamisassent	Imparfait	Subjonctif	3.0	pl				100.2	LIEVRE Louis
+x	luseroe	lusoer	lusàe	VERB	Marais nord-vendéen	brillerais	Présent	Conditionnel	1.0	sg				100.2	LIEVRE Louis
+x	luseroes	lusoer	lusàe	VERB	Marais nord-vendéen	brillerais	Présent	Conditionnel	2.0	sg				100.2	LIEVRE Louis
+x	luseroét	lusoer	lusàe	VERB	Marais nord-vendéen	brillerait	Présent	Conditionnel	3.0	sg				100.2	LIEVRE Louis
+x	luseriun	lusoer	lusàe	VERB	Marais nord-vendéen	brillerions	Présent	Conditionnel	1.0	pl				100.2	LIEVRE Louis
+x	luseriéz	lusoer	lusàe	VERB	Marais nord-vendéen	brilleriez	Présent	Conditionnel	2.0	pl				100.2	LIEVRE Louis
+x	luseriant	lusoer	lusàe	VERB	Marais nord-vendéen	brilleraient	Présent	Conditionnel	3.0	pl				100.2	LIEVRE Louis
+x	lusoe  	lusoer	lusàe	VERB	Marais nord-vendéen	brille	Présent	Impératif	2.0	sg				100.2	LIEVRE Louis
+x	lusoyun 	lusoer	lusàe	VERB	Marais nord-vendéen	brillons	Présent	Impératif	1.0	pl				100.2	LIEVRE Louis
+x	lusoyéz 	lusoer	lusàe	VERB	Marais nord-vendéen	brillez	Présent	Impératif	2.0	pl				100.2	LIEVRE Louis
+x	lusoe	lusoer	lusàe	VERB	Marais nord-vendéen	brille	Présent	Indicatif	1.0	sg				100.2	LIEVRE Louis
+x	lusoes	lusoer	lusàe	VERB	Marais nord-vendéen	brilles	Présent	Indicatif	2.0	sg				100.2	LIEVRE Louis
+x	lusoe 	lusoer	lusàe	VERB	Marais nord-vendéen	brille	Présent	Indicatif	3.0	sg				100.2	LIEVRE Louis
+x	lusoyun	lusoer	lusàe	VERB	Marais nord-vendéen	brillons	Présent	Indicatif	1.0	pl				100.2	LIEVRE Louis
+x	lusoyéz	lusoer	lusàe	VERB	Marais nord-vendéen	brillez	Présent	Indicatif	2.0	pl				100.2	LIEVRE Louis
+x	lusoyant	lusoer	lusàe	VERB	Marais nord-vendéen	brillent	Présent	Indicatif	3.0	pl				100.2	LIEVRE Louis
+x	lusoyi	lusoer	lusàe	VERB	Marais nord-vendéen	brillai	Passé simple	Indicatif	1.0	sg				100.2	LIEVRE Louis
+x	lusoyis	lusoer	lusàe	VERB	Marais nord-vendéen	brillas	Passé simple	Indicatif	2.0	sg				100.2	LIEVRE Louis
+x	lusoyit	lusoer	lusàe	VERB	Marais nord-vendéen	brilla	Passé simple	Indicatif	3.0	sg				100.2	LIEVRE Louis
+x	lusoyirun	lusoer	lusàe	VERB	Marais nord-vendéen	brillâmes	Passé simple	Indicatif	1.0	pl				100.2	LIEVRE Louis
+x	lusoyiréz	lusoer	lusàe	VERB	Marais nord-vendéen	brillâtes	Passé simple	Indicatif	2.0	pl				100.2	LIEVRE Louis
+x	lusoyirant	lusoer	lusàe	VERB	Marais nord-vendéen	brillèrent	Passé simple	Indicatif	3.0	pl				100.2	LIEVRE Louis
+x	lusoyoe	lusoer	lusàe	VERB	Marais nord-vendéen	brillais	Imparfait	Indicatif	1.0	sg				100.2	LIEVRE Louis
+x	lusoyoes	lusoer	lusàe	VERB	Marais nord-vendéen	brillais	Imparfait	Indicatif	2.0	sg				100.2	LIEVRE Louis
+x	lusoyoét	lusoer	lusàe	VERB	Marais nord-vendéen	brillait	Imparfait	Indicatif	3.0	sg				100.2	LIEVRE Louis
+x	lusoyiun	lusoer	lusàe	VERB	Marais nord-vendéen	brillions	Imparfait	Indicatif	1.0	pl				100.2	LIEVRE Louis
+x	lusoyiéz	lusoer	lusàe	VERB	Marais nord-vendéen	brilliez	Imparfait	Indicatif	2.0	pl				100.2	LIEVRE Louis
+x	lusoyiant	lusoer	lusàe	VERB	Marais nord-vendéen	brillaient	Imparfait	Indicatif	3.0	pl				100.2	LIEVRE Louis
+x	lusoerae	lusoer	lusàe	VERB	Marais nord-vendéen	brillerai	Futur	Indicatif	1.0	sg				100.2	LIEVRE Louis
+x	lusoeras	lusoer	lusàe	VERB	Marais nord-vendéen	brilleras	Futur	Indicatif	2.0	sg				100.2	LIEVRE Louis
+x	lusoerat	lusoer	lusàe	VERB	Marais nord-vendéen	brillera	Futur	Indicatif	3.0	sg				100.2	LIEVRE Louis
+x	lusoerun	lusoer	lusàe	VERB	Marais nord-vendéen	brillerons	Futur	Indicatif	1.0	pl				100.2	LIEVRE Louis
+x	lusoeréz	lusoer	lusàe	VERB	Marais nord-vendéen	brillerez	Futur	Indicatif	2.0	pl				100.2	LIEVRE Louis
+x	lusoerant	lusoer	lusàe	VERB	Marais nord-vendéen	brilleront	Futur	Indicatif	3.0	pl				100.2	LIEVRE Louis
+	lusoer	lusoer	lusàe	VERB	Marais nord-vendéen	briller	Présent	Infinitif						100.2	PIVETEAU Vianney. 2021. Dicopoitevin
+x	lusyant 	lusoer	lusàe	VERB	Marais nord-vendéen	brillant	Présent	Participe						100.2	LIEVRE Louis
+x	luse	lusoer	lusàe	VERB	Marais nord-vendéen	brillé	Passé	Participe		sg	m			100.2	LIEVRE Louis
+x	luse	lusoer	lusàe	VERB	Marais nord-vendéen	brillée	Passé	Participe		sg	f			100.2	LIEVRE Louis
+x	luses	lusoer	lusàe	VERB	Marais nord-vendéen	brillés	Passé	Participe		pl	m			100.2	LIEVRE Louis
+x	luses	lusoer	lusàe	VERB	Marais nord-vendéen	brillées	Passé	Participe		pl	f			100.2	LIEVRE Louis
+x	lusoejhe	lusoer	lusàe	VERB	Marais nord-vendéen	brille	Présent	Subjonctif	1.0	sg				100.2	LIEVRE Louis
+x	lusoejhes	lusoer	lusàe	VERB	Marais nord-vendéen	brilles	Présent	Subjonctif	2.0	sg				100.2	LIEVRE Louis
+x	lusoejhe 	lusoer	lusàe	VERB	Marais nord-vendéen	brille	Présent	Subjonctif	3.0	sg				100.2	LIEVRE Louis
+x	lusoejhun	lusoer	lusàe	VERB	Marais nord-vendéen	brillions	Présent	Subjonctif	1.0	pl				100.2	LIEVRE Louis
+x	lusoejhéz	lusoer	lusàe	VERB	Marais nord-vendéen	brilliez	Présent	Subjonctif	2.0	pl				100.2	LIEVRE Louis
+x	lusoejhant	lusoer	lusàe	VERB	Marais nord-vendéen	brillent	Présent	Subjonctif	3.0	pl				100.2	LIEVRE Louis
+x	lusoyijhe	lusoer	lusàe	VERB	Marais nord-vendéen	brillasse	Imparfait	Subjonctif	1.0	sg				100.2	LIEVRE Louis
+x	lusoyijhes	lusoer	lusàe	VERB	Marais nord-vendéen	brillasses	Imparfait	Subjonctif	2.0	sg				100.2	LIEVRE Louis
+x	lusoyijhe 	lusoer	lusàe	VERB	Marais nord-vendéen	brillât	Imparfait	Subjonctif	3.0	sg				100.2	LIEVRE Louis
+x	lusoyijhun	lusoer	lusàe	VERB	Marais nord-vendéen	brillassions	Imparfait	Subjonctif	1.0	pl				100.2	LIEVRE Louis
+x	lusoyijhéz	lusoer	lusàe	VERB	Marais nord-vendéen	brillassiez	Imparfait	Subjonctif	2.0	pl				100.2	LIEVRE Louis
+x	lusoyijhant	lusoer	lusàe	VERB	Marais nord-vendéen	brillassent	Imparfait	Subjonctif	3.0	pl				100.2	LIEVRE Louis
+x	mouleroe	mouloer	moulinàe	VERB	Marais nord-vendéen	moudrais	Présent	Conditionnel	1.0	sg				100.2	LIEVRE Louis
+x	mouleroes	mouloer	moulinàe	VERB	Marais nord-vendéen	moudrais	Présent	Conditionnel	2.0	sg				100.2	LIEVRE Louis
+x	mouleroét	mouloer	moulinàe	VERB	Marais nord-vendéen	moudrait	Présent	Conditionnel	3.0	sg				100.2	LIEVRE Louis
+x	mouleriun	mouloer	moulinàe	VERB	Marais nord-vendéen	moudrions	Présent	Conditionnel	1.0	pl				100.2	LIEVRE Louis
+x	mouleriéz	mouloer	moulinàe	VERB	Marais nord-vendéen	moudriez	Présent	Conditionnel	2.0	pl				100.2	LIEVRE Louis
+x	mouleriant	mouloer	moulinàe	VERB	Marais nord-vendéen	moudraient	Présent	Conditionnel	3.0	pl				100.2	LIEVRE Louis
+x	mouloe  	mouloer	moulinàe	VERB	Marais nord-vendéen	mouds	Présent	Impératif	2.0	sg				100.2	LIEVRE Louis
+x	mouloyun 	mouloer	moulinàe	VERB	Marais nord-vendéen	moulons	Présent	Impératif	1.0	pl				100.2	LIEVRE Louis
+x	mouloyéz 	mouloer	moulinàe	VERB	Marais nord-vendéen	moulez	Présent	Impératif	2.0	pl				100.2	LIEVRE Louis
+x	mouloe	mouloer	moulinàe	VERB	Marais nord-vendéen	mouds	Présent	Indicatif	1.0	sg				100.2	LIEVRE Louis
+x	mouloes	mouloer	moulinàe	VERB	Marais nord-vendéen	mouds	Présent	Indicatif	2.0	sg				100.2	LIEVRE Louis
+x	mouloe 	mouloer	moulinàe	VERB	Marais nord-vendéen	moud	Présent	Indicatif	3.0	sg				100.2	LIEVRE Louis
+x	mouloyun	mouloer	moulinàe	VERB	Marais nord-vendéen	moulons	Présent	Indicatif	1.0	pl				100.2	LIEVRE Louis
+x	mouloyéz	mouloer	moulinàe	VERB	Marais nord-vendéen	moulez	Présent	Indicatif	2.0	pl				100.2	LIEVRE Louis
+x	mouloyant	mouloer	moulinàe	VERB	Marais nord-vendéen	moulent	Présent	Indicatif	3.0	pl				100.2	LIEVRE Louis
+x	mouloyi	mouloer	moulinàe	VERB	Marais nord-vendéen	moulus	Passé simple	Indicatif	1.0	sg				100.2	LIEVRE Louis
+x	mouloyis	mouloer	moulinàe	VERB	Marais nord-vendéen	moulus	Passé simple	Indicatif	2.0	sg				100.2	LIEVRE Louis
+x	mouloyit	mouloer	moulinàe	VERB	Marais nord-vendéen	moulut	Passé simple	Indicatif	3.0	sg				100.2	LIEVRE Louis
+x	mouloyirun	mouloer	moulinàe	VERB	Marais nord-vendéen	moulûmes	Passé simple	Indicatif	1.0	pl				100.2	LIEVRE Louis
+x	mouloyiréz	mouloer	moulinàe	VERB	Marais nord-vendéen	moulûtes	Passé simple	Indicatif	2.0	pl				100.2	LIEVRE Louis
+x	mouloyirant	mouloer	moulinàe	VERB	Marais nord-vendéen	moulurent	Passé simple	Indicatif	3.0	pl				100.2	LIEVRE Louis
+x	mouloyoe	mouloer	moulinàe	VERB	Marais nord-vendéen	moulais	Imparfait	Indicatif	1.0	sg				100.2	LIEVRE Louis
+x	mouloyoes	mouloer	moulinàe	VERB	Marais nord-vendéen	moulais	Imparfait	Indicatif	2.0	sg				100.2	LIEVRE Louis
+x	mouloyoét	mouloer	moulinàe	VERB	Marais nord-vendéen	moulait	Imparfait	Indicatif	3.0	sg				100.2	LIEVRE Louis
+x	mouloyiun	mouloer	moulinàe	VERB	Marais nord-vendéen	moulions	Imparfait	Indicatif	1.0	pl				100.2	LIEVRE Louis
+x	mouloyiéz	mouloer	moulinàe	VERB	Marais nord-vendéen	mouliez	Imparfait	Indicatif	2.0	pl				100.2	LIEVRE Louis
+x	mouloyiant	mouloer	moulinàe	VERB	Marais nord-vendéen	moulaient	Imparfait	Indicatif	3.0	pl				100.2	LIEVRE Louis
+x	mouloerae	mouloer	moulinàe	VERB	Marais nord-vendéen	moudrai	Futur	Indicatif	1.0	sg				100.2	LIEVRE Louis
+x	mouloeras	mouloer	moulinàe	VERB	Marais nord-vendéen	moudras	Futur	Indicatif	2.0	sg				100.2	LIEVRE Louis
+x	mouloerat	mouloer	moulinàe	VERB	Marais nord-vendéen	moudra	Futur	Indicatif	3.0	sg				100.2	LIEVRE Louis
+x	mouloerun	mouloer	moulinàe	VERB	Marais nord-vendéen	moudrons	Futur	Indicatif	1.0	pl				100.2	LIEVRE Louis
+x	mouloeréz	mouloer	moulinàe	VERB	Marais nord-vendéen	moudrez	Futur	Indicatif	2.0	pl				100.2	LIEVRE Louis
+x	mouloerant	mouloer	moulinàe	VERB	Marais nord-vendéen	moudront	Futur	Indicatif	3.0	pl				100.2	LIEVRE Louis
+	mouloer	mouloer	moulinàe	VERB	Marais nord-vendéen	moudre	Présent	Infinitif						100.2	PIVETEAU Vianney. 2021. Dicopoitevin
+x	moulyant 	mouloer	moulinàe	VERB	Marais nord-vendéen	moulant	Présent	Participe						100.2	LIEVRE Louis
+x	moule	mouloer	moulinàe	VERB	Marais nord-vendéen	moulu	Passé	Participe		sg	m			100.2	LIEVRE Louis
+x	moule	mouloer	moulinàe	VERB	Marais nord-vendéen	moulue	Passé	Participe		sg	f			100.2	LIEVRE Louis
+x	moules	mouloer	moulinàe	VERB	Marais nord-vendéen	moulus	Passé	Participe		pl	m			100.2	LIEVRE Louis
+x	moules	mouloer	moulinàe	VERB	Marais nord-vendéen	moulues	Passé	Participe		pl	f			100.2	LIEVRE Louis
+x	mouloejhe	mouloer	moulinàe	VERB	Marais nord-vendéen	moule	Présent	Subjonctif	1.0	sg				100.2	LIEVRE Louis
+x	mouloejhes	mouloer	moulinàe	VERB	Marais nord-vendéen	moules	Présent	Subjonctif	2.0	sg				100.2	LIEVRE Louis
+x	mouloejhe 	mouloer	moulinàe	VERB	Marais nord-vendéen	moule	Présent	Subjonctif	3.0	sg				100.2	LIEVRE Louis
+x	mouloejhun	mouloer	moulinàe	VERB	Marais nord-vendéen	moulions	Présent	Subjonctif	1.0	pl				100.2	LIEVRE Louis
+x	mouloejhéz	mouloer	moulinàe	VERB	Marais nord-vendéen	mouliez	Présent	Subjonctif	2.0	pl				100.2	LIEVRE Louis
+x	mouloejhant	mouloer	moulinàe	VERB	Marais nord-vendéen	moulent	Présent	Subjonctif	3.0	pl				100.2	LIEVRE Louis
+x	mouloyijhe	mouloer	moulinàe	VERB	Marais nord-vendéen	moulusse	Imparfait	Subjonctif	1.0	sg				100.2	LIEVRE Louis
+x	mouloyijhes	mouloer	moulinàe	VERB	Marais nord-vendéen	moulusses	Imparfait	Subjonctif	2.0	sg				100.2	LIEVRE Louis
+x	mouloyijhe 	mouloer	moulinàe	VERB	Marais nord-vendéen	moulût	Imparfait	Subjonctif	3.0	sg				100.2	LIEVRE Louis
+x	mouloyijhun	mouloer	moulinàe	VERB	Marais nord-vendéen	moulussions	Imparfait	Subjonctif	1.0	pl				100.2	LIEVRE Louis
+x	mouloyijhéz	mouloer	moulinàe	VERB	Marais nord-vendéen	moulussiez	Imparfait	Subjonctif	2.0	pl				100.2	LIEVRE Louis
+x	mouloyijhant	mouloer	moulinàe	VERB	Marais nord-vendéen	moulussent	Imparfait	Subjonctif	3.0	pl				100.2	LIEVRE Louis
+x	neroe	noer	noer	VERB	Marais nord-vendéen	noierais	Présent	Conditionnel	1.0	sg				100.2	LIEVRE Louis
+x	neroes	noer	noer	VERB	Marais nord-vendéen	noierais	Présent	Conditionnel	2.0	sg				100.2	LIEVRE Louis
+x	neroét	noer	noer	VERB	Marais nord-vendéen	noierait	Présent	Conditionnel	3.0	sg				100.2	LIEVRE Louis
+x	neriun	noer	noer	VERB	Marais nord-vendéen	noierions	Présent	Conditionnel	1.0	pl				100.2	LIEVRE Louis
+x	neriéz	noer	noer	VERB	Marais nord-vendéen	noieriez	Présent	Conditionnel	2.0	pl				100.2	LIEVRE Louis
+x	neriant	noer	noer	VERB	Marais nord-vendéen	noieraient	Présent	Conditionnel	3.0	pl				100.2	LIEVRE Louis
+x	noe  	noer	noer	VERB	Marais nord-vendéen	noie	Présent	Impératif	2.0	sg				100.2	LIEVRE Louis
+x	noyun 	noer	noer	VERB	Marais nord-vendéen	noyons	Présent	Impératif	1.0	pl				100.2	LIEVRE Louis
+x	noyéz 	noer	noer	VERB	Marais nord-vendéen	noyez	Présent	Impératif	2.0	pl				100.2	LIEVRE Louis
+x	noe	noer	noer	VERB	Marais nord-vendéen	noie	Présent	Indicatif	1.0	sg				100.2	LIEVRE Louis
+x	noes	noer	noer	VERB	Marais nord-vendéen	noies	Présent	Indicatif	2.0	sg				100.2	LIEVRE Louis
+x	noe 	noer	noer	VERB	Marais nord-vendéen	noie	Présent	Indicatif	3.0	sg				100.2	LIEVRE Louis
+x	noyun	noer	noer	VERB	Marais nord-vendéen	noyons	Présent	Indicatif	1.0	pl				100.2	LIEVRE Louis
+x	noyéz	noer	noer	VERB	Marais nord-vendéen	noyez	Présent	Indicatif	2.0	pl				100.2	LIEVRE Louis
+x	noyant	noer	noer	VERB	Marais nord-vendéen	noient	Présent	Indicatif	3.0	pl				100.2	LIEVRE Louis
+x	noyi	noer	noer	VERB	Marais nord-vendéen	noyai	Passé simple	Indicatif	1.0	sg				100.2	LIEVRE Louis
+x	noyis	noer	noer	VERB	Marais nord-vendéen	noyas	Passé simple	Indicatif	2.0	sg				100.2	LIEVRE Louis
+x	noyit	noer	noer	VERB	Marais nord-vendéen	noya	Passé simple	Indicatif	3.0	sg				100.2	LIEVRE Louis
+x	noyirun	noer	noer	VERB	Marais nord-vendéen	noyâmes	Passé simple	Indicatif	1.0	pl				100.2	LIEVRE Louis
+x	noyiréz	noer	noer	VERB	Marais nord-vendéen	noyâtes	Passé simple	Indicatif	2.0	pl				100.2	LIEVRE Louis
+x	noyirant	noer	noer	VERB	Marais nord-vendéen	noyèrent	Passé simple	Indicatif	3.0	pl				100.2	LIEVRE Louis
+x	noyoe	noer	noer	VERB	Marais nord-vendéen	noyais	Imparfait	Indicatif	1.0	sg				100.2	LIEVRE Louis
+x	noyoes	noer	noer	VERB	Marais nord-vendéen	noyais	Imparfait	Indicatif	2.0	sg				100.2	LIEVRE Louis
+x	noyoét	noer	noer	VERB	Marais nord-vendéen	noyait	Imparfait	Indicatif	3.0	sg				100.2	LIEVRE Louis
+x	noyiun	noer	noer	VERB	Marais nord-vendéen	noyions	Imparfait	Indicatif	1.0	pl				100.2	LIEVRE Louis
+x	noyiéz	noer	noer	VERB	Marais nord-vendéen	noyiez	Imparfait	Indicatif	2.0	pl				100.2	LIEVRE Louis
+x	noyiant	noer	noer	VERB	Marais nord-vendéen	noyaient	Imparfait	Indicatif	3.0	pl				100.2	LIEVRE Louis
+x	noerae	noer	noer	VERB	Marais nord-vendéen	noierai	Futur	Indicatif	1.0	sg				100.2	LIEVRE Louis
+x	noeras	noer	noer	VERB	Marais nord-vendéen	noieras	Futur	Indicatif	2.0	sg				100.2	LIEVRE Louis
+x	noerat	noer	noer	VERB	Marais nord-vendéen	noiera	Futur	Indicatif	3.0	sg				100.2	LIEVRE Louis
+x	noerun	noer	noer	VERB	Marais nord-vendéen	noierons	Futur	Indicatif	1.0	pl				100.2	LIEVRE Louis
+x	noeréz	noer	noer	VERB	Marais nord-vendéen	noierez	Futur	Indicatif	2.0	pl				100.2	LIEVRE Louis
+x	noerant	noer	noer	VERB	Marais nord-vendéen	noieront	Futur	Indicatif	3.0	pl				100.2	LIEVRE Louis
+	noer	noer	noer	VERB	Marais nord-vendéen	noyer	Présent	Infinitif						100.2	PIVETEAU Vianney. 2021. Dicopoitevin
+x	nyant 	noer	noer	VERB	Marais nord-vendéen	noyant	Présent	Participe						100.2	LIEVRE Louis
+x	ne	noer	noer	VERB	Marais nord-vendéen	noyé	Passé	Participe		sg	m			100.2	LIEVRE Louis
+x	ne	noer	noer	VERB	Marais nord-vendéen	noyée	Passé	Participe		sg	f			100.2	LIEVRE Louis
+x	nes	noer	noer	VERB	Marais nord-vendéen	noyés	Passé	Participe		pl	m			100.2	LIEVRE Louis
+x	nes	noer	noer	VERB	Marais nord-vendéen	noyées	Passé	Participe		pl	f			100.2	LIEVRE Louis
+x	noejhe	noer	noer	VERB	Marais nord-vendéen	noie	Présent	Subjonctif	1.0	sg				100.2	LIEVRE Louis
+x	noejhes	noer	noer	VERB	Marais nord-vendéen	noies	Présent	Subjonctif	2.0	sg				100.2	LIEVRE Louis
+x	noejhe 	noer	noer	VERB	Marais nord-vendéen	noie	Présent	Subjonctif	3.0	sg				100.2	LIEVRE Louis
+x	noejhun	noer	noer	VERB	Marais nord-vendéen	noyions	Présent	Subjonctif	1.0	pl				100.2	LIEVRE Louis
+x	noejhéz	noer	noer	VERB	Marais nord-vendéen	noyiez	Présent	Subjonctif	2.0	pl				100.2	LIEVRE Louis
+x	noejhant	noer	noer	VERB	Marais nord-vendéen	noient	Présent	Subjonctif	3.0	pl				100.2	LIEVRE Louis
+x	noyijhe	noer	noer	VERB	Marais nord-vendéen	noyasse	Imparfait	Subjonctif	1.0	sg				100.2	LIEVRE Louis
+x	noyijhes	noer	noer	VERB	Marais nord-vendéen	noyasses	Imparfait	Subjonctif	2.0	sg				100.2	LIEVRE Louis
+x	noyijhe 	noer	noer	VERB	Marais nord-vendéen	noyât	Imparfait	Subjonctif	3.0	sg				100.2	LIEVRE Louis
+x	noyijhun	noer	noer	VERB	Marais nord-vendéen	noyassions	Imparfait	Subjonctif	1.0	pl				100.2	LIEVRE Louis
+x	noyijhéz	noer	noer	VERB	Marais nord-vendéen	noyassiez	Imparfait	Subjonctif	2.0	pl				100.2	LIEVRE Louis
+x	noyijhant	noer	noer	VERB	Marais nord-vendéen	noyassent	Imparfait	Subjonctif	3.0	pl				100.2	LIEVRE Louis
+x	nunderoe	nundoer	nundoer	VERB	Marais nord-vendéen	nettoierais	Présent	Conditionnel	1.0	sg				100.2	LIEVRE Louis
+x	nunderoes	nundoer	nundoer	VERB	Marais nord-vendéen	nettoierais	Présent	Conditionnel	2.0	sg				100.2	LIEVRE Louis
+x	nunderoét	nundoer	nundoer	VERB	Marais nord-vendéen	nettoierait	Présent	Conditionnel	3.0	sg				100.2	LIEVRE Louis
+x	nunderiun	nundoer	nundoer	VERB	Marais nord-vendéen	nettoierions	Présent	Conditionnel	1.0	pl				100.2	LIEVRE Louis
+x	nunderiéz	nundoer	nundoer	VERB	Marais nord-vendéen	nettoieriez	Présent	Conditionnel	2.0	pl				100.2	LIEVRE Louis
+x	nunderiant	nundoer	nundoer	VERB	Marais nord-vendéen	nettoieraient	Présent	Conditionnel	3.0	pl				100.2	LIEVRE Louis
+x	nundoe  	nundoer	nundoer	VERB	Marais nord-vendéen	nettoie	Présent	Impératif	2.0	sg				100.2	LIEVRE Louis
+x	nundoyun 	nundoer	nundoer	VERB	Marais nord-vendéen	nettoyons	Présent	Impératif	1.0	pl				100.2	LIEVRE Louis
+x	nundoyéz 	nundoer	nundoer	VERB	Marais nord-vendéen	nettoyez	Présent	Impératif	2.0	pl				100.2	LIEVRE Louis
+x	nundoe	nundoer	nundoer	VERB	Marais nord-vendéen	nettoie	Présent	Indicatif	1.0	sg				100.2	LIEVRE Louis
+x	nundoes	nundoer	nundoer	VERB	Marais nord-vendéen	nettoies	Présent	Indicatif	2.0	sg				100.2	LIEVRE Louis
+x	nundoe 	nundoer	nundoer	VERB	Marais nord-vendéen	nettoie	Présent	Indicatif	3.0	sg				100.2	LIEVRE Louis
+x	nundoyun	nundoer	nundoer	VERB	Marais nord-vendéen	nettoyons	Présent	Indicatif	1.0	pl				100.2	LIEVRE Louis
+x	nundoyéz	nundoer	nundoer	VERB	Marais nord-vendéen	nettoyez	Présent	Indicatif	2.0	pl				100.2	LIEVRE Louis
+x	nundoyant	nundoer	nundoer	VERB	Marais nord-vendéen	nettoient	Présent	Indicatif	3.0	pl				100.2	LIEVRE Louis
+x	nundoyi	nundoer	nundoer	VERB	Marais nord-vendéen	nettoyai	Passé simple	Indicatif	1.0	sg				100.2	LIEVRE Louis
+x	nundoyis	nundoer	nundoer	VERB	Marais nord-vendéen	nettoyas	Passé simple	Indicatif	2.0	sg				100.2	LIEVRE Louis
+x	nundoyit	nundoer	nundoer	VERB	Marais nord-vendéen	nettoya	Passé simple	Indicatif	3.0	sg				100.2	LIEVRE Louis
+x	nundoyirun	nundoer	nundoer	VERB	Marais nord-vendéen	nettoyâmes	Passé simple	Indicatif	1.0	pl				100.2	LIEVRE Louis
+x	nundoyiréz	nundoer	nundoer	VERB	Marais nord-vendéen	nettoyâtes	Passé simple	Indicatif	2.0	pl				100.2	LIEVRE Louis
+x	nundoyirant	nundoer	nundoer	VERB	Marais nord-vendéen	nettoyèrent	Passé simple	Indicatif	3.0	pl				100.2	LIEVRE Louis
+x	nundoyoe	nundoer	nundoer	VERB	Marais nord-vendéen	nettoyais	Imparfait	Indicatif	1.0	sg				100.2	LIEVRE Louis
+x	nundoyoes	nundoer	nundoer	VERB	Marais nord-vendéen	nettoyais	Imparfait	Indicatif	2.0	sg				100.2	LIEVRE Louis
+x	nundoyoét	nundoer	nundoer	VERB	Marais nord-vendéen	nettoyait	Imparfait	Indicatif	3.0	sg				100.2	LIEVRE Louis
+x	nundoyiun	nundoer	nundoer	VERB	Marais nord-vendéen	nettoyions	Imparfait	Indicatif	1.0	pl				100.2	LIEVRE Louis
+x	nundoyiéz	nundoer	nundoer	VERB	Marais nord-vendéen	nettoyiez	Imparfait	Indicatif	2.0	pl				100.2	LIEVRE Louis
+x	nundoyiant	nundoer	nundoer	VERB	Marais nord-vendéen	nettoyaient	Imparfait	Indicatif	3.0	pl				100.2	LIEVRE Louis
+x	nundoerae	nundoer	nundoer	VERB	Marais nord-vendéen	nettoierai	Futur	Indicatif	1.0	sg				100.2	LIEVRE Louis
+x	nundoeras	nundoer	nundoer	VERB	Marais nord-vendéen	nettoieras	Futur	Indicatif	2.0	sg				100.2	LIEVRE Louis
+x	nundoerat	nundoer	nundoer	VERB	Marais nord-vendéen	nettoiera	Futur	Indicatif	3.0	sg				100.2	LIEVRE Louis
+x	nundoerun	nundoer	nundoer	VERB	Marais nord-vendéen	nettoierons	Futur	Indicatif	1.0	pl				100.2	LIEVRE Louis
+x	nundoeréz	nundoer	nundoer	VERB	Marais nord-vendéen	nettoierez	Futur	Indicatif	2.0	pl				100.2	LIEVRE Louis
+x	nundoerant	nundoer	nundoer	VERB	Marais nord-vendéen	nettoieront	Futur	Indicatif	3.0	pl				100.2	LIEVRE Louis
+	nundoer	nundoer	nundoer	VERB	Marais nord-vendéen	nettoyer	Présent	Infinitif						100.2	PIVETEAU Vianney. 2021. Dicopoitevin
+x	nundyant 	nundoer	nundoer	VERB	Marais nord-vendéen	nettoyant	Présent	Participe						100.2	LIEVRE Louis
+x	nunde	nundoer	nundoer	VERB	Marais nord-vendéen	nettoyé	Passé	Participe		sg	m			100.2	LIEVRE Louis
+x	nunde	nundoer	nundoer	VERB	Marais nord-vendéen	nettoyée	Passé	Participe		sg	f			100.2	LIEVRE Louis
+x	nundes	nundoer	nundoer	VERB	Marais nord-vendéen	nettoyés	Passé	Participe		pl	m			100.2	LIEVRE Louis
+x	nundes	nundoer	nundoer	VERB	Marais nord-vendéen	nettoyées	Passé	Participe		pl	f			100.2	LIEVRE Louis
+x	nundoejhe	nundoer	nundoer	VERB	Marais nord-vendéen	nettoie	Présent	Subjonctif	1.0	sg				100.2	LIEVRE Louis
+x	nundoejhes	nundoer	nundoer	VERB	Marais nord-vendéen	nettoies	Présent	Subjonctif	2.0	sg				100.2	LIEVRE Louis
+x	nundoejhe 	nundoer	nundoer	VERB	Marais nord-vendéen	nettoie	Présent	Subjonctif	3.0	sg				100.2	LIEVRE Louis
+x	nundoejhun	nundoer	nundoer	VERB	Marais nord-vendéen	nettoyions	Présent	Subjonctif	1.0	pl				100.2	LIEVRE Louis
+x	nundoejhéz	nundoer	nundoer	VERB	Marais nord-vendéen	nettoyiez	Présent	Subjonctif	2.0	pl				100.2	LIEVRE Louis
+x	nundoejhant	nundoer	nundoer	VERB	Marais nord-vendéen	nettoient	Présent	Subjonctif	3.0	pl				100.2	LIEVRE Louis
+x	nundoyijhe	nundoer	nundoer	VERB	Marais nord-vendéen	nettoyasse	Imparfait	Subjonctif	1.0	sg				100.2	LIEVRE Louis
+x	nundoyijhes	nundoer	nundoer	VERB	Marais nord-vendéen	nettoyasses	Imparfait	Subjonctif	2.0	sg				100.2	LIEVRE Louis
+x	nundoyijhe 	nundoer	nundoer	VERB	Marais nord-vendéen	nettoyât	Imparfait	Subjonctif	3.0	sg				100.2	LIEVRE Louis
+x	nundoyijhun	nundoer	nundoer	VERB	Marais nord-vendéen	nettoyassions	Imparfait	Subjonctif	1.0	pl				100.2	LIEVRE Louis
+x	nundoyijhéz	nundoer	nundoer	VERB	Marais nord-vendéen	nettoyassiez	Imparfait	Subjonctif	2.0	pl				100.2	LIEVRE Louis
+x	nundoyijhant	nundoer	nundoer	VERB	Marais nord-vendéen	nettoyassent	Imparfait	Subjonctif	3.0	pl				100.2	LIEVRE Louis
+x	parvaleroe	parvaloer	parvaloer	VERB	Marais nord-vendéen	prévaudrais	Présent	Conditionnel	1.0	sg				100.2	LIEVRE Louis
+x	parvaleroes	parvaloer	parvaloer	VERB	Marais nord-vendéen	prévaudrais	Présent	Conditionnel	2.0	sg				100.2	LIEVRE Louis
+x	parvaleroét	parvaloer	parvaloer	VERB	Marais nord-vendéen	prévaudrait	Présent	Conditionnel	3.0	sg				100.2	LIEVRE Louis
+x	parvaleriun	parvaloer	parvaloer	VERB	Marais nord-vendéen	prévaudrions	Présent	Conditionnel	1.0	pl				100.2	LIEVRE Louis
+x	parvaleriéz	parvaloer	parvaloer	VERB	Marais nord-vendéen	prévaudriez	Présent	Conditionnel	2.0	pl				100.2	LIEVRE Louis
+x	parvaleriant	parvaloer	parvaloer	VERB	Marais nord-vendéen	prévaudraient	Présent	Conditionnel	3.0	pl				100.2	LIEVRE Louis
+x	parvaloe  	parvaloer	parvaloer	VERB	Marais nord-vendéen	prévaux	Présent	Impératif	2.0	sg				100.2	LIEVRE Louis
+x	parvaloyun 	parvaloer	parvaloer	VERB	Marais nord-vendéen	prévalons	Présent	Impératif	1.0	pl				100.2	LIEVRE Louis
+x	parvaloyéz 	parvaloer	parvaloer	VERB	Marais nord-vendéen	prévalez	Présent	Impératif	2.0	pl				100.2	LIEVRE Louis
+x	parvaloe	parvaloer	parvaloer	VERB	Marais nord-vendéen	prévaux	Présent	Indicatif	1.0	sg				100.2	LIEVRE Louis
+x	parvaloes	parvaloer	parvaloer	VERB	Marais nord-vendéen	prévaux	Présent	Indicatif	2.0	sg				100.2	LIEVRE Louis
+x	parvaloe 	parvaloer	parvaloer	VERB	Marais nord-vendéen	prévaut	Présent	Indicatif	3.0	sg				100.2	LIEVRE Louis
+x	parvaloyun	parvaloer	parvaloer	VERB	Marais nord-vendéen	prévalons	Présent	Indicatif	1.0	pl				100.2	LIEVRE Louis
+x	parvaloyéz	parvaloer	parvaloer	VERB	Marais nord-vendéen	prévalez	Présent	Indicatif	2.0	pl				100.2	LIEVRE Louis
+x	parvaloyant	parvaloer	parvaloer	VERB	Marais nord-vendéen	prévalent	Présent	Indicatif	3.0	pl				100.2	LIEVRE Louis
+x	parvaloyi	parvaloer	parvaloer	VERB	Marais nord-vendéen	prévalus	Passé simple	Indicatif	1.0	sg				100.2	LIEVRE Louis
+x	parvaloyis	parvaloer	parvaloer	VERB	Marais nord-vendéen	prévalus	Passé simple	Indicatif	2.0	sg				100.2	LIEVRE Louis
+x	parvaloyit	parvaloer	parvaloer	VERB	Marais nord-vendéen	prévalut	Passé simple	Indicatif	3.0	sg				100.2	LIEVRE Louis
+x	parvaloyirun	parvaloer	parvaloer	VERB	Marais nord-vendéen	prévalûmes	Passé simple	Indicatif	1.0	pl				100.2	LIEVRE Louis
+x	parvaloyiréz	parvaloer	parvaloer	VERB	Marais nord-vendéen	prévalûtes	Passé simple	Indicatif	2.0	pl				100.2	LIEVRE Louis
+x	parvaloyirant	parvaloer	parvaloer	VERB	Marais nord-vendéen	prévalurent	Passé simple	Indicatif	3.0	pl				100.2	LIEVRE Louis
+x	parvaloyoe	parvaloer	parvaloer	VERB	Marais nord-vendéen	prévalais	Imparfait	Indicatif	1.0	sg				100.2	LIEVRE Louis
+x	parvaloyoes	parvaloer	parvaloer	VERB	Marais nord-vendéen	prévalais	Imparfait	Indicatif	2.0	sg				100.2	LIEVRE Louis
+x	parvaloyoét	parvaloer	parvaloer	VERB	Marais nord-vendéen	prévalait	Imparfait	Indicatif	3.0	sg				100.2	LIEVRE Louis
+x	parvaloyiun	parvaloer	parvaloer	VERB	Marais nord-vendéen	prévalions	Imparfait	Indicatif	1.0	pl				100.2	LIEVRE Louis
+x	parvaloyiéz	parvaloer	parvaloer	VERB	Marais nord-vendéen	prévaliez	Imparfait	Indicatif	2.0	pl				100.2	LIEVRE Louis
+x	parvaloyiant	parvaloer	parvaloer	VERB	Marais nord-vendéen	prévalaient	Imparfait	Indicatif	3.0	pl				100.2	LIEVRE Louis
+x	parvaloerae	parvaloer	parvaloer	VERB	Marais nord-vendéen	prévaudrai	Futur	Indicatif	1.0	sg				100.2	LIEVRE Louis
+x	parvaloeras	parvaloer	parvaloer	VERB	Marais nord-vendéen	prévaudras	Futur	Indicatif	2.0	sg				100.2	LIEVRE Louis
+x	parvaloerat	parvaloer	parvaloer	VERB	Marais nord-vendéen	prévaudra	Futur	Indicatif	3.0	sg				100.2	LIEVRE Louis
+x	parvaloerun	parvaloer	parvaloer	VERB	Marais nord-vendéen	prévaudrons	Futur	Indicatif	1.0	pl				100.2	LIEVRE Louis
+x	parvaloeréz	parvaloer	parvaloer	VERB	Marais nord-vendéen	prévaudrez	Futur	Indicatif	2.0	pl				100.2	LIEVRE Louis
+x	parvaloerant	parvaloer	parvaloer	VERB	Marais nord-vendéen	prévaudront	Futur	Indicatif	3.0	pl				100.2	LIEVRE Louis
+	parvaloer	parvaloer	parvaloer	VERB	Marais nord-vendéen	prévaloir	Présent	Infinitif						100.2	PIVETEAU Vianney. 2021. Dicopoitevin
+x	parvalyant 	parvaloer	parvaloer	VERB	Marais nord-vendéen	prévalant	Présent	Participe						100.2	LIEVRE Louis
+x	parvale	parvaloer	parvaloer	VERB	Marais nord-vendéen	prévalu	Passé	Participe		sg	m			100.2	LIEVRE Louis
+x	parvale	parvaloer	parvaloer	VERB	Marais nord-vendéen	prévalue	Passé	Participe		sg	f			100.2	LIEVRE Louis
+x	parvales	parvaloer	parvaloer	VERB	Marais nord-vendéen	prévalus	Passé	Participe		pl	m			100.2	LIEVRE Louis
+x	parvales	parvaloer	parvaloer	VERB	Marais nord-vendéen	prévalues	Passé	Participe		pl	f			100.2	LIEVRE Louis
+x	parvaloejhe	parvaloer	parvaloer	VERB	Marais nord-vendéen	prévale	Présent	Subjonctif	1.0	sg				100.2	LIEVRE Louis
+x	parvaloejhes	parvaloer	parvaloer	VERB	Marais nord-vendéen	prévales	Présent	Subjonctif	2.0	sg				100.2	LIEVRE Louis
+x	parvaloejhe 	parvaloer	parvaloer	VERB	Marais nord-vendéen	prévale	Présent	Subjonctif	3.0	sg				100.2	LIEVRE Louis
+x	parvaloejhun	parvaloer	parvaloer	VERB	Marais nord-vendéen	prévalions	Présent	Subjonctif	1.0	pl				100.2	LIEVRE Louis
+x	parvaloejhéz	parvaloer	parvaloer	VERB	Marais nord-vendéen	prévaliez	Présent	Subjonctif	2.0	pl				100.2	LIEVRE Louis
+x	parvaloejhant	parvaloer	parvaloer	VERB	Marais nord-vendéen	prévalent	Présent	Subjonctif	3.0	pl				100.2	LIEVRE Louis
+x	parvaloyijhe	parvaloer	parvaloer	VERB	Marais nord-vendéen	prévalusse	Imparfait	Subjonctif	1.0	sg				100.2	LIEVRE Louis
+x	parvaloyijhes	parvaloer	parvaloer	VERB	Marais nord-vendéen	prévalusses	Imparfait	Subjonctif	2.0	sg				100.2	LIEVRE Louis
+x	parvaloyijhe 	parvaloer	parvaloer	VERB	Marais nord-vendéen	prévalût	Imparfait	Subjonctif	3.0	sg				100.2	LIEVRE Louis
+x	parvaloyijhun	parvaloer	parvaloer	VERB	Marais nord-vendéen	prévalussions	Imparfait	Subjonctif	1.0	pl				100.2	LIEVRE Louis
+x	parvaloyijhéz	parvaloer	parvaloer	VERB	Marais nord-vendéen	prévalussiez	Imparfait	Subjonctif	2.0	pl				100.2	LIEVRE Louis
+x	parvaloyijhant	parvaloer	parvaloer	VERB	Marais nord-vendéen	prévalussent	Imparfait	Subjonctif	3.0	pl				100.2	LIEVRE Louis
+x	pllancheroe	pllanchoer	pllanchounàe	VERB	Marais nord-vendéen	planchéierais	Présent	Conditionnel	1.0	sg				100.2	LIEVRE Louis
+x	pllancheroes	pllanchoer	pllanchounàe	VERB	Marais nord-vendéen	planchéierais	Présent	Conditionnel	2.0	sg				100.2	LIEVRE Louis
+x	pllancheroét	pllanchoer	pllanchounàe	VERB	Marais nord-vendéen	planchéierait	Présent	Conditionnel	3.0	sg				100.2	LIEVRE Louis
+x	pllancheriun	pllanchoer	pllanchounàe	VERB	Marais nord-vendéen	planchéierions	Présent	Conditionnel	1.0	pl				100.2	LIEVRE Louis
+x	pllancheriéz	pllanchoer	pllanchounàe	VERB	Marais nord-vendéen	planchéieriez	Présent	Conditionnel	2.0	pl				100.2	LIEVRE Louis
+x	pllancheriant	pllanchoer	pllanchounàe	VERB	Marais nord-vendéen	planchéieraient	Présent	Conditionnel	3.0	pl				100.2	LIEVRE Louis
+x	pllanchoe  	pllanchoer	pllanchounàe	VERB	Marais nord-vendéen	planchéie	Présent	Impératif	2.0	sg				100.2	LIEVRE Louis
+x	pllanchoyun 	pllanchoer	pllanchounàe	VERB	Marais nord-vendéen	planchéions	Présent	Impératif	1.0	pl				100.2	LIEVRE Louis
+x	pllanchoyéz 	pllanchoer	pllanchounàe	VERB	Marais nord-vendéen	planchéiez	Présent	Impératif	2.0	pl				100.2	LIEVRE Louis
+x	pllanchoe	pllanchoer	pllanchounàe	VERB	Marais nord-vendéen	planchéie	Présent	Indicatif	1.0	sg				100.2	LIEVRE Louis
+x	pllanchoes	pllanchoer	pllanchounàe	VERB	Marais nord-vendéen	planchéies	Présent	Indicatif	2.0	sg				100.2	LIEVRE Louis
+x	pllanchoe 	pllanchoer	pllanchounàe	VERB	Marais nord-vendéen	planchéie	Présent	Indicatif	3.0	sg				100.2	LIEVRE Louis
+x	pllanchoyun	pllanchoer	pllanchounàe	VERB	Marais nord-vendéen	planchéions	Présent	Indicatif	1.0	pl				100.2	LIEVRE Louis
+x	pllanchoyéz	pllanchoer	pllanchounàe	VERB	Marais nord-vendéen	planchéiez	Présent	Indicatif	2.0	pl				100.2	LIEVRE Louis
+x	pllanchoyant	pllanchoer	pllanchounàe	VERB	Marais nord-vendéen	planchéient	Présent	Indicatif	3.0	pl				100.2	LIEVRE Louis
+x	pllanchoyi	pllanchoer	pllanchounàe	VERB	Marais nord-vendéen	planchéiai	Passé simple	Indicatif	1.0	sg				100.2	LIEVRE Louis
+x	pllanchoyis	pllanchoer	pllanchounàe	VERB	Marais nord-vendéen	planchéias	Passé simple	Indicatif	2.0	sg				100.2	LIEVRE Louis
+x	pllanchoyit	pllanchoer	pllanchounàe	VERB	Marais nord-vendéen	planchéia	Passé simple	Indicatif	3.0	sg				100.2	LIEVRE Louis
+x	pllanchoyirun	pllanchoer	pllanchounàe	VERB	Marais nord-vendéen	planchéiâmes	Passé simple	Indicatif	1.0	pl				100.2	LIEVRE Louis
+x	pllanchoyiréz	pllanchoer	pllanchounàe	VERB	Marais nord-vendéen	planchéiâtes	Passé simple	Indicatif	2.0	pl				100.2	LIEVRE Louis
+x	pllanchoyirant	pllanchoer	pllanchounàe	VERB	Marais nord-vendéen	planchéièrent	Passé simple	Indicatif	3.0	pl				100.2	LIEVRE Louis
+x	pllanchoyoe	pllanchoer	pllanchounàe	VERB	Marais nord-vendéen	planchéiais	Imparfait	Indicatif	1.0	sg				100.2	LIEVRE Louis
+x	pllanchoyoes	pllanchoer	pllanchounàe	VERB	Marais nord-vendéen	planchéiais	Imparfait	Indicatif	2.0	sg				100.2	LIEVRE Louis
+x	pllanchoyoét	pllanchoer	pllanchounàe	VERB	Marais nord-vendéen	planchéiait	Imparfait	Indicatif	3.0	sg				100.2	LIEVRE Louis
+x	pllanchoyiun	pllanchoer	pllanchounàe	VERB	Marais nord-vendéen	planchéiions	Imparfait	Indicatif	1.0	pl				100.2	LIEVRE Louis
+x	pllanchoyiéz	pllanchoer	pllanchounàe	VERB	Marais nord-vendéen	planchéiiez	Imparfait	Indicatif	2.0	pl				100.2	LIEVRE Louis
+x	pllanchoyiant	pllanchoer	pllanchounàe	VERB	Marais nord-vendéen	planchéiaient	Imparfait	Indicatif	3.0	pl				100.2	LIEVRE Louis
+x	pllanchoerae	pllanchoer	pllanchounàe	VERB	Marais nord-vendéen	planchéierai	Futur	Indicatif	1.0	sg				100.2	LIEVRE Louis
+x	pllanchoeras	pllanchoer	pllanchounàe	VERB	Marais nord-vendéen	planchéieras	Futur	Indicatif	2.0	sg				100.2	LIEVRE Louis
+x	pllanchoerat	pllanchoer	pllanchounàe	VERB	Marais nord-vendéen	planchéiera	Futur	Indicatif	3.0	sg				100.2	LIEVRE Louis
+x	pllanchoerun	pllanchoer	pllanchounàe	VERB	Marais nord-vendéen	planchéierons	Futur	Indicatif	1.0	pl				100.2	LIEVRE Louis
+x	pllanchoeréz	pllanchoer	pllanchounàe	VERB	Marais nord-vendéen	planchéierez	Futur	Indicatif	2.0	pl				100.2	LIEVRE Louis
+x	pllanchoerant	pllanchoer	pllanchounàe	VERB	Marais nord-vendéen	planchéieront	Futur	Indicatif	3.0	pl				100.2	LIEVRE Louis
+	pllanchoer	pllanchoer	pllanchounàe	VERB	Marais nord-vendéen	planchéier	Présent	Infinitif						100.2	PIVETEAU Vianney. 2021. Dicopoitevin
+x	pllanchyant 	pllanchoer	pllanchounàe	VERB	Marais nord-vendéen	planchéiant	Présent	Participe						100.2	LIEVRE Louis
+x	pllanche	pllanchoer	pllanchounàe	VERB	Marais nord-vendéen	planchéié	Passé	Participe		sg	m			100.2	LIEVRE Louis
+x	pllanche	pllanchoer	pllanchounàe	VERB	Marais nord-vendéen	planchéiée	Passé	Participe		sg	f			100.2	LIEVRE Louis
+x	pllanches	pllanchoer	pllanchounàe	VERB	Marais nord-vendéen	planchéiés	Passé	Participe		pl	m			100.2	LIEVRE Louis
+x	pllanches	pllanchoer	pllanchounàe	VERB	Marais nord-vendéen	planchéiées	Passé	Participe		pl	f			100.2	LIEVRE Louis
+x	pllanchoejhe	pllanchoer	pllanchounàe	VERB	Marais nord-vendéen	planchéie	Présent	Subjonctif	1.0	sg				100.2	LIEVRE Louis
+x	pllanchoejhes	pllanchoer	pllanchounàe	VERB	Marais nord-vendéen	planchéies	Présent	Subjonctif	2.0	sg				100.2	LIEVRE Louis
+x	pllanchoejhe 	pllanchoer	pllanchounàe	VERB	Marais nord-vendéen	planchéie	Présent	Subjonctif	3.0	sg				100.2	LIEVRE Louis
+x	pllanchoejhun	pllanchoer	pllanchounàe	VERB	Marais nord-vendéen	planchéiions	Présent	Subjonctif	1.0	pl				100.2	LIEVRE Louis
+x	pllanchoejhéz	pllanchoer	pllanchounàe	VERB	Marais nord-vendéen	planchéiiez	Présent	Subjonctif	2.0	pl				100.2	LIEVRE Louis
+x	pllanchoejhant	pllanchoer	pllanchounàe	VERB	Marais nord-vendéen	planchéient	Présent	Subjonctif	3.0	pl				100.2	LIEVRE Louis
+x	pllanchoyijhe	pllanchoer	pllanchounàe	VERB	Marais nord-vendéen	planchéiasse	Imparfait	Subjonctif	1.0	sg				100.2	LIEVRE Louis
+x	pllanchoyijhes	pllanchoer	pllanchounàe	VERB	Marais nord-vendéen	planchéiasses	Imparfait	Subjonctif	2.0	sg				100.2	LIEVRE Louis
+x	pllanchoyijhe 	pllanchoer	pllanchounàe	VERB	Marais nord-vendéen	planchéiât	Imparfait	Subjonctif	3.0	sg				100.2	LIEVRE Louis
+x	pllanchoyijhun	pllanchoer	pllanchounàe	VERB	Marais nord-vendéen	planchéiassions	Imparfait	Subjonctif	1.0	pl				100.2	LIEVRE Louis
+x	pllanchoyijhéz	pllanchoer	pllanchounàe	VERB	Marais nord-vendéen	planchéiassiez	Imparfait	Subjonctif	2.0	pl				100.2	LIEVRE Louis
+x	pllanchoyijhant	pllanchoer	pllanchounàe	VERB	Marais nord-vendéen	planchéiassent	Imparfait	Subjonctif	3.0	pl				100.2	LIEVRE Louis
+x	plleroe	plloer	plléyàe	VERB	Marais nord-vendéen	courberais	Présent	Conditionnel	1.0	sg				100.2	LIEVRE Louis
+x	plleroes	plloer	plléyàe	VERB	Marais nord-vendéen	courberais	Présent	Conditionnel	2.0	sg				100.2	LIEVRE Louis
+x	plleroét	plloer	plléyàe	VERB	Marais nord-vendéen	courberait	Présent	Conditionnel	3.0	sg				100.2	LIEVRE Louis
+x	plleriun	plloer	plléyàe	VERB	Marais nord-vendéen	courberions	Présent	Conditionnel	1.0	pl				100.2	LIEVRE Louis
+x	plleriéz	plloer	plléyàe	VERB	Marais nord-vendéen	courberiez	Présent	Conditionnel	2.0	pl				100.2	LIEVRE Louis
+x	plleriant	plloer	plléyàe	VERB	Marais nord-vendéen	courberaient	Présent	Conditionnel	3.0	pl				100.2	LIEVRE Louis
+x	plloe  	plloer	plléyàe	VERB	Marais nord-vendéen	courbe	Présent	Impératif	2.0	sg				100.2	LIEVRE Louis
+x	plloyun 	plloer	plléyàe	VERB	Marais nord-vendéen	courbons	Présent	Impératif	1.0	pl				100.2	LIEVRE Louis
+x	plloyéz 	plloer	plléyàe	VERB	Marais nord-vendéen	courbez	Présent	Impératif	2.0	pl				100.2	LIEVRE Louis
+x	plloe	plloer	plléyàe	VERB	Marais nord-vendéen	courbe	Présent	Indicatif	1.0	sg				100.2	LIEVRE Louis
+x	plloes	plloer	plléyàe	VERB	Marais nord-vendéen	courbes	Présent	Indicatif	2.0	sg				100.2	LIEVRE Louis
+x	plloe 	plloer	plléyàe	VERB	Marais nord-vendéen	courbe	Présent	Indicatif	3.0	sg				100.2	LIEVRE Louis
+x	plloyun	plloer	plléyàe	VERB	Marais nord-vendéen	courbons	Présent	Indicatif	1.0	pl				100.2	LIEVRE Louis
+x	plloyéz	plloer	plléyàe	VERB	Marais nord-vendéen	courbez	Présent	Indicatif	2.0	pl				100.2	LIEVRE Louis
+x	plloyant	plloer	plléyàe	VERB	Marais nord-vendéen	courbent	Présent	Indicatif	3.0	pl				100.2	LIEVRE Louis
+x	plloyi	plloer	plléyàe	VERB	Marais nord-vendéen	courbai	Passé simple	Indicatif	1.0	sg				100.2	LIEVRE Louis
+x	plloyis	plloer	plléyàe	VERB	Marais nord-vendéen	courbas	Passé simple	Indicatif	2.0	sg				100.2	LIEVRE Louis
+x	plloyit	plloer	plléyàe	VERB	Marais nord-vendéen	courba	Passé simple	Indicatif	3.0	sg				100.2	LIEVRE Louis
+x	plloyirun	plloer	plléyàe	VERB	Marais nord-vendéen	courbâmes	Passé simple	Indicatif	1.0	pl				100.2	LIEVRE Louis
+x	plloyiréz	plloer	plléyàe	VERB	Marais nord-vendéen	courbâtes	Passé simple	Indicatif	2.0	pl				100.2	LIEVRE Louis
+x	plloyirant	plloer	plléyàe	VERB	Marais nord-vendéen	courbèrent	Passé simple	Indicatif	3.0	pl				100.2	LIEVRE Louis
+x	plloyoe	plloer	plléyàe	VERB	Marais nord-vendéen	courbais	Imparfait	Indicatif	1.0	sg				100.2	LIEVRE Louis
+x	plloyoes	plloer	plléyàe	VERB	Marais nord-vendéen	courbais	Imparfait	Indicatif	2.0	sg				100.2	LIEVRE Louis
+x	plloyoét	plloer	plléyàe	VERB	Marais nord-vendéen	courbait	Imparfait	Indicatif	3.0	sg				100.2	LIEVRE Louis
+x	plloyiun	plloer	plléyàe	VERB	Marais nord-vendéen	courbions	Imparfait	Indicatif	1.0	pl				100.2	LIEVRE Louis
+x	plloyiéz	plloer	plléyàe	VERB	Marais nord-vendéen	courbiez	Imparfait	Indicatif	2.0	pl				100.2	LIEVRE Louis
+x	plloyiant	plloer	plléyàe	VERB	Marais nord-vendéen	courbaient	Imparfait	Indicatif	3.0	pl				100.2	LIEVRE Louis
+x	plloerae	plloer	plléyàe	VERB	Marais nord-vendéen	courberai	Futur	Indicatif	1.0	sg				100.2	LIEVRE Louis
+x	plloeras	plloer	plléyàe	VERB	Marais nord-vendéen	courberas	Futur	Indicatif	2.0	sg				100.2	LIEVRE Louis
+x	plloerat	plloer	plléyàe	VERB	Marais nord-vendéen	courbera	Futur	Indicatif	3.0	sg				100.2	LIEVRE Louis
+x	plloerun	plloer	plléyàe	VERB	Marais nord-vendéen	courberons	Futur	Indicatif	1.0	pl				100.2	LIEVRE Louis
+x	plloeréz	plloer	plléyàe	VERB	Marais nord-vendéen	courberez	Futur	Indicatif	2.0	pl				100.2	LIEVRE Louis
+x	plloerant	plloer	plléyàe	VERB	Marais nord-vendéen	courberont	Futur	Indicatif	3.0	pl				100.2	LIEVRE Louis
+	plloer	plloer	plléyàe	VERB	Marais nord-vendéen	courber	Présent	Infinitif						100.2	PIVETEAU Vianney. 2021. Dicopoitevin
+x	pllyant 	plloer	plléyàe	VERB	Marais nord-vendéen	courbant	Présent	Participe						100.2	LIEVRE Louis
+x	plle	plloer	plléyàe	VERB	Marais nord-vendéen	courbé	Passé	Participe		sg	m			100.2	LIEVRE Louis
+x	plle	plloer	plléyàe	VERB	Marais nord-vendéen	courbée	Passé	Participe		sg	f			100.2	LIEVRE Louis
+x	plles	plloer	plléyàe	VERB	Marais nord-vendéen	courbés	Passé	Participe		pl	m			100.2	LIEVRE Louis
+x	plles	plloer	plléyàe	VERB	Marais nord-vendéen	courbées	Passé	Participe		pl	f			100.2	LIEVRE Louis
+x	plloejhe	plloer	plléyàe	VERB	Marais nord-vendéen	courbe	Présent	Subjonctif	1.0	sg				100.2	LIEVRE Louis
+x	plloejhes	plloer	plléyàe	VERB	Marais nord-vendéen	courbes	Présent	Subjonctif	2.0	sg				100.2	LIEVRE Louis
+x	plloejhe 	plloer	plléyàe	VERB	Marais nord-vendéen	courbe	Présent	Subjonctif	3.0	sg				100.2	LIEVRE Louis
+x	plloejhun	plloer	plléyàe	VERB	Marais nord-vendéen	courbions	Présent	Subjonctif	1.0	pl				100.2	LIEVRE Louis
+x	plloejhéz	plloer	plléyàe	VERB	Marais nord-vendéen	courbiez	Présent	Subjonctif	2.0	pl				100.2	LIEVRE Louis
+x	plloejhant	plloer	plléyàe	VERB	Marais nord-vendéen	courbent	Présent	Subjonctif	3.0	pl				100.2	LIEVRE Louis
+x	plloyijhe	plloer	plléyàe	VERB	Marais nord-vendéen	courbasse	Imparfait	Subjonctif	1.0	sg				100.2	LIEVRE Louis
+x	plloyijhes	plloer	plléyàe	VERB	Marais nord-vendéen	courbasses	Imparfait	Subjonctif	2.0	sg				100.2	LIEVRE Louis
+x	plloyijhe 	plloer	plléyàe	VERB	Marais nord-vendéen	courbât	Imparfait	Subjonctif	3.0	sg				100.2	LIEVRE Louis
+x	plloyijhun	plloer	plléyàe	VERB	Marais nord-vendéen	courbassions	Imparfait	Subjonctif	1.0	pl				100.2	LIEVRE Louis
+x	plloyijhéz	plloer	plléyàe	VERB	Marais nord-vendéen	courbassiez	Imparfait	Subjonctif	2.0	pl				100.2	LIEVRE Louis
+x	plloyijhant	plloer	plléyàe	VERB	Marais nord-vendéen	courbassent	Imparfait	Subjonctif	3.0	pl				100.2	LIEVRE Louis
+x	peroe	poer	peyàe	VERB	Marais nord-vendéen	payerais	Présent	Conditionnel	1.0	sg				100.2	LIEVRE Louis
+x	peroes	poer	peyàe	VERB	Marais nord-vendéen	payerais	Présent	Conditionnel	2.0	sg				100.2	LIEVRE Louis
+x	peroét	poer	peyàe	VERB	Marais nord-vendéen	payerait	Présent	Conditionnel	3.0	sg				100.2	LIEVRE Louis
+x	periun	poer	peyàe	VERB	Marais nord-vendéen	payerions	Présent	Conditionnel	1.0	pl				100.2	LIEVRE Louis
+x	periéz	poer	peyàe	VERB	Marais nord-vendéen	payeriez	Présent	Conditionnel	2.0	pl				100.2	LIEVRE Louis
+x	periant	poer	peyàe	VERB	Marais nord-vendéen	payeraient	Présent	Conditionnel	3.0	pl				100.2	LIEVRE Louis
+x	poe  	poer	peyàe	VERB	Marais nord-vendéen	paye	Présent	Impératif	2.0	sg				100.2	LIEVRE Louis
+x	poyun 	poer	peyàe	VERB	Marais nord-vendéen	payons	Présent	Impératif	1.0	pl				100.2	LIEVRE Louis
+x	poyéz 	poer	peyàe	VERB	Marais nord-vendéen	payez	Présent	Impératif	2.0	pl				100.2	LIEVRE Louis
+x	poe	poer	peyàe	VERB	Marais nord-vendéen	paye	Présent	Indicatif	1.0	sg				100.2	LIEVRE Louis
+x	poes	poer	peyàe	VERB	Marais nord-vendéen	payes	Présent	Indicatif	2.0	sg				100.2	LIEVRE Louis
+x	poe 	poer	peyàe	VERB	Marais nord-vendéen	paye	Présent	Indicatif	3.0	sg				100.2	LIEVRE Louis
+x	poyun	poer	peyàe	VERB	Marais nord-vendéen	payons	Présent	Indicatif	1.0	pl				100.2	LIEVRE Louis
+x	poyéz	poer	peyàe	VERB	Marais nord-vendéen	payez	Présent	Indicatif	2.0	pl				100.2	LIEVRE Louis
+x	poyant	poer	peyàe	VERB	Marais nord-vendéen	payent	Présent	Indicatif	3.0	pl				100.2	LIEVRE Louis
+x	poyi	poer	peyàe	VERB	Marais nord-vendéen	payai	Passé simple	Indicatif	1.0	sg				100.2	LIEVRE Louis
+x	poyis	poer	peyàe	VERB	Marais nord-vendéen	payas	Passé simple	Indicatif	2.0	sg				100.2	LIEVRE Louis
+x	poyit	poer	peyàe	VERB	Marais nord-vendéen	paya	Passé simple	Indicatif	3.0	sg				100.2	LIEVRE Louis
+x	poyirun	poer	peyàe	VERB	Marais nord-vendéen	payâmes	Passé simple	Indicatif	1.0	pl				100.2	LIEVRE Louis
+x	poyiréz	poer	peyàe	VERB	Marais nord-vendéen	payâtes	Passé simple	Indicatif	2.0	pl				100.2	LIEVRE Louis
+x	poyirant	poer	peyàe	VERB	Marais nord-vendéen	payèrent	Passé simple	Indicatif	3.0	pl				100.2	LIEVRE Louis
+x	poyoe	poer	peyàe	VERB	Marais nord-vendéen	payais	Imparfait	Indicatif	1.0	sg				100.2	LIEVRE Louis
+x	poyoes	poer	peyàe	VERB	Marais nord-vendéen	payais	Imparfait	Indicatif	2.0	sg				100.2	LIEVRE Louis
+x	poyoét	poer	peyàe	VERB	Marais nord-vendéen	payait	Imparfait	Indicatif	3.0	sg				100.2	LIEVRE Louis
+x	poyiun	poer	peyàe	VERB	Marais nord-vendéen	payions	Imparfait	Indicatif	1.0	pl				100.2	LIEVRE Louis
+x	poyiéz	poer	peyàe	VERB	Marais nord-vendéen	payiez	Imparfait	Indicatif	2.0	pl				100.2	LIEVRE Louis
+x	poyiant	poer	peyàe	VERB	Marais nord-vendéen	payaient	Imparfait	Indicatif	3.0	pl				100.2	LIEVRE Louis
+x	poerae	poer	peyàe	VERB	Marais nord-vendéen	payerai	Futur	Indicatif	1.0	sg				100.2	LIEVRE Louis
+x	poeras	poer	peyàe	VERB	Marais nord-vendéen	payeras	Futur	Indicatif	2.0	sg				100.2	LIEVRE Louis
+x	poerat	poer	peyàe	VERB	Marais nord-vendéen	payera	Futur	Indicatif	3.0	sg				100.2	LIEVRE Louis
+x	poerun	poer	peyàe	VERB	Marais nord-vendéen	payerons	Futur	Indicatif	1.0	pl				100.2	LIEVRE Louis
+x	poeréz	poer	peyàe	VERB	Marais nord-vendéen	payerez	Futur	Indicatif	2.0	pl				100.2	LIEVRE Louis
+x	poerant	poer	peyàe	VERB	Marais nord-vendéen	payeront	Futur	Indicatif	3.0	pl				100.2	LIEVRE Louis
+	poer	poer	peyàe	VERB	Marais nord-vendéen	payer	Présent	Infinitif						100.2	PIVETEAU Vianney. 2021. Dicopoitevin
+x	pyant 	poer	peyàe	VERB	Marais nord-vendéen	payant	Présent	Participe						100.2	LIEVRE Louis
+x	pe	poer	peyàe	VERB	Marais nord-vendéen	payé	Passé	Participe		sg	m			100.2	LIEVRE Louis
+x	pe	poer	peyàe	VERB	Marais nord-vendéen	payée	Passé	Participe		sg	f			100.2	LIEVRE Louis
+x	pes	poer	peyàe	VERB	Marais nord-vendéen	payés	Passé	Participe		pl	m			100.2	LIEVRE Louis
+x	pes	poer	peyàe	VERB	Marais nord-vendéen	payées	Passé	Participe		pl	f			100.2	LIEVRE Louis
+x	poejhe	poer	peyàe	VERB	Marais nord-vendéen	paye	Présent	Subjonctif	1.0	sg				100.2	LIEVRE Louis
+x	poejhes	poer	peyàe	VERB	Marais nord-vendéen	payes	Présent	Subjonctif	2.0	sg				100.2	LIEVRE Louis
+x	poejhe 	poer	peyàe	VERB	Marais nord-vendéen	paye	Présent	Subjonctif	3.0	sg				100.2	LIEVRE Louis
+x	poejhun	poer	peyàe	VERB	Marais nord-vendéen	payions	Présent	Subjonctif	1.0	pl				100.2	LIEVRE Louis
+x	poejhéz	poer	peyàe	VERB	Marais nord-vendéen	payiez	Présent	Subjonctif	2.0	pl				100.2	LIEVRE Louis
+x	poejhant	poer	peyàe	VERB	Marais nord-vendéen	payent	Présent	Subjonctif	3.0	pl				100.2	LIEVRE Louis
+x	poyijhe	poer	peyàe	VERB	Marais nord-vendéen	payasse	Imparfait	Subjonctif	1.0	sg				100.2	LIEVRE Louis
+x	poyijhes	poer	peyàe	VERB	Marais nord-vendéen	payasses	Imparfait	Subjonctif	2.0	sg				100.2	LIEVRE Louis
+x	poyijhe 	poer	peyàe	VERB	Marais nord-vendéen	payât	Imparfait	Subjonctif	3.0	sg				100.2	LIEVRE Louis
+x	poyijhun	poer	peyàe	VERB	Marais nord-vendéen	payassions	Imparfait	Subjonctif	1.0	pl				100.2	LIEVRE Louis
+x	poyijhéz	poer	peyàe	VERB	Marais nord-vendéen	payassiez	Imparfait	Subjonctif	2.0	pl				100.2	LIEVRE Louis
+x	poyijhant	poer	peyàe	VERB	Marais nord-vendéen	payassent	Imparfait	Subjonctif	3.0	pl				100.2	LIEVRE Louis
+x	ramenteveroe	ramentevoer	ramentevoer	VERB	Marais nord-vendéen	souviendrais	Présent	Conditionnel	1.0	sg				100.2	LIEVRE Louis
+x	ramenteveroes	ramentevoer	ramentevoer	VERB	Marais nord-vendéen	souviendrais	Présent	Conditionnel	2.0	sg				100.2	LIEVRE Louis
+x	ramenteveroét	ramentevoer	ramentevoer	VERB	Marais nord-vendéen	souviendrait	Présent	Conditionnel	3.0	sg				100.2	LIEVRE Louis
+x	ramenteveriun	ramentevoer	ramentevoer	VERB	Marais nord-vendéen	souviendrions	Présent	Conditionnel	1.0	pl				100.2	LIEVRE Louis
+x	ramenteveriéz	ramentevoer	ramentevoer	VERB	Marais nord-vendéen	souviendriez	Présent	Conditionnel	2.0	pl				100.2	LIEVRE Louis
+x	ramenteveriant	ramentevoer	ramentevoer	VERB	Marais nord-vendéen	souviendraient	Présent	Conditionnel	3.0	pl				100.2	LIEVRE Louis
+x	ramentevoe  	ramentevoer	ramentevoer	VERB	Marais nord-vendéen	souviens	Présent	Impératif	2.0	sg				100.2	LIEVRE Louis
+x	ramentevoyun 	ramentevoer	ramentevoer	VERB	Marais nord-vendéen	souvenons	Présent	Impératif	1.0	pl				100.2	LIEVRE Louis
+x	ramentevoyéz 	ramentevoer	ramentevoer	VERB	Marais nord-vendéen	souvenez	Présent	Impératif	2.0	pl				100.2	LIEVRE Louis
+x	ramentevoe	ramentevoer	ramentevoer	VERB	Marais nord-vendéen	souviens	Présent	Indicatif	1.0	sg				100.2	LIEVRE Louis
+x	ramentevoes	ramentevoer	ramentevoer	VERB	Marais nord-vendéen	souviens	Présent	Indicatif	2.0	sg				100.2	LIEVRE Louis
+x	ramentevoe 	ramentevoer	ramentevoer	VERB	Marais nord-vendéen	souvient	Présent	Indicatif	3.0	sg				100.2	LIEVRE Louis
+x	ramentevoyun	ramentevoer	ramentevoer	VERB	Marais nord-vendéen	souvenons	Présent	Indicatif	1.0	pl				100.2	LIEVRE Louis
+x	ramentevoyéz	ramentevoer	ramentevoer	VERB	Marais nord-vendéen	souvenez	Présent	Indicatif	2.0	pl				100.2	LIEVRE Louis
+x	ramentevoyant	ramentevoer	ramentevoer	VERB	Marais nord-vendéen	souviennent	Présent	Indicatif	3.0	pl				100.2	LIEVRE Louis
+x	ramentevoyi	ramentevoer	ramentevoer	VERB	Marais nord-vendéen	souvins	Passé simple	Indicatif	1.0	sg				100.2	LIEVRE Louis
+x	ramentevoyis	ramentevoer	ramentevoer	VERB	Marais nord-vendéen	souvins	Passé simple	Indicatif	2.0	sg				100.2	LIEVRE Louis
+x	ramentevoyit	ramentevoer	ramentevoer	VERB	Marais nord-vendéen	souvint	Passé simple	Indicatif	3.0	sg				100.2	LIEVRE Louis
+x	ramentevoyirun	ramentevoer	ramentevoer	VERB	Marais nord-vendéen	souvînmes	Passé simple	Indicatif	1.0	pl				100.2	LIEVRE Louis
+x	ramentevoyiréz	ramentevoer	ramentevoer	VERB	Marais nord-vendéen	souvîntes	Passé simple	Indicatif	2.0	pl				100.2	LIEVRE Louis
+x	ramentevoyirant	ramentevoer	ramentevoer	VERB	Marais nord-vendéen	souvinrent	Passé simple	Indicatif	3.0	pl				100.2	LIEVRE Louis
+x	ramentevoyoe	ramentevoer	ramentevoer	VERB	Marais nord-vendéen	souvenais	Imparfait	Indicatif	1.0	sg				100.2	LIEVRE Louis
+x	ramentevoyoes	ramentevoer	ramentevoer	VERB	Marais nord-vendéen	souvenais	Imparfait	Indicatif	2.0	sg				100.2	LIEVRE Louis
+x	ramentevoyoét	ramentevoer	ramentevoer	VERB	Marais nord-vendéen	souvenait	Imparfait	Indicatif	3.0	sg				100.2	LIEVRE Louis
+x	ramentevoyiun	ramentevoer	ramentevoer	VERB	Marais nord-vendéen	souvenions	Imparfait	Indicatif	1.0	pl				100.2	LIEVRE Louis
+x	ramentevoyiéz	ramentevoer	ramentevoer	VERB	Marais nord-vendéen	souveniez	Imparfait	Indicatif	2.0	pl				100.2	LIEVRE Louis
+x	ramentevoyiant	ramentevoer	ramentevoer	VERB	Marais nord-vendéen	souvenaient	Imparfait	Indicatif	3.0	pl				100.2	LIEVRE Louis
+x	ramentevoerae	ramentevoer	ramentevoer	VERB	Marais nord-vendéen	souviendrai	Futur	Indicatif	1.0	sg				100.2	LIEVRE Louis
+x	ramentevoeras	ramentevoer	ramentevoer	VERB	Marais nord-vendéen	souviendras	Futur	Indicatif	2.0	sg				100.2	LIEVRE Louis
+x	ramentevoerat	ramentevoer	ramentevoer	VERB	Marais nord-vendéen	souviendra	Futur	Indicatif	3.0	sg				100.2	LIEVRE Louis
+x	ramentevoerun	ramentevoer	ramentevoer	VERB	Marais nord-vendéen	souviendrons	Futur	Indicatif	1.0	pl				100.2	LIEVRE Louis
+x	ramentevoeréz	ramentevoer	ramentevoer	VERB	Marais nord-vendéen	souviendrez	Futur	Indicatif	2.0	pl				100.2	LIEVRE Louis
+x	ramentevoerant	ramentevoer	ramentevoer	VERB	Marais nord-vendéen	souviendront	Futur	Indicatif	3.0	pl				100.2	LIEVRE Louis
+	ramentevoer	ramentevoer	ramentevoer	VERB	Marais nord-vendéen	souvenir	Présent	Infinitif						100.2	PIVETEAU Vianney. 2021. Dicopoitevin
+x	ramentevyant 	ramentevoer	ramentevoer	VERB	Marais nord-vendéen	souvenant	Présent	Participe						100.2	LIEVRE Louis
+x	ramenteve	ramentevoer	ramentevoer	VERB	Marais nord-vendéen	souvenu	Passé	Participe		sg	m			100.2	LIEVRE Louis
+x	ramenteve	ramentevoer	ramentevoer	VERB	Marais nord-vendéen	souvenue	Passé	Participe		sg	f			100.2	LIEVRE Louis
+x	ramenteves	ramentevoer	ramentevoer	VERB	Marais nord-vendéen	souvenus	Passé	Participe		pl	m			100.2	LIEVRE Louis
+x	ramenteves	ramentevoer	ramentevoer	VERB	Marais nord-vendéen	souvenues	Passé	Participe		pl	f			100.2	LIEVRE Louis
+x	ramentevoejhe	ramentevoer	ramentevoer	VERB	Marais nord-vendéen	souvienne	Présent	Subjonctif	1.0	sg				100.2	LIEVRE Louis
+x	ramentevoejhes	ramentevoer	ramentevoer	VERB	Marais nord-vendéen	souviennes	Présent	Subjonctif	2.0	sg				100.2	LIEVRE Louis
+x	ramentevoejhe 	ramentevoer	ramentevoer	VERB	Marais nord-vendéen	souvienne	Présent	Subjonctif	3.0	sg				100.2	LIEVRE Louis
+x	ramentevoejhun	ramentevoer	ramentevoer	VERB	Marais nord-vendéen	souvenions	Présent	Subjonctif	1.0	pl				100.2	LIEVRE Louis
+x	ramentevoejhéz	ramentevoer	ramentevoer	VERB	Marais nord-vendéen	souveniez	Présent	Subjonctif	2.0	pl				100.2	LIEVRE Louis
+x	ramentevoejhant	ramentevoer	ramentevoer	VERB	Marais nord-vendéen	souviennent	Présent	Subjonctif	3.0	pl				100.2	LIEVRE Louis
+x	ramentevoyijhe	ramentevoer	ramentevoer	VERB	Marais nord-vendéen	souvinsse	Imparfait	Subjonctif	1.0	sg				100.2	LIEVRE Louis
+x	ramentevoyijhes	ramentevoer	ramentevoer	VERB	Marais nord-vendéen	souvinsses	Imparfait	Subjonctif	2.0	sg				100.2	LIEVRE Louis
+x	ramentevoyijhe 	ramentevoer	ramentevoer	VERB	Marais nord-vendéen	souvînt	Imparfait	Subjonctif	3.0	sg				100.2	LIEVRE Louis
+x	ramentevoyijhun	ramentevoer	ramentevoer	VERB	Marais nord-vendéen	souvinssions	Imparfait	Subjonctif	1.0	pl				100.2	LIEVRE Louis
+x	ramentevoyijhéz	ramentevoer	ramentevoer	VERB	Marais nord-vendéen	souvinssiez	Imparfait	Subjonctif	2.0	pl				100.2	LIEVRE Louis
+x	ramentevoyijhant	ramentevoer	ramentevoer	VERB	Marais nord-vendéen	souvinssent	Imparfait	Subjonctif	3.0	pl				100.2	LIEVRE Louis
+x	reroe	roer	reyàe (mirer les œufs)	VERB	Marais nord-vendéen	mirerais	Présent	Conditionnel	1.0	sg				100.2	LIEVRE Louis
+x	reroes	roer	reyàe (mirer les œufs)	VERB	Marais nord-vendéen	mirerais	Présent	Conditionnel	2.0	sg				100.2	LIEVRE Louis
+x	reroét	roer	reyàe (mirer les œufs)	VERB	Marais nord-vendéen	mirerait	Présent	Conditionnel	3.0	sg				100.2	LIEVRE Louis
+x	reriun	roer	reyàe (mirer les œufs)	VERB	Marais nord-vendéen	mirerions	Présent	Conditionnel	1.0	pl				100.2	LIEVRE Louis
+x	reriéz	roer	reyàe (mirer les œufs)	VERB	Marais nord-vendéen	mireriez	Présent	Conditionnel	2.0	pl				100.2	LIEVRE Louis
+x	reriant	roer	reyàe (mirer les œufs)	VERB	Marais nord-vendéen	mireraient	Présent	Conditionnel	3.0	pl				100.2	LIEVRE Louis
+x	roe  	roer	reyàe (mirer les œufs)	VERB	Marais nord-vendéen	mire	Présent	Impératif	2.0	sg				100.2	LIEVRE Louis
+x	royun 	roer	reyàe (mirer les œufs)	VERB	Marais nord-vendéen	mirons	Présent	Impératif	1.0	pl				100.2	LIEVRE Louis
+x	royéz 	roer	reyàe (mirer les œufs)	VERB	Marais nord-vendéen	mirez	Présent	Impératif	2.0	pl				100.2	LIEVRE Louis
+x	roe	roer	reyàe (mirer les œufs)	VERB	Marais nord-vendéen	mire	Présent	Indicatif	1.0	sg				100.2	LIEVRE Louis
+x	roes	roer	reyàe (mirer les œufs)	VERB	Marais nord-vendéen	mires	Présent	Indicatif	2.0	sg				100.2	LIEVRE Louis
+x	roe 	roer	reyàe (mirer les œufs)	VERB	Marais nord-vendéen	mire	Présent	Indicatif	3.0	sg				100.2	LIEVRE Louis
+x	royun	roer	reyàe (mirer les œufs)	VERB	Marais nord-vendéen	mirons	Présent	Indicatif	1.0	pl				100.2	LIEVRE Louis
+x	royéz	roer	reyàe (mirer les œufs)	VERB	Marais nord-vendéen	mirez	Présent	Indicatif	2.0	pl				100.2	LIEVRE Louis
+x	royant	roer	reyàe (mirer les œufs)	VERB	Marais nord-vendéen	mirent	Présent	Indicatif	3.0	pl				100.2	LIEVRE Louis
+x	royi	roer	reyàe (mirer les œufs)	VERB	Marais nord-vendéen	mirai	Passé simple	Indicatif	1.0	sg				100.2	LIEVRE Louis
+x	royis	roer	reyàe (mirer les œufs)	VERB	Marais nord-vendéen	miras	Passé simple	Indicatif	2.0	sg				100.2	LIEVRE Louis
+x	royit	roer	reyàe (mirer les œufs)	VERB	Marais nord-vendéen	mira	Passé simple	Indicatif	3.0	sg				100.2	LIEVRE Louis
+x	royirun	roer	reyàe (mirer les œufs)	VERB	Marais nord-vendéen	mirâmes	Passé simple	Indicatif	1.0	pl				100.2	LIEVRE Louis
+x	royiréz	roer	reyàe (mirer les œufs)	VERB	Marais nord-vendéen	mirâtes	Passé simple	Indicatif	2.0	pl				100.2	LIEVRE Louis
+x	royirant	roer	reyàe (mirer les œufs)	VERB	Marais nord-vendéen	mirèrent	Passé simple	Indicatif	3.0	pl				100.2	LIEVRE Louis
+x	royoe	roer	reyàe (mirer les œufs)	VERB	Marais nord-vendéen	mirais	Imparfait	Indicatif	1.0	sg				100.2	LIEVRE Louis
+x	royoes	roer	reyàe (mirer les œufs)	VERB	Marais nord-vendéen	mirais	Imparfait	Indicatif	2.0	sg				100.2	LIEVRE Louis
+x	royoét	roer	reyàe (mirer les œufs)	VERB	Marais nord-vendéen	mirait	Imparfait	Indicatif	3.0	sg				100.2	LIEVRE Louis
+x	royiun	roer	reyàe (mirer les œufs)	VERB	Marais nord-vendéen	mirions	Imparfait	Indicatif	1.0	pl				100.2	LIEVRE Louis
+x	royiéz	roer	reyàe (mirer les œufs)	VERB	Marais nord-vendéen	miriez	Imparfait	Indicatif	2.0	pl				100.2	LIEVRE Louis
+x	royiant	roer	reyàe (mirer les œufs)	VERB	Marais nord-vendéen	miraient	Imparfait	Indicatif	3.0	pl				100.2	LIEVRE Louis
+x	roerae	roer	reyàe (mirer les œufs)	VERB	Marais nord-vendéen	mirerai	Futur	Indicatif	1.0	sg				100.2	LIEVRE Louis
+x	roeras	roer	reyàe (mirer les œufs)	VERB	Marais nord-vendéen	mireras	Futur	Indicatif	2.0	sg				100.2	LIEVRE Louis
+x	roerat	roer	reyàe (mirer les œufs)	VERB	Marais nord-vendéen	mirera	Futur	Indicatif	3.0	sg				100.2	LIEVRE Louis
+x	roerun	roer	reyàe (mirer les œufs)	VERB	Marais nord-vendéen	mirerons	Futur	Indicatif	1.0	pl				100.2	LIEVRE Louis
+x	roeréz	roer	reyàe (mirer les œufs)	VERB	Marais nord-vendéen	mirerez	Futur	Indicatif	2.0	pl				100.2	LIEVRE Louis
+x	roerant	roer	reyàe (mirer les œufs)	VERB	Marais nord-vendéen	mireront	Futur	Indicatif	3.0	pl				100.2	LIEVRE Louis
+	roer	roer	reyàe (mirer les œufs)	VERB	Marais nord-vendéen	mirer les œufs	Présent	Infinitif						100.2	PIVETEAU Vianney. 2021. Dicopoitevin
+x	ryant 	roer	reyàe (mirer les œufs)	VERB	Marais nord-vendéen	mirant	Présent	Participe						100.2	LIEVRE Louis
+x	re	roer	reyàe (mirer les œufs)	VERB	Marais nord-vendéen	miré	Passé	Participe		sg	m			100.2	LIEVRE Louis
+x	re	roer	reyàe (mirer les œufs)	VERB	Marais nord-vendéen	mirée	Passé	Participe		sg	f			100.2	LIEVRE Louis
+x	res	roer	reyàe (mirer les œufs)	VERB	Marais nord-vendéen	mirés	Passé	Participe		pl	m			100.2	LIEVRE Louis
+x	res	roer	reyàe (mirer les œufs)	VERB	Marais nord-vendéen	mirées	Passé	Participe		pl	f			100.2	LIEVRE Louis
+x	roejhe	roer	reyàe (mirer les œufs)	VERB	Marais nord-vendéen	mire	Présent	Subjonctif	1.0	sg				100.2	LIEVRE Louis
+x	roejhes	roer	reyàe (mirer les œufs)	VERB	Marais nord-vendéen	mires	Présent	Subjonctif	2.0	sg				100.2	LIEVRE Louis
+x	roejhe 	roer	reyàe (mirer les œufs)	VERB	Marais nord-vendéen	mire	Présent	Subjonctif	3.0	sg				100.2	LIEVRE Louis
+x	roejhun	roer	reyàe (mirer les œufs)	VERB	Marais nord-vendéen	mirions	Présent	Subjonctif	1.0	pl				100.2	LIEVRE Louis
+x	roejhéz	roer	reyàe (mirer les œufs)	VERB	Marais nord-vendéen	miriez	Présent	Subjonctif	2.0	pl				100.2	LIEVRE Louis
+x	roejhant	roer	reyàe (mirer les œufs)	VERB	Marais nord-vendéen	mirent	Présent	Subjonctif	3.0	pl				100.2	LIEVRE Louis
+x	royijhe	roer	reyàe (mirer les œufs)	VERB	Marais nord-vendéen	mirasse	Imparfait	Subjonctif	1.0	sg				100.2	LIEVRE Louis
+x	royijhes	roer	reyàe (mirer les œufs)	VERB	Marais nord-vendéen	mirasses	Imparfait	Subjonctif	2.0	sg				100.2	LIEVRE Louis
+x	royijhe 	roer	reyàe (mirer les œufs)	VERB	Marais nord-vendéen	mirât	Imparfait	Subjonctif	3.0	sg				100.2	LIEVRE Louis
+x	royijhun	roer	reyàe (mirer les œufs)	VERB	Marais nord-vendéen	mirassions	Imparfait	Subjonctif	1.0	pl				100.2	LIEVRE Louis
+x	royijhéz	roer	reyàe (mirer les œufs)	VERB	Marais nord-vendéen	mirassiez	Imparfait	Subjonctif	2.0	pl				100.2	LIEVRE Louis
+x	royijhant	roer	reyàe (mirer les œufs)	VERB	Marais nord-vendéen	mirassent	Imparfait	Subjonctif	3.0	pl				100.2	LIEVRE Louis
+x	rouseroe	rousoer	égallàe	VERB	Marais nord-vendéen	arroserais	Présent	Conditionnel	1.0	sg				100.2	LIEVRE Louis
+x	rouseroes	rousoer	égallàe	VERB	Marais nord-vendéen	arroserais	Présent	Conditionnel	2.0	sg				100.2	LIEVRE Louis
+x	rouseroét	rousoer	égallàe	VERB	Marais nord-vendéen	arroserait	Présent	Conditionnel	3.0	sg				100.2	LIEVRE Louis
+x	rouseriun	rousoer	égallàe	VERB	Marais nord-vendéen	arroserions	Présent	Conditionnel	1.0	pl				100.2	LIEVRE Louis
+x	rouseriéz	rousoer	égallàe	VERB	Marais nord-vendéen	arroseriez	Présent	Conditionnel	2.0	pl				100.2	LIEVRE Louis
+x	rouseriant	rousoer	égallàe	VERB	Marais nord-vendéen	arroseraient	Présent	Conditionnel	3.0	pl				100.2	LIEVRE Louis
+x	rousoe  	rousoer	égallàe	VERB	Marais nord-vendéen	arrose	Présent	Impératif	2.0	sg				100.2	LIEVRE Louis
+x	rousoyun 	rousoer	égallàe	VERB	Marais nord-vendéen	arrosons	Présent	Impératif	1.0	pl				100.2	LIEVRE Louis
+x	rousoyéz 	rousoer	égallàe	VERB	Marais nord-vendéen	arrosez	Présent	Impératif	2.0	pl				100.2	LIEVRE Louis
+x	rousoe	rousoer	égallàe	VERB	Marais nord-vendéen	arrose	Présent	Indicatif	1.0	sg				100.2	LIEVRE Louis
+x	rousoes	rousoer	égallàe	VERB	Marais nord-vendéen	arroses	Présent	Indicatif	2.0	sg				100.2	LIEVRE Louis
+x	rousoe 	rousoer	égallàe	VERB	Marais nord-vendéen	arrose	Présent	Indicatif	3.0	sg				100.2	LIEVRE Louis
+x	rousoyun	rousoer	égallàe	VERB	Marais nord-vendéen	arrosons	Présent	Indicatif	1.0	pl				100.2	LIEVRE Louis
+x	rousoyéz	rousoer	égallàe	VERB	Marais nord-vendéen	arrosez	Présent	Indicatif	2.0	pl				100.2	LIEVRE Louis
+x	rousoyant	rousoer	égallàe	VERB	Marais nord-vendéen	arrosent	Présent	Indicatif	3.0	pl				100.2	LIEVRE Louis
+x	rousoyi	rousoer	égallàe	VERB	Marais nord-vendéen	arrosai	Passé simple	Indicatif	1.0	sg				100.2	LIEVRE Louis
+x	rousoyis	rousoer	égallàe	VERB	Marais nord-vendéen	arrosas	Passé simple	Indicatif	2.0	sg				100.2	LIEVRE Louis
+x	rousoyit	rousoer	égallàe	VERB	Marais nord-vendéen	arrosa	Passé simple	Indicatif	3.0	sg				100.2	LIEVRE Louis
+x	rousoyirun	rousoer	égallàe	VERB	Marais nord-vendéen	arrosâmes	Passé simple	Indicatif	1.0	pl				100.2	LIEVRE Louis
+x	rousoyiréz	rousoer	égallàe	VERB	Marais nord-vendéen	arrosâtes	Passé simple	Indicatif	2.0	pl				100.2	LIEVRE Louis
+x	rousoyirant	rousoer	égallàe	VERB	Marais nord-vendéen	arrosèrent	Passé simple	Indicatif	3.0	pl				100.2	LIEVRE Louis
+x	rousoyoe	rousoer	égallàe	VERB	Marais nord-vendéen	arrosais	Imparfait	Indicatif	1.0	sg				100.2	LIEVRE Louis
+x	rousoyoes	rousoer	égallàe	VERB	Marais nord-vendéen	arrosais	Imparfait	Indicatif	2.0	sg				100.2	LIEVRE Louis
+x	rousoyoét	rousoer	égallàe	VERB	Marais nord-vendéen	arrosait	Imparfait	Indicatif	3.0	sg				100.2	LIEVRE Louis
+x	rousoyiun	rousoer	égallàe	VERB	Marais nord-vendéen	arrosions	Imparfait	Indicatif	1.0	pl				100.2	LIEVRE Louis
+x	rousoyiéz	rousoer	égallàe	VERB	Marais nord-vendéen	arrosiez	Imparfait	Indicatif	2.0	pl				100.2	LIEVRE Louis
+x	rousoyiant	rousoer	égallàe	VERB	Marais nord-vendéen	arrosaient	Imparfait	Indicatif	3.0	pl				100.2	LIEVRE Louis
+x	rousoerae	rousoer	égallàe	VERB	Marais nord-vendéen	arroserai	Futur	Indicatif	1.0	sg				100.2	LIEVRE Louis
+x	rousoeras	rousoer	égallàe	VERB	Marais nord-vendéen	arroseras	Futur	Indicatif	2.0	sg				100.2	LIEVRE Louis
+x	rousoerat	rousoer	égallàe	VERB	Marais nord-vendéen	arrosera	Futur	Indicatif	3.0	sg				100.2	LIEVRE Louis
+x	rousoerun	rousoer	égallàe	VERB	Marais nord-vendéen	arroserons	Futur	Indicatif	1.0	pl				100.2	LIEVRE Louis
+x	rousoeréz	rousoer	égallàe	VERB	Marais nord-vendéen	arroserez	Futur	Indicatif	2.0	pl				100.2	LIEVRE Louis
+x	rousoerant	rousoer	égallàe	VERB	Marais nord-vendéen	arroseront	Futur	Indicatif	3.0	pl				100.2	LIEVRE Louis
+	rousoer	rousoer	égallàe	VERB	Marais nord-vendéen	arroser légèrement	Présent	Infinitif						100.2	PIVETEAU Vianney. 2021. Dicopoitevin
+x	rousyant 	rousoer	égallàe	VERB	Marais nord-vendéen	arrosant	Présent	Participe						100.2	LIEVRE Louis
+x	rouse	rousoer	égallàe	VERB	Marais nord-vendéen	arrosé	Passé	Participe		sg	m			100.2	LIEVRE Louis
+x	rouse	rousoer	égallàe	VERB	Marais nord-vendéen	arrosée	Passé	Participe		sg	f			100.2	LIEVRE Louis
+x	rouses	rousoer	égallàe	VERB	Marais nord-vendéen	arrosés	Passé	Participe		pl	m			100.2	LIEVRE Louis
+x	rouses	rousoer	égallàe	VERB	Marais nord-vendéen	arrosées	Passé	Participe		pl	f			100.2	LIEVRE Louis
+x	rousoejhe	rousoer	égallàe	VERB	Marais nord-vendéen	arrose	Présent	Subjonctif	1.0	sg				100.2	LIEVRE Louis
+x	rousoejhes	rousoer	égallàe	VERB	Marais nord-vendéen	arroses	Présent	Subjonctif	2.0	sg				100.2	LIEVRE Louis
+x	rousoejhe 	rousoer	égallàe	VERB	Marais nord-vendéen	arrose	Présent	Subjonctif	3.0	sg				100.2	LIEVRE Louis
+x	rousoejhun	rousoer	égallàe	VERB	Marais nord-vendéen	arrosions	Présent	Subjonctif	1.0	pl				100.2	LIEVRE Louis
+x	rousoejhéz	rousoer	égallàe	VERB	Marais nord-vendéen	arrosiez	Présent	Subjonctif	2.0	pl				100.2	LIEVRE Louis
+x	rousoejhant	rousoer	égallàe	VERB	Marais nord-vendéen	arrosent	Présent	Subjonctif	3.0	pl				100.2	LIEVRE Louis
+x	rousoyijhe	rousoer	égallàe	VERB	Marais nord-vendéen	arrosasse	Imparfait	Subjonctif	1.0	sg				100.2	LIEVRE Louis
+x	rousoyijhes	rousoer	égallàe	VERB	Marais nord-vendéen	arrosasses	Imparfait	Subjonctif	2.0	sg				100.2	LIEVRE Louis
+x	rousoyijhe 	rousoer	égallàe	VERB	Marais nord-vendéen	arrosât	Imparfait	Subjonctif	3.0	sg				100.2	LIEVRE Louis
+x	rousoyijhun	rousoer	égallàe	VERB	Marais nord-vendéen	arrosassions	Imparfait	Subjonctif	1.0	pl				100.2	LIEVRE Louis
+x	rousoyijhéz	rousoer	égallàe	VERB	Marais nord-vendéen	arrosassiez	Imparfait	Subjonctif	2.0	pl				100.2	LIEVRE Louis
+x	rousoyijhant	rousoer	égallàe	VERB	Marais nord-vendéen	arrosassent	Imparfait	Subjonctif	3.0	pl				100.2	LIEVRE Louis
+x	vogeroe	vogoer	vogoer	VERB	Marais nord-vendéen	tituberais	Présent	Conditionnel	1.0	sg				100.2	LIEVRE Louis
+x	vogeroes	vogoer	vogoer	VERB	Marais nord-vendéen	tituberais	Présent	Conditionnel	2.0	sg				100.2	LIEVRE Louis
+x	vogeroét	vogoer	vogoer	VERB	Marais nord-vendéen	tituberait	Présent	Conditionnel	3.0	sg				100.2	LIEVRE Louis
+x	vogeriun	vogoer	vogoer	VERB	Marais nord-vendéen	tituberions	Présent	Conditionnel	1.0	pl				100.2	LIEVRE Louis
+x	vogeriéz	vogoer	vogoer	VERB	Marais nord-vendéen	tituberiez	Présent	Conditionnel	2.0	pl				100.2	LIEVRE Louis
+x	vogeriant	vogoer	vogoer	VERB	Marais nord-vendéen	tituberaient	Présent	Conditionnel	3.0	pl				100.2	LIEVRE Louis
+x	vogoe  	vogoer	vogoer	VERB	Marais nord-vendéen	titube	Présent	Impératif	2.0	sg				100.2	LIEVRE Louis
+x	vogoyun 	vogoer	vogoer	VERB	Marais nord-vendéen	titubons	Présent	Impératif	1.0	pl				100.2	LIEVRE Louis
+x	vogoyéz 	vogoer	vogoer	VERB	Marais nord-vendéen	titubez	Présent	Impératif	2.0	pl				100.2	LIEVRE Louis
+x	vogoe	vogoer	vogoer	VERB	Marais nord-vendéen	titube	Présent	Indicatif	1.0	sg				100.2	LIEVRE Louis
+x	vogoes	vogoer	vogoer	VERB	Marais nord-vendéen	titubes	Présent	Indicatif	2.0	sg				100.2	LIEVRE Louis
+x	vogoe 	vogoer	vogoer	VERB	Marais nord-vendéen	titube	Présent	Indicatif	3.0	sg				100.2	LIEVRE Louis
+x	vogoyun	vogoer	vogoer	VERB	Marais nord-vendéen	titubons	Présent	Indicatif	1.0	pl				100.2	LIEVRE Louis
+x	vogoyéz	vogoer	vogoer	VERB	Marais nord-vendéen	titubez	Présent	Indicatif	2.0	pl				100.2	LIEVRE Louis
+x	vogoyant	vogoer	vogoer	VERB	Marais nord-vendéen	titubent	Présent	Indicatif	3.0	pl				100.2	LIEVRE Louis
+x	vogoyi	vogoer	vogoer	VERB	Marais nord-vendéen	titubai	Passé simple	Indicatif	1.0	sg				100.2	LIEVRE Louis
+x	vogoyis	vogoer	vogoer	VERB	Marais nord-vendéen	titubas	Passé simple	Indicatif	2.0	sg				100.2	LIEVRE Louis
+x	vogoyit	vogoer	vogoer	VERB	Marais nord-vendéen	tituba	Passé simple	Indicatif	3.0	sg				100.2	LIEVRE Louis
+x	vogoyirun	vogoer	vogoer	VERB	Marais nord-vendéen	titubâmes	Passé simple	Indicatif	1.0	pl				100.2	LIEVRE Louis
+x	vogoyiréz	vogoer	vogoer	VERB	Marais nord-vendéen	titubâtes	Passé simple	Indicatif	2.0	pl				100.2	LIEVRE Louis
+x	vogoyirant	vogoer	vogoer	VERB	Marais nord-vendéen	titubèrent	Passé simple	Indicatif	3.0	pl				100.2	LIEVRE Louis
+x	vogoyoe	vogoer	vogoer	VERB	Marais nord-vendéen	titubais	Imparfait	Indicatif	1.0	sg				100.2	LIEVRE Louis
+x	vogoyoes	vogoer	vogoer	VERB	Marais nord-vendéen	titubais	Imparfait	Indicatif	2.0	sg				100.2	LIEVRE Louis
+x	vogoyoét	vogoer	vogoer	VERB	Marais nord-vendéen	titubait	Imparfait	Indicatif	3.0	sg				100.2	LIEVRE Louis
+x	vogoyiun	vogoer	vogoer	VERB	Marais nord-vendéen	titubions	Imparfait	Indicatif	1.0	pl				100.2	LIEVRE Louis
+x	vogoyiéz	vogoer	vogoer	VERB	Marais nord-vendéen	titubiez	Imparfait	Indicatif	2.0	pl				100.2	LIEVRE Louis
+x	vogoyiant	vogoer	vogoer	VERB	Marais nord-vendéen	titubaient	Imparfait	Indicatif	3.0	pl				100.2	LIEVRE Louis
+x	vogoerae	vogoer	vogoer	VERB	Marais nord-vendéen	tituberai	Futur	Indicatif	1.0	sg				100.2	LIEVRE Louis
+x	vogoeras	vogoer	vogoer	VERB	Marais nord-vendéen	tituberas	Futur	Indicatif	2.0	sg				100.2	LIEVRE Louis
+x	vogoerat	vogoer	vogoer	VERB	Marais nord-vendéen	titubera	Futur	Indicatif	3.0	sg				100.2	LIEVRE Louis
+x	vogoerun	vogoer	vogoer	VERB	Marais nord-vendéen	tituberons	Futur	Indicatif	1.0	pl				100.2	LIEVRE Louis
+x	vogoeréz	vogoer	vogoer	VERB	Marais nord-vendéen	tituberez	Futur	Indicatif	2.0	pl				100.2	LIEVRE Louis
+x	vogoerant	vogoer	vogoer	VERB	Marais nord-vendéen	tituberont	Futur	Indicatif	3.0	pl				100.2	LIEVRE Louis
+	vogoer	vogoer	vogoer	VERB	Marais nord-vendéen	tituber	Présent	Infinitif						100.2	PIVETEAU Vianney. 2021. Dicopoitevin
+x	vogyant 	vogoer	vogoer	VERB	Marais nord-vendéen	titubant	Présent	Participe						100.2	LIEVRE Louis
+x	voge	vogoer	vogoer	VERB	Marais nord-vendéen	titubé	Passé	Participe		sg	m			100.2	LIEVRE Louis
+x	voge	vogoer	vogoer	VERB	Marais nord-vendéen	titubée	Passé	Participe		sg	f			100.2	LIEVRE Louis
+x	voges	vogoer	vogoer	VERB	Marais nord-vendéen	titubés	Passé	Participe		pl	m			100.2	LIEVRE Louis
+x	voges	vogoer	vogoer	VERB	Marais nord-vendéen	titubées	Passé	Participe		pl	f			100.2	LIEVRE Louis
+x	vogoejhe	vogoer	vogoer	VERB	Marais nord-vendéen	titube	Présent	Subjonctif	1.0	sg				100.2	LIEVRE Louis
+x	vogoejhes	vogoer	vogoer	VERB	Marais nord-vendéen	titubes	Présent	Subjonctif	2.0	sg				100.2	LIEVRE Louis
+x	vogoejhe 	vogoer	vogoer	VERB	Marais nord-vendéen	titube	Présent	Subjonctif	3.0	sg				100.2	LIEVRE Louis
+x	vogoejhun	vogoer	vogoer	VERB	Marais nord-vendéen	titubions	Présent	Subjonctif	1.0	pl				100.2	LIEVRE Louis
+x	vogoejhéz	vogoer	vogoer	VERB	Marais nord-vendéen	titubiez	Présent	Subjonctif	2.0	pl				100.2	LIEVRE Louis
+x	vogoejhant	vogoer	vogoer	VERB	Marais nord-vendéen	titubent	Présent	Subjonctif	3.0	pl				100.2	LIEVRE Louis
+x	vogoyijhe	vogoer	vogoer	VERB	Marais nord-vendéen	titubasse	Imparfait	Subjonctif	1.0	sg				100.2	LIEVRE Louis
+x	vogoyijhes	vogoer	vogoer	VERB	Marais nord-vendéen	titubasses	Imparfait	Subjonctif	2.0	sg				100.2	LIEVRE Louis
+x	vogoyijhe 	vogoer	vogoer	VERB	Marais nord-vendéen	titubât	Imparfait	Subjonctif	3.0	sg				100.2	LIEVRE Louis
+x	vogoyijhun	vogoer	vogoer	VERB	Marais nord-vendéen	titubassions	Imparfait	Subjonctif	1.0	pl				100.2	LIEVRE Louis
+x	vogoyijhéz	vogoer	vogoer	VERB	Marais nord-vendéen	titubassiez	Imparfait	Subjonctif	2.0	pl				100.2	LIEVRE Louis
+x	vogoyijhant	vogoer	vogoer	VERB	Marais nord-vendéen	titubassent	Imparfait	Subjonctif	3.0	pl				100.2	LIEVRE Louis
+x	émoeroe	émoer 	s'émoyàe	VERB	Marais nord-vendéen	déciderais	Présent	Conditionnel	1.0	sg				100.2	LIEVRE Louis
+x	émoeroes	émoer 	s'émoyàe	VERB	Marais nord-vendéen	déciderais	Présent	Conditionnel	2.0	sg				100.2	LIEVRE Louis
+x	émoeroét	émoer 	s'émoyàe	VERB	Marais nord-vendéen	déciderait	Présent	Conditionnel	3.0	sg				100.2	LIEVRE Louis
+x	émoeriun	émoer 	s'émoyàe	VERB	Marais nord-vendéen	déciderions	Présent	Conditionnel	1.0	pl				100.2	LIEVRE Louis
+x	émoeriéz	émoer 	s'émoyàe	VERB	Marais nord-vendéen	décideriez	Présent	Conditionnel	2.0	pl				100.2	LIEVRE Louis
+x	émoeriant	émoer 	s'émoyàe	VERB	Marais nord-vendéen	décideraient	Présent	Conditionnel	3.0	pl				100.2	LIEVRE Louis
+x	émoe  	émoer 	s'émoyàe	VERB	Marais nord-vendéen	décide	Présent	Impératif	2.0	sg				100.2	LIEVRE Louis
+x	émoyun 	émoer 	s'émoyàe	VERB	Marais nord-vendéen	décidons	Présent	Impératif	1.0	pl				100.2	LIEVRE Louis
+x	émoyéz 	émoer 	s'émoyàe	VERB	Marais nord-vendéen	décidez	Présent	Impératif	2.0	pl				100.2	LIEVRE Louis
+x	émoe	émoer 	s'émoyàe	VERB	Marais nord-vendéen	décide	Présent	Indicatif	1.0	sg				100.2	LIEVRE Louis
+x	émoes	émoer 	s'émoyàe	VERB	Marais nord-vendéen	décides	Présent	Indicatif	2.0	sg				100.2	LIEVRE Louis
+x	émoe 	émoer 	s'émoyàe	VERB	Marais nord-vendéen	décide	Présent	Indicatif	3.0	sg				100.2	LIEVRE Louis
+x	émoyun	émoer 	s'émoyàe	VERB	Marais nord-vendéen	décidons	Présent	Indicatif	1.0	pl				100.2	LIEVRE Louis
+x	émoyéz	émoer 	s'émoyàe	VERB	Marais nord-vendéen	décidez	Présent	Indicatif	2.0	pl				100.2	LIEVRE Louis
+x	émoyant	émoer 	s'émoyàe	VERB	Marais nord-vendéen	décident	Présent	Indicatif	3.0	pl				100.2	LIEVRE Louis
+x	émoyi	émoer 	s'émoyàe	VERB	Marais nord-vendéen	décidai	Passé simple	Indicatif	1.0	sg				100.2	LIEVRE Louis
+x	émoyis	émoer 	s'émoyàe	VERB	Marais nord-vendéen	décidas	Passé simple	Indicatif	2.0	sg				100.2	LIEVRE Louis
+x	émoyit	émoer 	s'émoyàe	VERB	Marais nord-vendéen	décida	Passé simple	Indicatif	3.0	sg				100.2	LIEVRE Louis
+x	émoyirun	émoer 	s'émoyàe	VERB	Marais nord-vendéen	décidâmes	Passé simple	Indicatif	1.0	pl				100.2	LIEVRE Louis
+x	émoyiréz	émoer 	s'émoyàe	VERB	Marais nord-vendéen	décidâtes	Passé simple	Indicatif	2.0	pl				100.2	LIEVRE Louis
+x	émoyirant	émoer 	s'émoyàe	VERB	Marais nord-vendéen	décidèrent	Passé simple	Indicatif	3.0	pl				100.2	LIEVRE Louis
+x	émoyoe	émoer 	s'émoyàe	VERB	Marais nord-vendéen	décidais	Imparfait	Indicatif	1.0	sg				100.2	LIEVRE Louis
+x	émoyoes	émoer 	s'émoyàe	VERB	Marais nord-vendéen	décidais	Imparfait	Indicatif	2.0	sg				100.2	LIEVRE Louis
+x	émoyoét	émoer 	s'émoyàe	VERB	Marais nord-vendéen	décidait	Imparfait	Indicatif	3.0	sg				100.2	LIEVRE Louis
+x	émoyiun	émoer 	s'émoyàe	VERB	Marais nord-vendéen	décidions	Imparfait	Indicatif	1.0	pl				100.2	LIEVRE Louis
+x	émoyiéz	émoer 	s'émoyàe	VERB	Marais nord-vendéen	décidiez	Imparfait	Indicatif	2.0	pl				100.2	LIEVRE Louis
+x	émoyiant	émoer 	s'émoyàe	VERB	Marais nord-vendéen	décidaient	Imparfait	Indicatif	3.0	pl				100.2	LIEVRE Louis
+x	émoerae	émoer 	s'émoyàe	VERB	Marais nord-vendéen	déciderai	Futur	Indicatif	1.0	sg				100.2	LIEVRE Louis
+x	émoeras	émoer 	s'émoyàe	VERB	Marais nord-vendéen	décideras	Futur	Indicatif	2.0	sg				100.2	LIEVRE Louis
+x	émoerat	émoer 	s'émoyàe	VERB	Marais nord-vendéen	décidera	Futur	Indicatif	3.0	sg				100.2	LIEVRE Louis
+x	émoerun	émoer 	s'émoyàe	VERB	Marais nord-vendéen	déciderons	Futur	Indicatif	1.0	pl				100.2	LIEVRE Louis
+x	émoeréz	émoer 	s'émoyàe	VERB	Marais nord-vendéen	déciderez	Futur	Indicatif	2.0	pl				100.2	LIEVRE Louis
+x	émoerant	émoer 	s'émoyàe	VERB	Marais nord-vendéen	décideront	Futur	Indicatif	3.0	pl				100.2	LIEVRE Louis
+	émoer 	émoer 	s'émoyàe	VERB	Marais nord-vendéen	décider	Présent	Infinitif						100.2	PIVETEAU Vianney. 2021. Dicopoitevin
+x	émoyant 	émoer 	s'émoyàe	VERB	Marais nord-vendéen	décidant	Présent	Participe						100.2	LIEVRE Louis
+x	émoe	émoer 	s'émoyàe	VERB	Marais nord-vendéen	décidé	Passé	Participe		sg	m			100.2	LIEVRE Louis
+x	émoe	émoer 	s'émoyàe	VERB	Marais nord-vendéen	décidée	Passé	Participe		sg	f			100.2	LIEVRE Louis
+x	émoes	émoer 	s'émoyàe	VERB	Marais nord-vendéen	décidés	Passé	Participe		pl	m			100.2	LIEVRE Louis
+x	émoes	émoer 	s'émoyàe	VERB	Marais nord-vendéen	décidées	Passé	Participe		pl	f			100.2	LIEVRE Louis
+x	émoejhe	émoer 	s'émoyàe	VERB	Marais nord-vendéen	décide	Présent	Subjonctif	1.0	sg				100.2	LIEVRE Louis
+x	émoejhes	émoer 	s'émoyàe	VERB	Marais nord-vendéen	décides	Présent	Subjonctif	2.0	sg				100.2	LIEVRE Louis
+x	émoejhe 	émoer 	s'émoyàe	VERB	Marais nord-vendéen	décide	Présent	Subjonctif	3.0	sg				100.2	LIEVRE Louis
+x	émoejhun	émoer 	s'émoyàe	VERB	Marais nord-vendéen	décidions	Présent	Subjonctif	1.0	pl				100.2	LIEVRE Louis
+x	émoejhéz	émoer 	s'émoyàe	VERB	Marais nord-vendéen	décidiez	Présent	Subjonctif	2.0	pl				100.2	LIEVRE Louis
+x	émoejhant	émoer 	s'émoyàe	VERB	Marais nord-vendéen	décident	Présent	Subjonctif	3.0	pl				100.2	LIEVRE Louis
+x	émoyijhe	émoer 	s'émoyàe	VERB	Marais nord-vendéen	décidasse	Imparfait	Subjonctif	1.0	sg				100.2	LIEVRE Louis
+x	émoyijhes	émoer 	s'émoyàe	VERB	Marais nord-vendéen	décidasses	Imparfait	Subjonctif	2.0	sg				100.2	LIEVRE Louis
+x	émoyijhe 	émoer 	s'émoyàe	VERB	Marais nord-vendéen	décidât	Imparfait	Subjonctif	3.0	sg				100.2	LIEVRE Louis
+x	émoyijhun	émoer 	s'émoyàe	VERB	Marais nord-vendéen	décidassions	Imparfait	Subjonctif	1.0	pl				100.2	LIEVRE Louis
+x	émoyijhéz	émoer 	s'émoyàe	VERB	Marais nord-vendéen	décidassiez	Imparfait	Subjonctif	2.0	pl				100.2	LIEVRE Louis
+x	émoyijhant	émoer 	s'émoyàe	VERB	Marais nord-vendéen	décidassent	Imparfait	Subjonctif	3.0	pl				100.2	LIEVRE Louis

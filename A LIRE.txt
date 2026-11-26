@@ -1,0 +1,38 @@
+Cette note a pour but d'expliquer chaque répertoire dans ce fichier ZIP : 
+
+⤷ Formes générées par groupe : Ce dossier regroupe les formes générées et glosées + les formes sans glose pour chaque groupe verbal
+	⤷ Groupe àe
+	⤷ Groupe ir(e)
+	⤷ Groupe oer
+	⤷ Groupe dre
+
+⤷ Lexiques générés : Ce dossier regroupe les différents lexiques générés 
+	⤷ exceptions : Regroupe les infinitifs qui n'ont pas été fléchis car ce sont des verbes irréguliers
+	⤷ FFPS : C'est l'entièreté du lexique, sa version finale
+	⤷ FFPG : C'est l'ensemble du lexique qui a été généré automatiquement
+	⤷ FFPSI : C'est l'ensemble du lexique qui a été créé manuellement (verbes irréguliers et certains verbes qui posaient souci avec le script sans réelle raison)
+	⤷ sans_glose : C'est l'ensemble des formes générées qui n'ont pas eu de gloses
+	⤷ sans_glose_sans_verbes_impersonnels : C'est l'ensemble des formes générées qui peuvent être attestables qui n'ont pas eu de gloses
+
+⤷ Lexiques utilisés : Ce dossier regroupe les différents lexiques poitevin-saintongeais et français utilisés pour le TER
+	⤷ Lexiques adaptés : Ce dossier regroupe les lexiques après avoir été réorganisés de manière à pouvoir être exploités
+		⤷ analog : Lexique français
+		⤷ dicopoitevin : Dictionnaire bilingue PS/FR
+		⤷ GLAFF : Lexique français
+		⤷ LEFFF : Lexique français
+	⤷ Lexiques bruts : Ce dossier regroupe les lexiques tels qu'ils ont été récupérés, sans modifications
+		⤷ dico16-etiq-restreint : = analog
+		⤷ dicopoitevin
+		⤷ glaff
+		⤷ lefff-3.4
+
+⤷ Test sur corpus : Ce dossier regroupe tous les fichiers ayant permis de tester le lexique généré sur un corpus
+	⤷ Textes pour comparaison : Contient les textes qui ont été utilisés pour récolter les formes verbales
+		⤷ _Contespopulairesgautiercourelu+ : Texte de Michel Gautier
+		⤷ A ras Nowak15.02.11cour : Texte d'Eric Nowak
+		⤷ alinbredoutilellduboisR2 : Texte d'Ulysse Dubois
+		⤷ comparaison : Fichier contenant toutes les formes verbales récoltées manuellement
+		⤷ enhautpoitoul1ambinouereINT : Texte de Lucien Racinoux
+	⤷ CA : Fichier contenant les formes verbales annotées du corpus avec lequel le test est fait
+	⤷ matched_tokens : Fichier contenant les formes verbales qui ont trouvé une correspondance dans les formes verbales annotées du corpus
+	⤷ unmatched_tokens : Fichier contenant les formes verbales qui n'ont pas trouvé de correspondance dans les formes verbales annotées du corpus
